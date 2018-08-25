@@ -1,6 +1,6 @@
 # Oblatum图标包
 
-> 这是一个基于[Nano IconPack](https://github.com/by-syk/NanoIconPack)的图标包，现已在[酷安](https://www.coolapk.com/apk/com.oblatum.iconpack)上架。
+> 这是一个基于[Blueprint](https://github.com/jahirfiquitiva/Blueprint)的图标包，现已在[酷安](https://www.coolapk.com/apk/com.oblatum.iconpack)上架。
 ---
 本仓库的内容主要是Oblatum图标包内的图标，并不是图标包程序本身，因此采用BY-CC4.0开源协议。
 

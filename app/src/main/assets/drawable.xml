@@ -21,19 +21,9 @@
     <version>1</version>
 
     <category title="New and Update" />
-        <item drawable="aloha" />
-        <item drawable="cmb" />
-        <item drawable="easy_share" />
-        <item drawable="google" />
-        <item drawable="google_pay" />
-        <item drawable="nevo" />
-        <item drawable="nokia_notes" />
-        <item drawable="nokia_smart_tuner" />
-        <item drawable="oneplus_message" />
-        <item drawable="oneplus_setting" />
-        <item drawable="power_clean" />
-        <item drawable="tmall" />
-        <item drawable="xiachufang" />
+        <item drawable="alipay" />
+        <item drawable="alipay_alt2" />
+        <item drawable="via" />
 
 
     <category title="Folders and Widgets" />
@@ -280,6 +270,8 @@
 <item drawable="aikan_reader" />
 <item drawable="airbattery" />
 <item drawable="alipay" />
+    <item drawable="alipay_alt" />
+    <item drawable="alipay_alt2" />
 <item drawable="ampere" />
 <item drawable="android_pay" />
 <item drawable="antutu" />
@@ -776,6 +768,7 @@
 <item drawable="vainglory" />
 <item drawable="vertical_book" />
 <item drawable="via" />
+    <item drawable="via_alt" />
 <item drawable="village" />
 <item drawable="viper4android" />
 <item drawable="viperfx" />
