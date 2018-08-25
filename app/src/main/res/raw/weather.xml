@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" key="background">
+        <drawable value="" res="ic_dynamic_weather_unknown"/>
+        <drawable value="1001" res="ic_dynamic_weather_sunny"/>
+        <drawable value="1002" res="ic_dynamic_weather_sunny"/>
+        <drawable value="1003" res="ic_dynamic_weather_cloudy"/>
+        <drawable value="1004" res="ic_dynamic_weather_overcast"/>
+        <drawable value="1005" res="ic_dynamic_weather_rain"/>
+        <drawable value="1006" res="ic_dynamic_weather_drizzle"/>
+        <drawable value="1007" res="ic_dynamic_weather_shower"/>
+        <drawable value="1008" res="ic_dynamic_weather_downpour"/>
+        <drawable value="1009" res="ic_dynamic_weather_rainstorm"/>
+        <drawable value="1010" res="ic_dynamic_weather_sleet"/>
+        <drawable value="1011" res="ic_dynamic_weather_snow"/>
+        <drawable value="1012" res="ic_dynamic_weather_snow"/>
+        <drawable value="1013" res="ic_dynamic_weather_snow"/>
+        <drawable value="1014" res="ic_dynamic_weather_snow"/>
+        <drawable value="1015" res="ic_dynamic_weather_thundershower"/>
+        <drawable value="1016" res="ic_dynamic_weather_sandstorm"/>
+        <drawable value="1017" res="ic_dynamic_weather_fog"/>
+        <drawable value="1018" res="ic_dynamic_weather_hurricane"/>
+        <drawable value="1019" res="ic_dynamic_weather_sandstorm"/>
+        <drawable value="9999" res="ic_dynamic_weather_unknown"/>
+    <item type="text" key="temp" alignX="left" alignY="center" offsetX="14dp" offsetY="10dp" textSize = "12dp" font="sans-serif" font_typeface="BOLD" color="white" shadowLayerX="1px" shadowLayerY="1px" shadowLayerRadius="1" shadowLayerColor="#F5F5F5" shadowLayerAlpha="0.059f"/>
+    </item>
+
+
+</resources>

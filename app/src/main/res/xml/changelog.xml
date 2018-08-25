@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <version title="v2.3.3" />
+    <item text="修复加群链接跳转问题" />
+    <item text="新增图标，新增新图标分类" />
+    <item text="修复历史遗留问题" />
+    <item text="限制邮件申请为每7天10个" />
+    <item text="扩充一加桌面动态时钟、日历适配" />
+    <item text="调整应用商店，修复aloha、花生地铁、斗鱼直播、Messenger Lite" />
+    <item text="" /> <!-- this one is empty and therefore ignored -->
+</resources>
