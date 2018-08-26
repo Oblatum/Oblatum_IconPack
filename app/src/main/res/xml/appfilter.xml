@@ -638,9 +638,7 @@
     <item component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}" drawable="ssrr" />
     <item component="ComponentInfo{com.chaozh.iReader/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="i_reader" />
     <item component="ComponentInfo{com.chaozh.iReaderFree/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="i_reader" />
-	<!-- 锤子便签 / Smartisan Notes -->
 	<item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}" drawable="smartisan_notes" />
-	<!-- 锤子便签 / Smartisan Notes -->
 	<item component="ComponentInfo{com.smartisanos.notes/com.smartisanos.notes.NotesActivity}" drawable="smartisan_notes" />
     <item component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="viperfx" />
     <item component="ComponentInfo{com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android}" drawable="viper4android" />
@@ -1090,7 +1088,6 @@
     <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word" />
     <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.word.WordActivity}" drawable="word" />
     <item component="ComponentInfo{com.jingyao.easybike/com.jingyao.easybike.presentation.ui.activity.SplashActivity}" drawable="hellobike" />
-	<!-- 子弹短信 / Bullet Message -->
     <item component="ComponentInfo{com.bullet.messenger/com.smartisan.flashim.main.activity.WelcomeActivity}" drawable="bullet_message" />
 	<item component="ComponentInfo{com.bullet.messenger/com.smartisan.flashim.main.activity.MainActivity}" drawable="bullet_message" />
     <item component="ComponentInfo{com.midea.ac.mideaair/com.midea.ac.mideaair.ui.home.FirstPageActivity}" drawable="midea_ac" />
@@ -1150,7 +1147,7 @@
     <item component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.view.activity.SplashActivity}" drawable="qq_ac" />
     <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sdmaid" />
     <item component="ComponentInfo{bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
-	<item component="ComponentInfo{ComponentInfo: bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
+	  <item component="ComponentInfo{ComponentInfo: bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
     <item component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity}" drawable="aikan_reader" />
     <item component="ComponentInfo{uk.co.disciplemedia.troyesivan/uk.co.disciplemedia.activity.StartupActivity}" drawable="troye_sivan" />
     <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashActivity}" drawable="today_s_headline" />
@@ -1161,42 +1158,26 @@
     <item component="ComponentInfo{com.miui.backup.transfer/com.miui.backup.ui.TransMainActivity}" drawable="move_to_miui" />
     <item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="miui_screenrecorder" />
     <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="miui_remote" />
-
     <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_duo" />
     <item component="ComponentInfo{melandru.lonicera/melandru.lonicera.activity.launch.LaunchActivity}" drawable="mint_bookkeeping" />
     <item component="ComponentInfo{gov.pianzong.androidnga/gov.pianzong.androidnga.activity.LoadingActivity}" drawable="nga" />
     <item component="ComponentInfo{com.example.administrator.searchpicturetool/com.example.administrator.searchpicturetool.launch.LaunchActivity}" drawable="searchpicturetool" />
     <item component="ComponentInfo{com.whatsapp/com.whatsapp.Main}" drawable="whatsapp" />
-    <!-- Aloha / Aloha -->
     <item component="ComponentInfo{com.wealoha.social/com.wealoha.live.liveshow.ui.startup.LaunchRouterActivity}" drawable="aloha" />
-    <!-- Aloha / Aloha -->
     <item component="ComponentInfo{com.enjoymeet.aloapp/com.enjoymeet.live.liveshow.ui.startup.LaunchRouterActivity}" drawable="aloha" />
-    <!-- 招商银行 / 招商银行 -->
     <item component="ComponentInfo{cmb.pb/cmb.pb.ui.PBInitActivity}" drawable="cmb" />
-    <!-- 互传 / EasyShare -->
     <item component="ComponentInfo{com.vivo.easyshare/com.vivo.easyshare.activity.SplashScreenActivity}" drawable="easy_share" />
-    <!-- Google Pay / Google Pay -->
     <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}" drawable="google_pay" />
-    <!-- Nevolution / Nevo -->
     <item component="ComponentInfo{com.oasisfeng.nevo/com.oasisfeng.nevo.SettingsActivity}" drawable="nevo" />
-    <!-- 手机管家 / Smart Tuner -->
     <item component="ComponentInfo{com.evenwell.systemdashboard.mobileassistant/com.evenwell.systemdashboard.MainActivity}" drawable="nokia_smart_tuner" />
-    <!-- 备忘录 / Note -->
     <item component="ComponentInfo{com.evenwell.android.memo/com.evenwell.android.memo.activity.MainActivity}" drawable="nokia_notes" />
-    <!-- 清理大师 / Power Clean -->
     <item component="ComponentInfo{com.lionmobi.powerclean/com.lionmobi.powerclean.activity.SplashActivity}" drawable="power_clean" />
-    <!-- 天猫 / TMall -->
     <item component="ComponentInfo{com.tmall.wireless/com.tmall.wireless.splash.TMSplashActivity}" drawable="tmall" />
-    <!-- 下厨房 / 下厨房 -->
     <item component="ComponentInfo{com.xiachufang/com.xiachufang.activity.StartPageActivity}" drawable="xiachufang" />
-	<!-- 花生地铁 / 花生地铁 -->
-	<item component="ComponentInfo{com.nfyg.hsbb/com.nfyg.hsbb.views.main.CoverActivity}" drawable="hsbb" />
-	<!-- 斗鱼直播 / 斗鱼直播 -->
-	<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyutcv" />
-	<!-- Lite / Messenger Lite -->
-	<item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger_lite" />
-	<!-- Lite / Lite -->
-	<item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="messenger_lite" />
+  	<item component="ComponentInfo{com.nfyg.hsbb/com.nfyg.hsbb.views.main.CoverActivity}" drawable="hsbb" />
+  	<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyutcv" />
+  	<item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger_lite" />
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="messenger_lite" />
 
 
 
@@ -1224,5 +1205,5 @@
     <item
         component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
         xml="gallery" />
-    
+
 </resources>
