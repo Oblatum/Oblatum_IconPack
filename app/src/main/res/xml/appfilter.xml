@@ -1147,7 +1147,7 @@
     <item component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.view.activity.SplashActivity}" drawable="qq_ac" />
     <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sdmaid" />
     <item component="ComponentInfo{bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
-	  <item component="ComponentInfo{ComponentInfo: bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
+	<item component="ComponentInfo{ComponentInfo: bin.mt.plus/l.ۛۘۖۛ}" drawable="mtglq" />
     <item component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity}" drawable="aikan_reader" />
     <item component="ComponentInfo{uk.co.disciplemedia.troyesivan/uk.co.disciplemedia.activity.StartupActivity}" drawable="troye_sivan" />
     <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashActivity}" drawable="today_s_headline" />
