@@ -475,6 +475,8 @@
     <item component="ComponentInfo{com.soft.blued/com.soft.blued.icon2}" drawable="blued" />
     <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="oneplus_calendar" />
     <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.HomepageActivity}" drawable="cainiao" />
+	<!-- 菜鸟裹裹 -->
+	<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
     <item component="ComponentInfo{com.android.settings/com.android.settings.GnSettingsTabActivity}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.GridSettings}" drawable="settings" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="settings" />
@@ -775,6 +777,8 @@
     <item component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
     <item component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
     <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
+	<!-- 扫描全能王 / CamScanner -->
+	<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner" />
     <item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity}" drawable="geometric_weather" />
     <item component="ComponentInfo{ml.puredark.hviewer/ml.puredark.hviewer.ui.activities.LockActivity}" drawable="h_viewer" />
     <item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern" />
@@ -819,6 +823,8 @@
     <item component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}" drawable="tmgp_cf" />
     <item component="ComponentInfo{yyc.xk/yyc.xk.MainActivity}" drawable="xk_wallpaper" />
     <item component="ComponentInfo{yyc.xk/.adview}" drawable="xk_wallpaper" />
+	<!-- 星空视频壁纸 -->
+	<item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
     <item component="ComponentInfo{com.ktls.fileinfo/com.ktls.fileinfo.MainSDClear}" drawable="sdcleaner" />
     <item component="ComponentInfo{cn.nubia.nubiashop/cn.nubia.nubiashop.ShopStartActivity}" drawable="nubia_store" />
     <item component="ComponentInfo{com.lovebizhi.wallpaper/com.lovebizhi.wallpaper.WelcomeActivity}" drawable="lovebizhi" />
@@ -1184,6 +1190,9 @@
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards" />
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="inbox" />
     <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle" />
+	<!-- 芒果TV / 芒果TV -->
+	<item component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity}" drawable="mangotv" />
+
 
 
     <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
