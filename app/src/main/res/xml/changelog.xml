@@ -15,12 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v2.3.3" />
-    <item text="修复加群链接跳转问题" />
-    <item text="新增图标，新增新图标分类" />
-    <item text="修复历史遗留问题" />
-    <item text="限制邮件申请为每7天10个" />
-    <item text="扩充一加桌面动态时钟、日历适配" />
-    <item text="调整应用商店，修复aloha、花生地铁、斗鱼直播、Messenger Lite" />
+    <version title="v2.3.4" />
+    <item text="添加新图标" />
+    <item text="修复部分图标适配问题" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
