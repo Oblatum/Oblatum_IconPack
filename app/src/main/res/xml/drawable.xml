@@ -231,6 +231,9 @@
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
 
+	<category title="BlackBerry" />
+		<item drawable="blackberry_launcher" />
+
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
 		<item drawable="benghuai3"/>
