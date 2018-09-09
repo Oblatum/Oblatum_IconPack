@@ -495,6 +495,7 @@
     <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="coolapk" />
     <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.DidiLoadDexActivity}" drawable="didi" />
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="didi" />
     <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity}" drawable="eswenjian" />
     <item component="ComponentInfo{com.qihoo.antivirus/com.qihoo.antivirus.ui.index.AppEnterActivity}" drawable="geek360" />
     <item component="ComponentInfo{com.lerist.go_hosts/com.lerist.gohosts.ui.activity.MainActivity}" drawable="gohosts" />
@@ -1184,7 +1185,9 @@
     <item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.LaunchActivity}" drawable="google_opinion_rewards" />
     <item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="inbox" />
     <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="kindle" />
-
+		<item component="ComponentInfo{com.baidu.netdisl/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk"/>
+		<item component="ComponentInfo{com.soft.blued/com.soft.blued.icon0}" drawable="blued"/>
+		<item component="ComponentInfo{com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity}" drawable="blackberry_launcher"/>
 
     <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
     <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
