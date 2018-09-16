@@ -33,8 +33,6 @@
 			<item>aide</item>
 			<item>aikan_reader</item>
 			<item>airbattery</item>
-			<item>alipay_alt</item>
-			<item>alipay_alt2</item>
 			<item>alipay</item>
 			<item>aloha</item>
 			<item>ampere</item>
@@ -45,13 +43,13 @@
 			<item>apk_store</item>
 			<item>apkpure</item>
 			<item>arcaea</item>
-			<item>aries_iconpack_lite</item>
 			<item>aries_iconpack</item>
-			<item>audiofx_1</item>
+			<item>aries_iconpack_lite</item>
 			<item>audiofx</item>
+			<item>audiofx_1</item>
 			<item>autohome</item>
-			<item>b612_jimeng</item>
 			<item>b612</item>
+			<item>b612_jimeng</item>
 			<item>baicizhan</item>
 			<item>baidu_browser</item>
 			<item>baidu_input</item>
@@ -64,19 +62,19 @@
 			<item>bar</item>
 			<item>bbs1024</item>
 			<item>benghuai3</item>
+			<item>bilibili</item>
 			<item>bilibili_1</item>
 			<item>bilibili_blue</item>
-			<item>bilibili_cover</item>
 			<item>bilibili_cover2</item>
 			<item>bilibili_cover3</item>
+			<item>bilibili_cover</item>
 			<item>bilibili_link</item>
-			<item>bilibili</item>
 			<item>blackblub</item>
-			<item>blued_1</item>
-			<item>blued_hook_1</item>
-			<item>blued_hook</item>
-			<item>blued_int</item>
 			<item>blued</item>
+			<item>blued_1</item>
+			<item>blued_hook</item>
+			<item>blued_hook_1</item>
+			<item>blued_int</item>
 			<item>bmap</item>
 			<item>boc</item>
 			<item>bookshelf</item>
@@ -90,19 +88,19 @@
 			<item>camera</item>
 			<item>camscanner</item>
 			<item>card_iconpack</item>
-			<item>cardboard_camera</item>
 			<item>cardboard</item>
+			<item>cardboard_camera</item>
 			<item>cbb</item>
 			<item>chinamobile</item>
 			<item>chinatelecom</item>
 			<item>chinaunicom</item>
+			<item>chrome</item>
 			<item>chrome_beta</item>
 			<item>chrome_canary</item>
 			<item>chrome_dev</item>
-			<item>chrome</item>
 			<item>chromium</item>
-			<item>cjzc_1</item>
 			<item>cjzc</item>
+			<item>cjzc_1</item>
 			<item>clash_of_clans</item>
 			<item>clash_royale</item>
 			<item>cliff</item>
@@ -128,8 +126,8 @@
 			<item>douyin</item>
 			<item>douyutv</item>
 			<item>download</item>
-			<item>drawer_1</item>
 			<item>drawer</item>
+			<item>drawer_1</item>
 			<item>duokan_reader</item>
 			<item>earth</item>
 			<item>easy_share</item>
@@ -168,11 +166,11 @@
 			<item>excel</item>
 			<item>facebook</item>
 			<item>feizhu</item>
-			<item>files_go</item>
 			<item>files</item>
+			<item>files_go</item>
+			<item>firefox</item>
 			<item>firefox_focus</item>
 			<item>firefox_nightly</item>
-			<item>firefox</item>
 			<item>fit</item>
 			<item>folder_google</item>
 			<item>folder_iconpack</item>
@@ -182,8 +180,8 @@
 			<item>folder_system</item>
 			<item>folder_xposed</item>
 			<item>fooview</item>
-			<item>fsbi_2</item>
 			<item>fsbi</item>
+			<item>fsbi_2</item>
 			<item>fusion_app</item>
 			<item>gallery</item>
 			<item>gameguardian</item>
@@ -195,6 +193,7 @@
 			<item>gmail</item>
 			<item>gohosts</item>
 			<item>goodseed</item>
+			<item>google</item>
 			<item>google_1</item>
 			<item>google_allo</item>
 			<item>google_assistant</item>
@@ -221,7 +220,6 @@
 			<item>google_translate</item>
 			<item>google_voice_search</item>
 			<item>google_wallpaper</item>
-			<item>google</item>
 			<item>googlecalendar</item>
 			<item>googleplay</item>
 			<item>gotokeep</item>
@@ -253,8 +251,8 @@
 			<item>iqiyi</item>
 			<item>it_home</item>
 			<item>javiewer</item>
-			<item>jd_jinrong</item>
 			<item>jd</item>
+			<item>jd_jinrong</item>
 			<item>jike</item>
 			<item>jmail</item>
 			<item>keep</item>
@@ -275,13 +273,15 @@
 			<item>mail_master</item>
 			<item>maimemo</item>
 			<item>mancamera</item>
+			<item>mangotv</item>
+			<item>mangotv_alt</item>
 			<item>manyou</item>
 			<item>mark_qrcode</item>
 			<item>meeye</item>
 			<item>meitu</item>
 			<item>meituan</item>
-			<item>message_1</item>
 			<item>message</item>
+			<item>message_1</item>
 			<item>messenger_lite</item>
 			<item>metro</item>
 			<item>mi_home</item>
@@ -312,15 +312,15 @@
 			<item>miui_wallet</item>
 			<item>miui_xiao_ai</item>
 			<item>mix_explorer</item>
-			<item>mjweather_light</item>
 			<item>mjweather</item>
+			<item>mjweather_light</item>
 			<item>mobai</item>
 			<item>mobile_collaboration</item>
 			<item>mobvoi</item>
 			<item>mokee_aegis</item>
 			<item>mokee_center</item>
-			<item>monument</item>
 			<item>monument2</item>
+			<item>monument</item>
 			<item>moonreader</item>
 			<item>move_to_miui</item>
 			<item>mtglq</item>
@@ -332,12 +332,12 @@
 			<item>nano</item>
 			<item>neoreader</item>
 			<item>netease_cartoonreader</item>
+			<item>netease_cloudmusic</item>
 			<item>netease_cloudmusic_0</item>
 			<item>netease_cloudmusic_1</item>
 			<item>netease_cloudmusic_2</item>
-			<item>netease_cloudmusic</item>
-			<item>netease_moba_bili</item>
 			<item>netease_moba</item>
+			<item>netease_moba_bili</item>
 			<item>netease_news</item>
 			<item>netease_uu</item>
 			<item>neteasemusic_lyrics_helper</item>
@@ -401,14 +401,14 @@
 			<item>outlook</item>
 			<item>pandatv</item>
 			<item>peini</item>
-			<item>phone_1</item>
 			<item>phone</item>
+			<item>phone_1</item>
 			<item>phonograph</item>
 			<item>photoeditor</item>
 			<item>picacg</item>
 			<item>pixiv</item>
-			<item>pixles_iconpack_1</item>
 			<item>pixles_iconpack</item>
+			<item>pixles_iconpack_1</item>
 			<item>pornhub</item>
 			<item>power_clean</item>
 			<item>powerpoint</item>
@@ -416,20 +416,20 @@
 			<item>psbc</item>
 			<item>pstouch</item>
 			<item>pubgm</item>
-			<item>pure_icon_pack_lite</item>
 			<item>pure_icon_pack</item>
+			<item>pure_icon_pack_lite</item>
 			<item>pure_weather</item>
 			<item>puretie</item>
 			<item>qcloud</item>
+			<item>qq</item>
 			<item>qq_1</item>
 			<item>qq_2</item>
 			<item>qq_ac</item>
 			<item>qq_browser</item>
 			<item>qq_jp</item>
 			<item>qq_music_local_player</item>
-			<item>qq</item>
-			<item>qqmail_1</item>
 			<item>qqmail</item>
+			<item>qqmail_1</item>
 			<item>qqmusic</item>
 			<item>qqtoken</item>
 			<item>qqzc</item>
@@ -453,10 +453,10 @@
 			<item>secretinput</item>
 			<item>seekbooks</item>
 			<item>setting</item>
-			<item>settings_1</item>
 			<item>settings</item>
-			<item>sh_inputs_1</item>
+			<item>settings_1</item>
 			<item>sh_inputs</item>
+			<item>sh_inputs_1</item>
 			<item>share</item>
 			<item>sharepoint</item>
 			<item>shenqi_browser</item>
@@ -470,8 +470,9 @@
 			<item>smartisan_onestep</item>
 			<item>smartisanos_mover</item>
 			<item>smzdm</item>
-			<item>snapseed_1</item>
+			<item>snailread_alt</item>
 			<item>snapseed</item>
+			<item>snapseed_1</item>
 			<item>snapvpn</item>
 			<item>soap</item>
 			<item>sony_ar_effect</item>
@@ -489,20 +490,20 @@
 			<item>ss</item>
 			<item>ssr</item>
 			<item>ssrr</item>
-			<item>steam_lite</item>
 			<item>steam</item>
+			<item>steam_lite</item>
 			<item>stocard</item>
 			<item>substratum</item>
 			<item>super_class_schedule</item>
 			<item>superstar</item>
 			<item>supersu</item>
 			<item>t_12306</item>
+			<item>taobao</item>
 			<item>taobao_islefish</item>
 			<item>taobao_movie</item>
-			<item>taobao</item>
 			<item>taptap</item>
-			<item>telegram_x</item>
 			<item>telegram</item>
+			<item>telegram_x</item>
 			<item>tencent_filemanager</item>
 			<item>tencent_karaoke</item>
 			<item>tencent_maps</item>
@@ -526,9 +527,9 @@
 			<item>tumblr</item>
 			<item>twitter</item>
 			<item>twrp</item>
+			<item>uc_browser</item>
 			<item>uc_browser_1</item>
 			<item>uc_browser_2</item>
-			<item>uc_browser</item>
 			<item>vainglory</item>
 			<item>vertical_book</item>
 			<item>via</item>
@@ -540,17 +541,17 @@
 			<item>wakeup</item>
 			<item>weather</item>
 			<item>weibo</item>
-			<item>weixin_1</item>
 			<item>weixin</item>
+			<item>weixin_1</item>
 			<item>whatsapp</item>
 			<item>wifilocating</item>
 			<item>wikipedia</item>
 			<item>word</item>
 			<item>wps_office</item>
+			<item>wzry</item>
 			<item>wzry_1</item>
 			<item>wzry_beta</item>
 			<item>wzry_helper</item>
-			<item>wzry</item>
 			<item>xbj</item>
 			<item>xbox</item>
 			<item>xbrowser</item>
@@ -577,12 +578,12 @@
 			<item>youku</item>
 			<item>youtube</item>
 			<item>yunduo_nighttools</item>
-			<item>yys_1</item>
 			<item>yys</item>
+			<item>yys_1</item>
 			<item>yyszs</item>
 			<item>zarchiver</item>
-			<item>zhihu_daily</item>
 			<item>zhihu</item>
+			<item>zhihu_daily</item>
 			<item>zhuishu</item>
     </string-array>
 
@@ -616,13 +617,13 @@
 			<item>apk_store</item>
 			<item>apkpure</item>
 			<item>arcaea</item>
-			<item>aries_iconpack_lite</item>
 			<item>aries_iconpack</item>
-			<item>audiofx_1</item>
+			<item>aries_iconpack_lite</item>
 			<item>audiofx</item>
+			<item>audiofx_1</item>
 			<item>autohome</item>
-			<item>b612_jimeng</item>
 			<item>b612</item>
+			<item>b612_jimeng</item>
 			<item>baicizhan</item>
 			<item>baidu_browser</item>
 			<item>baidu_input</item>
@@ -635,19 +636,19 @@
 			<item>bar</item>
 			<item>bbs1024</item>
 			<item>benghuai3</item>
+			<item>bilibili</item>
 			<item>bilibili_1</item>
 			<item>bilibili_blue</item>
-			<item>bilibili_cover</item>
 			<item>bilibili_cover2</item>
 			<item>bilibili_cover3</item>
+			<item>bilibili_cover</item>
 			<item>bilibili_link</item>
-			<item>bilibili</item>
 			<item>blackblub</item>
-			<item>blued_1</item>
-			<item>blued_hook_1</item>
-			<item>blued_hook</item>
-			<item>blued_int</item>
 			<item>blued</item>
+			<item>blued_1</item>
+			<item>blued_hook</item>
+			<item>blued_hook_1</item>
+			<item>blued_int</item>
 			<item>bmap</item>
 			<item>boc</item>
 			<item>bookshelf</item>
@@ -661,19 +662,19 @@
 			<item>camera</item>
 			<item>camscanner</item>
 			<item>card_iconpack</item>
-			<item>cardboard_camera</item>
 			<item>cardboard</item>
+			<item>cardboard_camera</item>
 			<item>cbb</item>
 			<item>chinamobile</item>
 			<item>chinatelecom</item>
 			<item>chinaunicom</item>
+			<item>chrome</item>
 			<item>chrome_beta</item>
 			<item>chrome_canary</item>
 			<item>chrome_dev</item>
-			<item>chrome</item>
 			<item>chromium</item>
-			<item>cjzc_1</item>
 			<item>cjzc</item>
+			<item>cjzc_1</item>
 			<item>clash_of_clans</item>
 			<item>clash_royale</item>
 			<item>cliff</item>
@@ -699,8 +700,8 @@
 			<item>douyin</item>
 			<item>douyutv</item>
 			<item>download</item>
-			<item>drawer_1</item>
 			<item>drawer</item>
+			<item>drawer_1</item>
 			<item>duokan_reader</item>
 			<item>earth</item>
 			<item>easy_share</item>
@@ -739,11 +740,11 @@
 			<item>excel</item>
 			<item>facebook</item>
 			<item>feizhu</item>
-			<item>files_go</item>
 			<item>files</item>
+			<item>files_go</item>
+			<item>firefox</item>
 			<item>firefox_focus</item>
 			<item>firefox_nightly</item>
-			<item>firefox</item>
 			<item>fit</item>
 			<item>folder_google</item>
 			<item>folder_iconpack</item>
@@ -753,8 +754,8 @@
 			<item>folder_system</item>
 			<item>folder_xposed</item>
 			<item>fooview</item>
-			<item>fsbi_2</item>
 			<item>fsbi</item>
+			<item>fsbi_2</item>
 			<item>fusion_app</item>
 			<item>gallery</item>
 			<item>gameguardian</item>
@@ -766,6 +767,7 @@
 			<item>gmail</item>
 			<item>gohosts</item>
 			<item>goodseed</item>
+			<item>google</item>
 			<item>google_1</item>
 			<item>google_allo</item>
 			<item>google_assistant</item>
@@ -792,7 +794,6 @@
 			<item>google_translate</item>
 			<item>google_voice_search</item>
 			<item>google_wallpaper</item>
-			<item>google</item>
 			<item>googlecalendar</item>
 			<item>googleplay</item>
 			<item>gotokeep</item>
@@ -824,8 +825,8 @@
 			<item>iqiyi</item>
 			<item>it_home</item>
 			<item>javiewer</item>
-			<item>jd_jinrong</item>
 			<item>jd</item>
+			<item>jd_jinrong</item>
 			<item>jike</item>
 			<item>jmail</item>
 			<item>keep</item>
@@ -846,13 +847,15 @@
 			<item>mail_master</item>
 			<item>maimemo</item>
 			<item>mancamera</item>
+			<item>mangotv</item>
+			<item>mangotv_alt</item>
 			<item>manyou</item>
 			<item>mark_qrcode</item>
 			<item>meeye</item>
 			<item>meitu</item>
 			<item>meituan</item>
-			<item>message_1</item>
 			<item>message</item>
+			<item>message_1</item>
 			<item>messenger_lite</item>
 			<item>metro</item>
 			<item>mi_home</item>
@@ -883,15 +886,15 @@
 			<item>miui_wallet</item>
 			<item>miui_xiao_ai</item>
 			<item>mix_explorer</item>
-			<item>mjweather_light</item>
 			<item>mjweather</item>
+			<item>mjweather_light</item>
 			<item>mobai</item>
 			<item>mobile_collaboration</item>
 			<item>mobvoi</item>
 			<item>mokee_aegis</item>
 			<item>mokee_center</item>
-			<item>monument</item>
 			<item>monument2</item>
+			<item>monument</item>
 			<item>moonreader</item>
 			<item>move_to_miui</item>
 			<item>mtglq</item>
@@ -903,12 +906,12 @@
 			<item>nano</item>
 			<item>neoreader</item>
 			<item>netease_cartoonreader</item>
+			<item>netease_cloudmusic</item>
 			<item>netease_cloudmusic_0</item>
 			<item>netease_cloudmusic_1</item>
 			<item>netease_cloudmusic_2</item>
-			<item>netease_cloudmusic</item>
-			<item>netease_moba_bili</item>
 			<item>netease_moba</item>
+			<item>netease_moba_bili</item>
 			<item>netease_news</item>
 			<item>netease_uu</item>
 			<item>neteasemusic_lyrics_helper</item>
@@ -972,14 +975,14 @@
 			<item>outlook</item>
 			<item>pandatv</item>
 			<item>peini</item>
-			<item>phone_1</item>
 			<item>phone</item>
+			<item>phone_1</item>
 			<item>phonograph</item>
 			<item>photoeditor</item>
 			<item>picacg</item>
 			<item>pixiv</item>
-			<item>pixles_iconpack_1</item>
 			<item>pixles_iconpack</item>
+			<item>pixles_iconpack_1</item>
 			<item>pornhub</item>
 			<item>power_clean</item>
 			<item>powerpoint</item>
@@ -987,20 +990,20 @@
 			<item>psbc</item>
 			<item>pstouch</item>
 			<item>pubgm</item>
-			<item>pure_icon_pack_lite</item>
 			<item>pure_icon_pack</item>
+			<item>pure_icon_pack_lite</item>
 			<item>pure_weather</item>
 			<item>puretie</item>
 			<item>qcloud</item>
+			<item>qq</item>
 			<item>qq_1</item>
 			<item>qq_2</item>
 			<item>qq_ac</item>
 			<item>qq_browser</item>
 			<item>qq_jp</item>
 			<item>qq_music_local_player</item>
-			<item>qq</item>
-			<item>qqmail_1</item>
 			<item>qqmail</item>
+			<item>qqmail_1</item>
 			<item>qqmusic</item>
 			<item>qqtoken</item>
 			<item>qqzc</item>
@@ -1024,10 +1027,10 @@
 			<item>secretinput</item>
 			<item>seekbooks</item>
 			<item>setting</item>
-			<item>settings_1</item>
 			<item>settings</item>
-			<item>sh_inputs_1</item>
+			<item>settings_1</item>
 			<item>sh_inputs</item>
+			<item>sh_inputs_1</item>
 			<item>share</item>
 			<item>sharepoint</item>
 			<item>shenqi_browser</item>
@@ -1041,8 +1044,9 @@
 			<item>smartisan_onestep</item>
 			<item>smartisanos_mover</item>
 			<item>smzdm</item>
-			<item>snapseed_1</item>
+			<item>snailread_alt</item>
 			<item>snapseed</item>
+			<item>snapseed_1</item>
 			<item>snapvpn</item>
 			<item>soap</item>
 			<item>sony_ar_effect</item>
@@ -1060,20 +1064,20 @@
 			<item>ss</item>
 			<item>ssr</item>
 			<item>ssrr</item>
-			<item>steam_lite</item>
 			<item>steam</item>
+			<item>steam_lite</item>
 			<item>stocard</item>
 			<item>substratum</item>
 			<item>super_class_schedule</item>
 			<item>superstar</item>
 			<item>supersu</item>
 			<item>t_12306</item>
+			<item>taobao</item>
 			<item>taobao_islefish</item>
 			<item>taobao_movie</item>
-			<item>taobao</item>
 			<item>taptap</item>
-			<item>telegram_x</item>
 			<item>telegram</item>
+			<item>telegram_x</item>
 			<item>tencent_filemanager</item>
 			<item>tencent_karaoke</item>
 			<item>tencent_maps</item>
@@ -1097,9 +1101,9 @@
 			<item>tumblr</item>
 			<item>twitter</item>
 			<item>twrp</item>
+			<item>uc_browser</item>
 			<item>uc_browser_1</item>
 			<item>uc_browser_2</item>
-			<item>uc_browser</item>
 			<item>vainglory</item>
 			<item>vertical_book</item>
 			<item>via</item>
@@ -1111,17 +1115,17 @@
 			<item>wakeup</item>
 			<item>weather</item>
 			<item>weibo</item>
-			<item>weixin_1</item>
 			<item>weixin</item>
+			<item>weixin_1</item>
 			<item>whatsapp</item>
 			<item>wifilocating</item>
 			<item>wikipedia</item>
 			<item>word</item>
 			<item>wps_office</item>
+			<item>wzry</item>
 			<item>wzry_1</item>
 			<item>wzry_beta</item>
 			<item>wzry_helper</item>
-			<item>wzry</item>
 			<item>xbj</item>
 			<item>xbox</item>
 			<item>xbrowser</item>
@@ -1148,12 +1152,12 @@
 			<item>youku</item>
 			<item>youtube</item>
 			<item>yunduo_nighttools</item>
-			<item>yys_1</item>
 			<item>yys</item>
+			<item>yys_1</item>
 			<item>yyszs</item>
 			<item>zarchiver</item>
-			<item>zhihu_daily</item>
 			<item>zhihu</item>
+			<item>zhihu_daily</item>
 			<item>zhuishu</item>
     </string-array>
 
