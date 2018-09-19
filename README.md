@@ -1,6 +1,5 @@
 # Oblatum图标包
 
-[![Build Status](https://travis-ci.org/Butanediol/Oblatum_IconPack.svg?branch=master)](https://travis-ci.org/Butanediol/Oblatum_IconPack)
 
 > 这是一个基于[Blueprint](https://github.com/jahirfiquitiva/Blueprint)的图标包，现已在[酷安](https://www.coolapk.com/apk/com.oblatum.iconpack)上架。
 ---
