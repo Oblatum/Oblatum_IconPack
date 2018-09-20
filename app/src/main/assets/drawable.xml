@@ -234,6 +234,9 @@
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
 
+	<category title="BlackBerry" />
+		<item drawable="blackberry_launcher" />
+
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
 		<item drawable="benghuai3"/>
@@ -478,6 +481,7 @@
 		<item drawable="h_viewer" />
 		<item drawable="hangouts" />
 		<item drawable="happy_browser" />
+		<item drawable="hdzuoye" />
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
 		<item drawable="hola" />
@@ -641,9 +645,11 @@
 		<item drawable="oneplus_gallery_day" />
 		<item drawable="oneplus_gallery_night" />
 		<item drawable="oneplus_market" />
+		<item drawable="oneplus_message" />
 		<item drawable="oneplus_music" />
 		<item drawable="oneplus_note" />
 		<item drawable="oneplus_opbugreport" />
+		<item drawable="oneplus_setting" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
 		<item drawable="oppo_compass" />

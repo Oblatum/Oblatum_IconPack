@@ -645,9 +645,11 @@
 		<item drawable="oneplus_gallery_day" />
 		<item drawable="oneplus_gallery_night" />
 		<item drawable="oneplus_market" />
+		<item drawable="oneplus_message" />
 		<item drawable="oneplus_music" />
 		<item drawable="oneplus_note" />
 		<item drawable="oneplus_opbugreport" />
+		<item drawable="oneplus_setting" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
 		<item drawable="oppo_compass" />

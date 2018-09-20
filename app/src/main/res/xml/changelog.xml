@@ -15,8 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v2.3.4" />
-    <item text="添加新图标" />
-    <item text="修复部分图标适配问题" />
+    <version title="v2.3.5" />
+    <item text="修复部分图标展示问题" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
