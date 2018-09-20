@@ -3,9 +3,9 @@
 ![https://www.coolapk.com/apk/com.oblatum.iconpack](https://img.shields.io/badge/download-coolapk-brightgreen.svg)
 ![](https://img.shields.io/github/license/Oblatum/Oblatum_IconPack.svg)
 ![](https://img.shields.io/badge/api-16+-green.svg)
-![](https://img.shields.io/badge/release-2.3.4-green.svg)
-![](https://img.shields.io/badge/icons-550-orange.svg)
-![](https://img.shields.io/badge/donate-Alipay|WeChat|TenPay-blue.svg)
+![](https://img.shields.io/badge/release-2.3.6-green.svg)
+![](https://img.shields.io/badge/icons-558-orange.svg)
+![http://pay.hotapp.cn/25674636](https://img.shields.io/badge/donate-Alipay|WeChat|TenPay-blue.svg)
 
 > 这是一个基于[Blueprint](https://github.com/jahirfiquitiva/Blueprint)的图标包，现已在[酷安](https://www.coolapk.com/apk/com.oblatum.iconpack)上架。
 

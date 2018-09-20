@@ -1193,28 +1193,18 @@
 		<item component="ComponentInfo{com.soft.blued/com.soft.blued.icon0}" drawable="blued"/>
 		<item component="ComponentInfo{com.v.study/com.v.zy.mobile.activity.VZyJumpActivity}" drawable="hdzuoye"/>
 		<item component="ComponentInfo{com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity}" drawable="blackberry_launcher"/>
-		<!-- Apple Music / Apple Music -->
 		<item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music" />
-		<!-- 倒带 / 倒带 -->
 		<item component="ComponentInfo{com.kuss.rewind/com.kuss.rewind.MainActivity}" drawable="daodai" />
-		<!-- 第一弹 / 第一弹 -->
 		<item component="ComponentInfo{com.diyidan/com.diyidan.activity.SplashActivity}" drawable="diyidan" />
-		<!-- 第一弹 / 第一弹 -->
 		<item component="ComponentInfo{com.diyidan/com.diyidan.ui.launcher.LauncherActivity}" drawable="diyidan" />
-		<!-- MOMO陌陌 / Momo -->
 		<item component="ComponentInfo{com.immomo.momo/com.immomo.momo.android.activity.WelcomeActivity}" drawable="momo" />
-		<!-- 魔兽世界助手 / WoW Companion -->
 		<item component="ComponentInfo{com.blizzard.wowcompanion/com.blizzard.wowcompanion.CompanionNativeActivity}" drawable="moshouzhushou" />
-		<!-- QQ输入法 / QQ输入法 -->
 		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}" drawable="qq_imputs" />
-		<!-- Z直播 / zlive -->
 		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}" drawable="z_live" />
-		<!--Snap-->
-		<item component="ComponentInfo{ com.marginz.snap/com.marginz.camera.CameraLauncher}" drawable="snap" />
-		<!-- 浙江移动手机营业厅 -->
+		<item component="ComponentInfo{com.marginz.snap/com.marginz.camera.CameraLauncher}" drawable="snap" />
 		<item component="ComponentInfo{com.example.businesshall/com.businesshall.activity.NewLogoActivity}" drawable="chinamobile"/>
-		<!-- 菜鸟裹裹 --> <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
-		<!-- 星空视频壁纸 --> <item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
+		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
+		<item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
 
 
 
