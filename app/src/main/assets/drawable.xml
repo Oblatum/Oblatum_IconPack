@@ -21,18 +21,17 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="alipay" />
-		<item drawable="alipay_alt2" />
-		<item drawable="baidu_homework" />
-		<item drawable="google_opinion_rewards" />
-		<item drawable="inbox" />
-		<item drawable="kindle" />
-		<item drawable="mangotv"/>
-		<item drawable="mangotv_alt"/>
-		<item drawable="snailread" />
-		<item drawable="snailread_alt"/>
-		<item drawable="speadtest" />
-		<item drawable="via" />
+	<item drawable="apple_music" />
+	<item drawable="daodai" />
+	<item drawable="diyidan" />
+	<item drawable="momo" />
+	<item drawable="moshouzhushou" />
+	<item drawable="oblatum_mid_autumn_festival" />
+	<item drawable="oblatum_square" />
+	<item drawable="phone" />
+	<item drawable="qq_inputs" />
+	<item drawable="snap" />
+	<item drawable="z_live" />
 
 
 	<category title="Folders and Widgets" />
@@ -294,6 +293,7 @@
 		<item drawable="apex" />
 		<item drawable="apk_store" />
 		<item drawable="apkpure" />
+		<item drawable="apple_music" />
 		<item drawable="arcaea" />
 		<item drawable="aries_iconpack" />
 		<item drawable="aries_iconpack_lite" />
@@ -364,6 +364,7 @@
 		<item drawable="countcheck" />
 		<item drawable="ctrip" />
 		<item drawable="dancing_line" />
+		<item drawable="daodai" />
 		<item drawable="data_monitor" />
 		<item drawable="daydream" />
 		<item drawable="delve" />
@@ -373,6 +374,7 @@
 		<item drawable="ding_talk" />
 		<item drawable="dir" />
 		<item drawable="discord" />
+		<item drawable="diyidan" />
 		<item drawable="dizzypassword" />
 		<item drawable="douban" />
 		<item drawable="douyin" />
@@ -458,6 +460,7 @@
 		<item drawable="google_message" />
 		<item drawable="google_now_launcher" />
 		<item drawable="google_opinion_rewards" />
+		<item drawable="google_pay" />
 		<item drawable="google_phone" />
 		<item drawable="google_photo" />
 		<item drawable="google_photos" />
@@ -575,9 +578,11 @@
 		<item drawable="mobvoi" />
 		<item drawable="mokee_aegis" />
 		<item drawable="mokee_center" />
+		<item drawable="momo" />
 		<item drawable="monument" />
 		<item drawable="monument2" />
 		<item drawable="moonreader" />
+		<item drawable="moshouzhushou" />
 		<item drawable="move_to_miui" />
 		<item drawable="mtglq" />
 		<item drawable="mtwm" />
@@ -625,8 +630,10 @@
 		<item drawable="oblatum_bak" />
 		<item drawable="oblatum_lite" />
 		<item drawable="oblatum_lite_newyear" />
+		<item drawable="oblatum_mid_autumn_festival" />
 		<item drawable="oblatum_newyear" />
 		<item drawable="oblatum_nocode" />
+		<item drawable="oblatum_square" />
 		<item drawable="oblatum_valentine" />
 		<item drawable="office_365_admin" />
 		<item drawable="office_lens" />
@@ -664,6 +671,7 @@
 		<item drawable="peini" />
 		<item drawable="phone" />
 		<item drawable="phone_1" />
+		<item drawable="phone_2" />
 		<item drawable="phonograph" />
 		<item drawable="photoeditor" />
 		<item drawable="picacg" />
@@ -686,6 +694,7 @@
 		<item drawable="qq_2" />
 		<item drawable="qq_ac" />
 		<item drawable="qq_browser" />
+		<item drawable="qq_inputs" />
 		<item drawable="qq_jp" />
 		<item drawable="qq_music_local_player" />
 		<item drawable="qqmail" />
@@ -733,6 +742,7 @@
 		<item drawable="smzdm" />
 		<item drawable="snailread" />
 		<item drawable="snailread_alt"/>
+		<item drawable="snap" />
 		<item drawable="snapseed" />
 		<item drawable="snapseed_1" />
 		<item drawable="snapvpn" />
@@ -843,6 +853,7 @@
 		<item drawable="yys" />
 		<item drawable="yys_1" />
 		<item drawable="yyszs" />
+		<item drawable="z_live" />
 		<item drawable="zarchiver" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
