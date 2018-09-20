@@ -25,7 +25,7 @@
 		factor="0.5" /> -->
 
 		<!--self-->
-		<item component="ComponentInfo{com.oblatum.iconpack/.MainActivity}" drawable="oblatum_mid_autumn_festival" />
+		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="oblatum_mid_autumn_festival" />
 
 		<!-- 系统 / System -->
 
