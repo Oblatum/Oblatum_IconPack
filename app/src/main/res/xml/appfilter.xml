@@ -1214,6 +1214,9 @@
 		<item component="ComponentInfo{com.xueqiu.android/com.xueqiu.android.view.WelcomeActivityAlias}" drawable="xueqiu"/>
 		<item component="ComponentInfo{com.lerist.ctrlplus/com.lerist.ctrlplus.ui.activity.MainActivity}" drawable="ctrl_plus"/>
 		<item component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity" drawable="ted"/>
+		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
+		<item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
+		<item component="ComponentInfo{com.sicent.app.baba/com.sicent.app.baba.base.SplashActivity}" drawable="wangmiao" />
 
 
 
