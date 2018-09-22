@@ -1205,6 +1205,15 @@
 		<item component="ComponentInfo{com.example.businesshall/com.businesshall.activity.NewLogoActivity}" drawable="chinamobile"/>
 		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
 		<item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
+		<item component="ComponentInfo{com.starbucks.cn/com.starbucks.cn.ui.LauncherActivity}" drawable="starbucks"/>
+		<item component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.basesection.InitAppActivity}" drawable="tp_link"/>
+		<item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+		<item component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}" drawable="umetrip"/>
+		<item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch"/>
+		<item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="microsoft_todo"/>
+		<item component="ComponentInfo{com.xueqiu.android/com.xueqiu.android.view.WelcomeActivityAlias}" drawable="xueqiu"/>
+		<item component="ComponentInfo{com.lerist.ctrlplus/com.lerist.ctrlplus.ui.activity.MainActivity}" drawable="ctrl_plus"/>
+		<item component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity" drawable="ted"/>
 
 
 
