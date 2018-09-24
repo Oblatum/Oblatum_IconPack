@@ -5,6 +5,9 @@
 # Key File
 *.jks
 
+#MacOS Files
+*.DS_Store
+
 # Files for the ART/Dalvik VM
 *.dex
 
