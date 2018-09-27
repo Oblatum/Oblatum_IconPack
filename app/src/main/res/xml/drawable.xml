@@ -25,12 +25,15 @@
 	<item drawable="ctrl_plus" />
 	<item drawable="hdzuoye" />
 	<item drawable="microsoft_todo" />
+	<item drawable="oppo_app_store" />
 	<item drawable="paypal" />
 	<item drawable="starbucks" />
 	<item drawable="ted" />
 	<item drawable="tp_link" />
 	<item drawable="twitch" />
 	<item drawable="umetrip" />
+	<item drawable="wandoujia" />
+	<item drawable="wangmiao" />
 	<item drawable="xueqiu" />
 
 
@@ -226,6 +229,7 @@
 		<item drawable="smartisanos_mover" />
 
 	<category title="OPPO" />
+		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_files" />
 		<item drawable="oppo_menber" />
@@ -663,6 +667,7 @@
 		<item drawable="oneplus_setting" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
+		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_files" />
 		<item drawable="oppo_menber" />
@@ -822,6 +827,8 @@
 		<item drawable="vlc" />
 		<item drawable="vmall" />
 		<item drawable="wakeup" />
+		<item drawable="wandoujia" />
+		<item drawable="wangmiao" />
 		<item drawable="weather" />
 		<item drawable="weibo" />
 		<item drawable="weixin_1" />

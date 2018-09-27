@@ -68,7 +68,7 @@
 		<item component="ComponentInfo{com.letv.app.appstore/com.letv.app.appstore.MainActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.meizu.mstore/com.meizu.flyme.appcenter.activitys.AppMainActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.oneplus.market/com.oneplus.market.activity.MainActivity}" drawable="oneplus_market" />
-		<item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="apk_store" />
+		<item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oppo_app_store" />
 		<item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.smartisanos.appstore/com.smartisanos.appstore.AppStoreActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.nbc.appstore/com.tencent.assistant.activity.SplashActivity}" drawable="apk_store" />
@@ -1217,7 +1217,9 @@
 		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
 		<item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
 		<item component="ComponentInfo{com.sicent.app.baba/com.sicent.app.baba.base.SplashActivity}" drawable="wangmiao" />
-
+		<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+		<item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="wandoujia"/>
+		<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
