@@ -1220,6 +1220,8 @@
 		<item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
 		<item component="ComponentInfo{com.nintendo.zaga/jp.co.cygames.nostatusbar.UnityPlayerActivityStatusBar}" drawable="dragalia_lost"/>
 		<item component="ComponentInfo{com.inklin.stitch/com.inklin.stitch.SplashActivity}" drawable="stitch"/>
+		<item component="ComponentInfo{com.tencent.tgp/com.tencent.tgp.login.LaunchActivity}" drawable="tgp"/>
+		<item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly"/>
 
 
 

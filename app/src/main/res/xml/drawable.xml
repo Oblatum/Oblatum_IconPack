@@ -382,6 +382,7 @@
 		<item drawable="douyin" />
 		<item drawable="douyutv" />
 		<item drawable="download" />
+		<item drawable="dragalia_lost" />
 		<item drawable="drawer_1" />
 		<item drawable="drawer" />
 		<item drawable="duokan_reader" />
@@ -420,6 +421,8 @@
 		<item drawable="evernote" />
 		<item drawable="excel" />
 		<item drawable="facebook" />
+		<item drawable="fasthub" />
+		<item drawable="feedly" />
 		<item drawable="feizhu" />
 		<item drawable="files_go" />
 		<item drawable="files" />
@@ -771,6 +774,7 @@
 		<item drawable="starbucks" />
 		<item drawable="steam_lite" />
 		<item drawable="steam" />
+		<item drawable="stitch" />
 		<item drawable="stocard" />
 		<item drawable="substratum" />
 		<item drawable="super_class_schedule" />
@@ -793,6 +797,7 @@
 		<item drawable="termux" />
 		<item drawable="terrarium_tv" />
 		<item drawable="tesla_unread" />
+		<item drawable="tgp" />
 		<item drawable="themes" />
 		<item drawable="thing" />
 		<item drawable="tim" />
