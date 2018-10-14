@@ -833,10 +833,10 @@
 		<item component="ComponentInfo{com.android.bankabc/com.android.bankabc.SplashActivity}" drawable="abc" />
 		<item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery" />
 		<item component="ComponentInfo{com.chinamworld.bocmbci/com.chinamworld.bocmbci.biz.DexActivity}" drawable="boc" />
-		<item component="ComponentInfo{com.chinamworld.main/com.ccb.mbs.main.StartActivity}" drawable="cbb" />
-		<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.CcbSplashActivity}" drawable="cbb" />
-		<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.StartActivity}" drawable="cbb" />
-		<item component="ComponentInfo{com.chinamworld.main/com.chinamworld.main.BTCCMWStartActivity}" drawable="cbb" />
+		<item component="ComponentInfo{com.chinamworld.main/com.ccb.mbs.main.StartActivity}" drawable="ccb" />
+		<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.CcbSplashActivity}" drawable="ccb" />
+		<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.StartActivity}" drawable="ccb" />
+		<item component="ComponentInfo{com.chinamworld.main/com.chinamworld.main.BTCCMWStartActivity}" drawable="ccb" />
 		<item component="ComponentInfo{com.cmplay.dancingline/com.aiwu.Splash}" drawable="dancing_line" />
 		<item component="ComponentInfo{com.cmplay.dancingline/com.cmplay.AppActivity}" drawable="dancing_line" />
 		<item component="ComponentInfo{com.skype.ralder/com.skype.ralder.Main}" drawable="gameguardian" />
@@ -1136,7 +1136,7 @@
 		<item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
 		<item component="ComponentInfo{com.tencent.tmgp.pubgm/com.epicgames.ue4.SplashActivity}" drawable="emui_gamebox" />
 		<item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook" />
-		<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}" drawable="cbb" />
+		<item component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}" drawable="ccb" />
 		<item component="ComponentInfo{com.adobe.sparklerandroid/com.adobe.sparklerandroid.activity.XDSplashScreenActivity}" drawable="adobe_xd" />
 		<item component="ComponentInfo{com.smartjinyu.mybookshelf/com.smartjinyu.mybookshelf.MainActivity}" drawable="bookshelf" />
 		<item component="ComponentInfo{com.ctrip.jikecar/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip" />
@@ -1217,9 +1217,19 @@
 		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}" drawable="cainiao"/>
 		<item component="ComponentInfo{yyc.xk/yyc.xk.adview}" drawable="xk_wallpaper"/>
 		<item component="ComponentInfo{com.sicent.app.baba/com.sicent.app.baba.base.SplashActivity}" drawable="wangmiao" />
+		<item component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}" drawable="fasthub"/>
+		<item component="ComponentInfo{com.nintendo.zaga/jp.co.cygames.nostatusbar.UnityPlayerActivityStatusBar}" drawable="dragalia_lost"/>
+		<item component="ComponentInfo{com.inklin.stitch/com.inklin.stitch.SplashActivity}" drawable="stitch"/>
+		<item component="ComponentInfo{com.tencent.tgp/com.tencent.tgp.login.LaunchActivity}" drawable="tgp"/>
+		<item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly"/>
 		<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
 		<item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="wandoujia"/>
 		<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
+		<item component="ComponentInfo{com.github.sumimakito.awesomeqrsample/com.github.sumimakito.awesomeqrsample.activity.MainActivity}" drawable="awesome_qr"/>
+		<item component="ComponentInfo{com.qihoo.chrome360/com.qihoo.browser.activity.SplashActivity}" drawable="jisu_browser" />
+		<item component="ComponentInfo{com.shanbay.words/com.shanbay.words.startup.SplashActivity}" drawable="shanbei_words" />
+		<item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="xiaomi_youpin" />
+		<item component="ComponentInfo{com.quanminzhuishu.bookreader/com.quanminzhuishu.bookreader.activity.SplashActivity}" drawable="zhuishudashen" />
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />

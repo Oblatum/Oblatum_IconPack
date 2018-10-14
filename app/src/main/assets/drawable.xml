@@ -21,20 +21,16 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	<item drawable="advblock" />
-	<item drawable="ctrl_plus" />
-	<item drawable="hdzuoye" />
-	<item drawable="microsoft_todo" />
-	<item drawable="oppo_app_store" />
-	<item drawable="paypal" />
-	<item drawable="starbucks" />
-	<item drawable="ted" />
-	<item drawable="tp_link" />
-	<item drawable="twitch" />
-	<item drawable="umetrip" />
-	<item drawable="wandoujia" />
-	<item drawable="wangmiao" />
-	<item drawable="xueqiu" />
+	<item drawable="awesome_qr" />
+	<item drawable="jisu_browser" />
+	<item drawable="shanbei_words" />
+	<item drawable="xiaomi_youpin" />
+	<item drawable="zhuishudashen" />
+	<item drawable="dragalia_lost" />
+	<item drawable="fasthub" />
+	<item drawable="feedly" />
+	<item drawable="stitch" />
+	<item drawable="tgp" />
 
 
 	<category title="Folders and Widgets" />
@@ -173,6 +169,7 @@
 		<item drawable="miui_support" />
 		<item drawable="miui_wallet" />
 		<item drawable="miui_xiao_ai" />
+		<item drawable="xiaomi_youpin" />
 		<item drawable="xmhealth" />
 
 	<category title="EMUI" />
@@ -243,11 +240,12 @@
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
 		<item drawable="benghuai3"/>
-		<item drawable="cjzc" />
 		<item drawable="cjzc_1" />
+		<item drawable="cjzc" />
 		<item drawable="clash_of_clans" />
 		<item drawable="clash_royale" />
 		<item drawable="dancing_line" />
+		<item drawable="dragalia_lost" />
 		<item drawable="hyxd"/>
 		<item drawable="implosion" />
 		<item drawable="ingress" />
@@ -256,16 +254,16 @@
 		<item drawable="lxqw" />
 		<item drawable="minecraft"/>
 		<item drawable="monument2" />
-		<item drawable="netease_moba" />
 		<item drawable="netease_moba_bili"/>
+		<item drawable="netease_moba" />
 		<item drawable="osu" />
 		<item drawable="pubgm" />
 		<item drawable="soul_knight" />
 		<item drawable="tencent_speedmobile"/>
 		<item drawable="vainglory" />
-		<item drawable="wzry" />
 		<item drawable="wzry_beta" />
 		<item drawable="wzry_helper" />
+		<item drawable="wzry" />
 		<item drawable="xbox" />
 		<item drawable="xmqz"/>
 		<item drawable="yys" />
@@ -305,6 +303,7 @@
 		<item drawable="audiofx_1" />
 		<item drawable="audiofx" />
 		<item drawable="autohome" />
+		<item drawable="awesome_qr" />
 		<item drawable="b612_jimeng" />
 		<item drawable="b612" />
 		<item drawable="baicizhan" />
@@ -347,7 +346,7 @@
 		<item drawable="card_iconpack" />
 		<item drawable="cardboard_camera" />
 		<item drawable="cardboard" />
-		<item drawable="cbb" />
+		<item drawable="ccb" />
 		<item drawable="chinamobile" />
 		<item drawable="chinatelecom" />
 		<item drawable="chinaunicom" />
@@ -386,6 +385,7 @@
 		<item drawable="douyin" />
 		<item drawable="douyutv" />
 		<item drawable="download" />
+		<item drawable="dragalia_lost" />
 		<item drawable="drawer_1" />
 		<item drawable="drawer" />
 		<item drawable="duokan_reader" />
@@ -424,6 +424,8 @@
 		<item drawable="evernote" />
 		<item drawable="excel" />
 		<item drawable="facebook" />
+		<item drawable="fasthub" />
+		<item drawable="feedly" />
 		<item drawable="feizhu" />
 		<item drawable="files_go" />
 		<item drawable="files" />
@@ -519,6 +521,7 @@
 		<item drawable="jd_jinrong" />
 		<item drawable="jd" />
 		<item drawable="jike" />
+		<item drawable="jisu_browser" />
 		<item drawable="jmail" />
 		<item drawable="keep" />
 		<item drawable="kihan" />
@@ -737,6 +740,7 @@
 		<item drawable="settings" />
 		<item drawable="sh_inputs_1" />
 		<item drawable="sh_inputs" />
+		<item drawable="shanbei_words" />
 		<item drawable="share" />
 		<item drawable="sharepoint" />
 		<item drawable="shenqi_browser" />
@@ -776,6 +780,7 @@
 		<item drawable="starbucks" />
 		<item drawable="steam_lite" />
 		<item drawable="steam" />
+		<item drawable="stitch" />
 		<item drawable="stocard" />
 		<item drawable="substratum" />
 		<item drawable="super_class_schedule" />
@@ -798,6 +803,7 @@
 		<item drawable="termux" />
 		<item drawable="terrarium_tv" />
 		<item drawable="tesla_unread" />
+		<item drawable="tgp" />
 		<item drawable="themes" />
 		<item drawable="thing" />
 		<item drawable="tim" />
@@ -849,6 +855,7 @@
 		<item drawable="xgsp" />
 		<item drawable="xiami_music" />
 		<item drawable="xiaomi_shop" />
+		<item drawable="xiaomi_youpin" />
 		<item drawable="ximalayafm" />
 		<item drawable="xk_wallpaper" />
 		<item drawable="xmhealth" />
@@ -876,6 +883,7 @@
 		<item drawable="zhihu_daily" />
 		<item drawable="zhihu" />
 		<item drawable="zhuishu" />
+		<item drawable="zhuishudashen" />
 
 
 </resources>
