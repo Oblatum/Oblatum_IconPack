@@ -25,7 +25,7 @@
 		factor="0.5" /> -->
 
 		<!--self-->
-		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="oblatum_mid_autumn_festival" />
+		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="app_logo" />
 
 		<!-- 系统 / System -->
 
@@ -68,7 +68,7 @@
 		<item component="ComponentInfo{com.letv.app.appstore/com.letv.app.appstore.MainActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.meizu.mstore/com.meizu.flyme.appcenter.activitys.AppMainActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.oneplus.market/com.oneplus.market.activity.MainActivity}" drawable="oneplus_market" />
-		<item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="apk_store" />
+		<item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oppo_app_store" />
 		<item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.smartisanos.appstore/com.smartisanos.appstore.AppStoreActivity}" drawable="apk_store" />
 		<item component="ComponentInfo{com.nbc.appstore/com.tencent.assistant.activity.SplashActivity}" drawable="apk_store" />
@@ -1222,7 +1222,9 @@
 		<item component="ComponentInfo{com.inklin.stitch/com.inklin.stitch.SplashActivity}" drawable="stitch"/>
 		<item component="ComponentInfo{com.tencent.tgp/com.tencent.tgp.login.LaunchActivity}" drawable="tgp"/>
 		<item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly"/>
-
+		<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
+		<item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="wandoujia"/>
+		<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
