@@ -49,6 +49,7 @@
 			<item>audiofx_1</item>
 			<item>audiofx</item>
 			<item>autohome</item>
+			<item>awesome_qr</item>
 			<item>b612_jimeng</item>
 			<item>b612</item>
 			<item>baicizhan</item>
@@ -260,6 +261,7 @@
 			<item>jd_jinrong</item>
 			<item>jd</item>
 			<item>jike</item>
+			<item>jisu_browser</item>
 			<item>jmail</item>
 			<item>keep</item>
 			<item>kihan</item>
@@ -469,6 +471,7 @@
 			<item>settings</item>
 			<item>sh_inputs_1</item>
 			<item>sh_inputs</item>
+			<item>shanbei_words</item>
 			<item>share</item>
 			<item>sharepoint</item>
 			<item>shenqi_browser</item>
@@ -575,6 +578,7 @@
 			<item>xiachufang</item>
 			<item>xiami_music</item>
 			<item>xiaomi_shop</item>
+			<item>xiaomi_youpin</item>
 			<item>ximalayafm</item>
 			<item>xk_wallpaper</item>
 			<item>xmhealth</item>
@@ -601,6 +605,7 @@
 			<item>zhihu_daily</item>
 			<item>zhihu</item>
 			<item>zhuishu</item>
+			<item>zhuishudashen</item>
     </string-array>
 
 

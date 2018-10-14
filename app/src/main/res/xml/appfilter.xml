@@ -1225,6 +1225,11 @@
 		<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}" drawable="camscanner"/>
 		<item component="ComponentInfo{com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity}" drawable="wandoujia"/>
 		<item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
+		<item component="ComponentInfo{com.github.sumimakito.awesomeqrsample/com.github.sumimakito.awesomeqrsample.activity.MainActivity}" drawable="awesome_qr"/>
+		<item component="ComponentInfo{com.qihoo.chrome360/com.qihoo.browser.activity.SplashActivity}" drawable="jisu_browser" />
+		<item component="ComponentInfo{com.shanbay.words/com.shanbay.words.startup.SplashActivity}" drawable="shanbei_words" />
+		<item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="xiaomi_youpin" />
+		<item component="ComponentInfo{com.quanminzhuishu.bookreader/com.quanminzhuishu.bookreader.activity.SplashActivity}" drawable="zhuishudashen" />
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />

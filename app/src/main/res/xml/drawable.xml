@@ -21,20 +21,16 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	<item drawable="advblock" />
-	<item drawable="ctrl_plus" />
-	<item drawable="hdzuoye" />
-	<item drawable="microsoft_todo" />
-	<item drawable="oppo_app_store" />
-	<item drawable="paypal" />
-	<item drawable="starbucks" />
-	<item drawable="ted" />
-	<item drawable="tp_link" />
-	<item drawable="twitch" />
-	<item drawable="umetrip" />
-	<item drawable="wandoujia" />
-	<item drawable="wangmiao" />
-	<item drawable="xueqiu" />
+	<item drawable="awesome_qr" />
+	<item drawable="jisu_browser" />
+	<item drawable="shanbei_words" />
+	<item drawable="xiaomi_youpin" />
+	<item drawable="zhuishudashen" />
+	<item drawable="dragalia_lost" />
+	<item drawable="fasthub" />
+	<item drawable="feedly" />
+	<item drawable="stitch" />
+	<item drawable="tgp" />
 
 
 	<category title="Folders and Widgets" />
@@ -173,6 +169,7 @@
 		<item drawable="miui_support" />
 		<item drawable="miui_wallet" />
 		<item drawable="miui_xiao_ai" />
+		<item drawable="xiaomi_youpin" />
 		<item drawable="xmhealth" />
 
 	<category title="EMUI" />
@@ -306,6 +303,7 @@
 		<item drawable="audiofx_1" />
 		<item drawable="audiofx" />
 		<item drawable="autohome" />
+		<item drawable="awesome_qr" />
 		<item drawable="b612_jimeng" />
 		<item drawable="b612" />
 		<item drawable="baicizhan" />
@@ -523,6 +521,7 @@
 		<item drawable="jd_jinrong" />
 		<item drawable="jd" />
 		<item drawable="jike" />
+		<item drawable="jisu_browser" />
 		<item drawable="jmail" />
 		<item drawable="keep" />
 		<item drawable="kihan" />
@@ -741,6 +740,7 @@
 		<item drawable="settings" />
 		<item drawable="sh_inputs_1" />
 		<item drawable="sh_inputs" />
+		<item drawable="shanbei_words" />
 		<item drawable="share" />
 		<item drawable="sharepoint" />
 		<item drawable="shenqi_browser" />
@@ -855,6 +855,7 @@
 		<item drawable="xgsp" />
 		<item drawable="xiami_music" />
 		<item drawable="xiaomi_shop" />
+		<item drawable="xiaomi_youpin" />
 		<item drawable="ximalayafm" />
 		<item drawable="xk_wallpaper" />
 		<item drawable="xmhealth" />
@@ -882,6 +883,7 @@
 		<item drawable="zhihu_daily" />
 		<item drawable="zhihu" />
 		<item drawable="zhuishu" />
+		<item drawable="zhuishudashen" />
 
 
 </resources>
