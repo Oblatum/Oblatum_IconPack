@@ -1230,6 +1230,23 @@
 		<item component="ComponentInfo{com.shanbay.words/com.shanbay.words.startup.SplashActivity}" drawable="shanbei_words" />
 		<item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="xiaomi_youpin" />
 		<item component="ComponentInfo{com.quanminzhuishu.bookreader/com.quanminzhuishu.bookreader.activity.SplashActivity}" drawable="zhuishudashen" />
+		<!-- 空调狗 -->
+		<item component="ComponentInfo{me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher}" drawable="airfrozen"/>
+		<!-- 蓝墨云班课 -->
+		<item component="ComponentInfo{com.mosoink.mosoteach/com.mosoink.mosoteach.MainActivity}" drawable="mosoteach"/>
+		<!-- 腾讯文件 -->
+		<item component="ComponentInfo{com.tencent.FileManager/com.tencent.mtt.SplashActivity}" drawable="tencent_filemanager"/>
+		<!-- 游戏中心 -->
+		<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN}" drawable="samsung_game_launcher"/>
+		<!-- 阿里云 -->
+		<item component="ComponentInfo{com.alibaba.aliyun/com.alibaba.aliyun.biz.login.WelcomeActivity}" drawable="aliyun"/>
+		<!-- 易屋铵_圆图标包_青春版 -->
+		<item
+		component="ComponentInfo{cc.cinyu.rriconprimitive/cc.cinyu.rriconprimitive.activities.SplashActivity}" drawable="rricon_primitive"/>
+		<!-- RRicon -->
+		<item component="ComponentInfo{cc.cinyu.rricon/cc.cinyu.rricon.activities.SplashActivity}" drawable="rricon"/>
+
+
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
