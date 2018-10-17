@@ -1245,6 +1245,9 @@
 		component="ComponentInfo{cc.cinyu.rriconprimitive/cc.cinyu.rriconprimitive.activities.SplashActivity}" drawable="rricon_primitive"/>
 		<!-- RRicon -->
 		<item component="ComponentInfo{cc.cinyu.rricon/cc.cinyu.rricon.activities.SplashActivity}" drawable="rricon"/>
+		<!-- 好策 -->
+		<item component="ComponentInfo{app.haoce.com/io.dcloud.PandoraEntry}" drawable="haoce"/>
+		<item component="ComponentInfo{com.opalastudios.pads/com.opalastudios.pads.ui.MainActivity}" drawable="super_pad" />
 
 
 
@@ -1255,6 +1258,6 @@
 		<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" xml="clock" />
 		<item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" xml="clock" />
 		<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" xml="google_calendar" />
-		<item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" xml="gallery" />
+		<!--<item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" xml="gallery" />-->
 
 </resources>

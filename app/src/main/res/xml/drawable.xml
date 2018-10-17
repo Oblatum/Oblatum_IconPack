@@ -21,12 +21,8 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	<item drawable="airfrozen" />
-	<item drawable="aliyun" />
-	<item drawable="mosoteach" />
-	<item drawable="rricon" />
-	<item drawable="rricon_primitive" />
-	<item drawable="xiami_music" />
+	<item drawable="haoce" />
+	<item drawable="super_pad" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -492,6 +488,7 @@
 		<item drawable="gxicon" />
 		<item drawable="h_viewer" />
 		<item drawable="hangouts" />
+		<item drawable="haoce" />
 		<item drawable="happy_browser" />
 		<item drawable="hdzuoye" />
 		<item drawable="hdzuoye" />
@@ -792,6 +789,7 @@
 		<item drawable="stocard" />
 		<item drawable="substratum" />
 		<item drawable="super_class_schedule" />
+		<item drawable="super_pad" />
 		<item drawable="superstar" />
 		<item drawable="supersu" />
 		<item drawable="t_12306" />
