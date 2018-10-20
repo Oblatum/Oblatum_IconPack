@@ -23,6 +23,8 @@
 	<category title="New and Update" />
 	<item drawable="haoce" />
 	<item drawable="super_pad" />
+	<item drawable="novelmanager" />
+	
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -620,6 +622,7 @@
 		<item drawable="nokia_smart_tuner" />
 		<item drawable="novalauncher" />
 		<item drawable="novasetting" />
+		<item drawable="novelmanager" />
 		<item drawable="nubia_app_fenshen" />
 		<item drawable="nubia_bbs" />
 		<item drawable="nubia_clean" />

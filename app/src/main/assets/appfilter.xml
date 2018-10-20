@@ -1248,6 +1248,7 @@
 		<!-- 好策 -->
 		<item component="ComponentInfo{app.haoce.com/io.dcloud.PandoraEntry}" drawable="haoce"/>
 		<item component="ComponentInfo{com.opalastudios.pads/com.opalastudios.pads.ui.MainActivity}" drawable="super_pad" />
+		<item component="ComponentInfo{com.muki.novelmanager/com.muki.novelmanager.activity.WelActivity}" drawable="novelmanager"/>
 
 
 
