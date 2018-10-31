@@ -40,11 +40,11 @@
         <item>meeye</item>
         <item>alipay</item>
 		<item>oblatum_nocode</item>
-        <item>qq_1</item>
+        <item>qq</item>
     </string-array>
     <string-array name="home_list_links">
         <item>https://www.coolapk.com/apk/com.yeyebbc.meeye.iconpack</item>
-        <item>https://qr.alipay.com/00c06445cgqhoqhbs8joc0b</item>
+        <item>http://image.coolapk.com/apk_image/2018/1031/21/1540949064692-166044-o_1cr53r2f0cf21984b4q12m51rm6q-uid-1102491@1440x1080.png</item>
 		<item>https://www.coolapk.com/apk/com.oblatum.iconpack</item>
         <item>http://t.cn/Rk9PTZO</item>
     </string-array>
