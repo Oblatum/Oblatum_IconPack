@@ -21,13 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	<item drawable="haoce" />
-	<item drawable="hiby_music" />
-	<item drawable="mr_translator" />
-	<item drawable="novelmanager" />
-	<item drawable="super_pad" />
-	
-
+	  <item drawable="haoce" />
+	  <item drawable="hiby_music" />
+  	<item drawable="mr_translator" />
+	  <item drawable="novelmanager" />
+	  <item drawable="super_pad" />
+  
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
@@ -736,7 +735,6 @@
 		<item drawable="samsung_assistant" />
 		<item drawable="samsung_game_launcher" />
 		<item drawable="samsung_game_tuner" />
-		<item drawable="samsung_game_turner" />
 		<item drawable="samsung_health" />
 		<item drawable="samsung_magazine" />
 		<item drawable="samsung_pay" />

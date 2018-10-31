@@ -375,6 +375,7 @@
 
 		<!-- 拨号 / Phone -->
 		<item component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.DialerActivity}" drawable="phone" />
+		<item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.WtDialerActivity}" drawable="phone" />
@@ -1199,7 +1200,8 @@
 		<item component="ComponentInfo{com.diyidan/com.diyidan.ui.launcher.LauncherActivity}" drawable="diyidan" />
 		<item component="ComponentInfo{com.immomo.momo/com.immomo.momo.android.activity.WelcomeActivity}" drawable="momo" />
 		<item component="ComponentInfo{com.blizzard.wowcompanion/com.blizzard.wowcompanion.CompanionNativeActivity}" drawable="moshouzhushou" />
-		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}" drawable="qq_imputs" />
+		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}" drawable="qq_inputs" />
+		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.GuideDialogActivity}" drawable="qq_inputs" />
 		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}" drawable="z_live" />
 		<item component="ComponentInfo{com.marginz.snap/com.marginz.camera.CameraLauncher}" drawable="snap" />
 		<item component="ComponentInfo{com.example.businesshall/com.businesshall.activity.NewLogoActivity}" drawable="chinamobile"/>
@@ -1230,30 +1232,22 @@
 		<item component="ComponentInfo{com.shanbay.words/com.shanbay.words.startup.SplashActivity}" drawable="shanbei_words" />
 		<item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="xiaomi_youpin" />
 		<item component="ComponentInfo{com.quanminzhuishu.bookreader/com.quanminzhuishu.bookreader.activity.SplashActivity}" drawable="zhuishudashen" />
-		<!-- 空调狗 -->
 		<item component="ComponentInfo{me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher}" drawable="airfrozen"/>
-		<!-- 蓝墨云班课 -->
 		<item component="ComponentInfo{com.mosoink.mosoteach/com.mosoink.mosoteach.MainActivity}" drawable="mosoteach"/>
-		<!-- 腾讯文件 -->
 		<item component="ComponentInfo{com.tencent.FileManager/com.tencent.mtt.SplashActivity}" drawable="tencent_filemanager"/>
-		<!-- 游戏中心 -->
 		<item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN}" drawable="samsung_game_launcher"/>
-		<!-- 阿里云 -->
 		<item component="ComponentInfo{com.alibaba.aliyun/com.alibaba.aliyun.biz.login.WelcomeActivity}" drawable="aliyun"/>
-		<!-- 易屋铵_圆图标包_青春版 -->
-		<item
-		component="ComponentInfo{cc.cinyu.rriconprimitive/cc.cinyu.rriconprimitive.activities.SplashActivity}" drawable="rricon_primitive"/>
-		<!-- RRicon -->
+		<item component="ComponentInfo{cc.cinyu.rriconprimitive/cc.cinyu.rriconprimitive.activities.SplashActivity}" drawable="rricon_primitive"/>
 		<item component="ComponentInfo{cc.cinyu.rricon/cc.cinyu.rricon.activities.SplashActivity}" drawable="rricon"/>
-		<!-- 好策 -->
 		<item component="ComponentInfo{app.haoce.com/io.dcloud.PandoraEntry}" drawable="haoce"/>
 		<item component="ComponentInfo{com.opalastudios.pads/com.opalastudios.pads.ui.MainActivity}" drawable="super_pad" />
 		<item component="ComponentInfo{com.muki.novelmanager/com.muki.novelmanager.activity.WelActivity}" drawable="novelmanager"/>
-		<!-- Mr_Translator -->
+		<item component="ComponentInfo{cmb.pb/cmb.pb.launch.PBInitActivity}" drawable="cmb"/>
+		<item component="ComponentInfo{org.chromium.webapk.a882f08ee29b8b24b/org.chromium.webapk.shell_apk.MainActivity}" drawable="apkpure"/>
+		<item component="ComponentInfo{org.chromium.webapk.af498ddfeb3125710/org.chromium.webapk.shell_apk.MainActivity}" drawable="facebook"/>
+		<item component="ComponentInfo{org.chromium.webapk.a01684c55bfc38659/org.chromium.webapk.shell_apk.MainActivity}" drawable="instagram"/>
 		<item component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}" drawable="mr_translator"/>
-		<!-- 海贝音乐 -->
 		<item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hiby_music"/>
-
 
 
 
