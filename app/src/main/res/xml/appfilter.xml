@@ -1243,6 +1243,9 @@
 		<item component="ComponentInfo{com.opalastudios.pads/com.opalastudios.pads.ui.MainActivity}" drawable="super_pad" />
 		<item component="ComponentInfo{com.muki.novelmanager/com.muki.novelmanager.activity.WelActivity}" drawable="novelmanager"/>
 		<item component="ComponentInfo{cmb.pb/cmb.pb.launch.PBInitActivity}" drawable="cmb"/>
+		<item component="ComponentInfo{org.chromium.webapk.a882f08ee29b8b24b/org.chromium.webapk.shell_apk.MainActivity}" drawable="apkpure"/>
+		<item component="ComponentInfo{org.chromium.webapk.af498ddfeb3125710/org.chromium.webapk.shell_apk.MainActivity}" drawable="facebook"/>
+		<item component="ComponentInfo{org.chromium.webapk.a01684c55bfc38659/org.chromium.webapk.shell_apk.MainActivity}" drawable="instagram"/>
 
 
 
