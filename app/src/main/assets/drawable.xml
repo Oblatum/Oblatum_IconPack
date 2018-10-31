@@ -21,11 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	<item drawable="haoce" />
-	<item drawable="super_pad" />
-	<item drawable="novelmanager" />
-
-
+	  <item drawable="haoce" />
+	  <item drawable="hiby_music" />
+  	<item drawable="mr_translator" />
+	  <item drawable="novelmanager" />
+	  <item drawable="super_pad" />
+  
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
@@ -496,6 +497,7 @@
 		<item drawable="hdzuoye" />
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
+		<item drawable="hiby_music" />
 		<item drawable="hola" />
 		<item drawable="holi_weather" />
 		<item drawable="hook_model" />
@@ -596,6 +598,7 @@
 		<item drawable="moshouzhushou" />
 		<item drawable="mosoteach" />
 		<item drawable="move_to_miui" />
+		<item drawable="mr_translator" />
 		<item drawable="mtglq" />
 		<item drawable="mtwm" />
 		<item drawable="music" />

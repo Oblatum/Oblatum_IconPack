@@ -26,21 +26,25 @@
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
         <item>Meeye 图标包</item>
+        <item>糯米纸PY小店</item>
 		<item>检查更新</item>
         <item>加入QQ群</item>
     </string-array>
     <string-array name="home_list_descriptions">
         <item>灵感源于Nokia MeeGo Harmattan，弱化但保留了原有的质感</item>
+        <item>正在营业</item>
 		<item>手动检查更新以保持程序最新</item>
         <item>欢迎加入Oblatum图标应援团</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>meeye</item>n
-		<item>ic_oblatum_update</item>
-        <item>ic_oblatum_qqqun</item>
+        <item>meeye</item>
+        <item>alipay</item>
+		<item>oblatum_nocode</item>
+        <item>qq</item>
     </string-array>
     <string-array name="home_list_links">
         <item>https://www.coolapk.com/apk/com.yeyebbc.meeye.iconpack</item>
+        <item>http://image.coolapk.com/apk_image/2018/1031/21/1540949064692-166044-o_1cr53r2f0cf21984b4q12m51rm6q-uid-1102491@1440x1080.png</item>
 		<item>https://www.coolapk.com/apk/com.oblatum.iconpack</item>
         <item>http://t.cn/Rk9PTZO</item>
     </string-array>

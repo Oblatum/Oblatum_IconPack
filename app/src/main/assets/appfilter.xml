@@ -1241,6 +1241,10 @@
 		<item component="ComponentInfo{app.haoce.com/io.dcloud.PandoraEntry}" drawable="haoce"/>
 		<item component="ComponentInfo{com.opalastudios.pads/com.opalastudios.pads.ui.MainActivity}" drawable="super_pad" />
 		<item component="ComponentInfo{com.muki.novelmanager/com.muki.novelmanager.activity.WelActivity}" drawable="novelmanager"/>
+		<!-- Mr_Translator -->
+		<item component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}" drawable="mr_translator"/>
+		<!-- 海贝音乐 -->
+		<item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hiby_music"/>
 
 
 
