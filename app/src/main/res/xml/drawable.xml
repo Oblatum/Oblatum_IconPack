@@ -21,7 +21,7 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="android_p_ify" />
+	  <item drawable="android_p_ify" />
 		<item drawable="caihong_world" />
 		<item drawable="duitang" />
 		<item drawable="openhub" />
@@ -32,7 +32,7 @@
 		<item drawable="xiaoenai" />
 	  <item drawable="memory_zone" />
 	  <item drawable="fasthub" />
-  
+
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
@@ -293,7 +293,6 @@
 		<item drawable="aliyun" />
 		<item drawable="aloha" />
 		<item drawable="ampere" />
-		<item drawable="android_p_ify" />
 		<item drawable="android_pay" />
 		<item drawable="antutu" />
 		<item drawable="anyview" />
@@ -343,7 +342,6 @@
 		<item drawable="browser" />
 		<item drawable="bullet_message" />
 		<item drawable="buyathome" />
-		<item drawable="caihong_world" />
 		<item drawable="cainiao" />
 		<item drawable="calculator" />
 		<item drawable="calendar_dynamic" />
@@ -395,7 +393,6 @@
 		<item drawable="dragalia_lost" />
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
-		<item drawable="duitang" />
 		<item drawable="duokan_reader" />
 		<item drawable="earth" />
 		<item drawable="easy_share" />
@@ -688,7 +685,6 @@
 		<item drawable="oneplus_setting" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
-		<item drawable="openhub" />
 		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_files" />
@@ -716,7 +712,6 @@
 		<item drawable="ppiicc" />
 		<item drawable="psbc" />
 		<item drawable="pstouch" />
-		<item drawable="pub_gfx_tool_xda" />
 		<item drawable="pubgm" />
 		<item drawable="pure_icon_pack" />
 		<item drawable="pure_icon_pack_lite" />
@@ -738,7 +733,6 @@
 		<item drawable="qqzc" />
 		<item drawable="quark" />
 		<item drawable="quick_pic" />
-		<item drawable="qzone" />
 		<item drawable="radio" />
 		<item drawable="register" />
 		<item drawable="retro_music" />
@@ -815,7 +809,6 @@
 		<item drawable="taobao_islefish" />
 		<item drawable="taobao_movie" />
 		<item drawable="taptap" />
-		<item drawable="teamviewer" />
 		<item drawable="ted" />
 		<item drawable="telegram" />
 		<item drawable="telegram_x" />
@@ -858,7 +851,6 @@
 		<item drawable="viperfx" />
 		<item drawable="vlc" />
 		<item drawable="vmall" />
-		<item drawable="w3cschool" />
 		<item drawable="wakeup" />
 		<item drawable="wandoujia" />
 		<item drawable="wangmiao" />
@@ -882,7 +874,6 @@
 		<item drawable="xgsp" />
 		<item drawable="xiachufang" />
 		<item drawable="xiami_music" />
-		<item drawable="xiaoenai" />
 		<item drawable="xiaomi_shop" />
 		<item drawable="xiaomi_youpin" />
 		<item drawable="ximalayafm" />
