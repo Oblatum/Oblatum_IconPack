@@ -375,6 +375,7 @@
 
 		<!-- 拨号 / Phone -->
 		<item component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.DialerActivity}" drawable="phone" />
+		<item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="phone" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="phone" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.WtDialerActivity}" drawable="phone" />
@@ -874,7 +875,6 @@
 		<item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}" drawable="lushi" />
 		<item component="ComponentInfo{jp.co.hit_point.tabikaeru.st/com.sthh.StShellActivity}" drawable="lxqw" />
 		<item component="ComponentInfo{jp.co.hit_point.tabikaeru/net.gree.unitywebview.CUnityPlayerActivity}" drawable="lxqw" />
-		<item component="ComponentInfo{p.co.hit_point.tabikaeru/com.unity3d.player.UnityPlayerActivity}" drawable="lxqw" />
 		<item component="ComponentInfo{com.suihan.version3/com.suihan.version3.MainActivity}" drawable="sh_inputs" />
 		<item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher" />
 		<item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex" />
@@ -1200,7 +1200,8 @@
 		<item component="ComponentInfo{com.diyidan/com.diyidan.ui.launcher.LauncherActivity}" drawable="diyidan" />
 		<item component="ComponentInfo{com.immomo.momo/com.immomo.momo.android.activity.WelcomeActivity}" drawable="momo" />
 		<item component="ComponentInfo{com.blizzard.wowcompanion/com.blizzard.wowcompanion.CompanionNativeActivity}" drawable="moshouzhushou" />
-		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}" drawable="qq_imputs" />
+		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}" drawable="qq_inputs" />
+		<item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.GuideDialogActivity}" drawable="qq_inputs" />
 		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}" drawable="z_live" />
 		<item component="ComponentInfo{com.marginz.snap/com.marginz.camera.CameraLauncher}" drawable="snap" />
 		<item component="ComponentInfo{com.example.businesshall/com.businesshall.activity.NewLogoActivity}" drawable="chinamobile"/>
@@ -1241,10 +1242,25 @@
 		<item component="ComponentInfo{app.haoce.com/io.dcloud.PandoraEntry}" drawable="haoce"/>
 		<item component="ComponentInfo{com.opalastudios.pads/com.opalastudios.pads.ui.MainActivity}" drawable="super_pad" />
 		<item component="ComponentInfo{com.muki.novelmanager/com.muki.novelmanager.activity.WelActivity}" drawable="novelmanager"/>
-		<!-- Mr_Translator -->
+		<item component="ComponentInfo{cmb.pb/cmb.pb.launch.PBInitActivity}" drawable="cmb"/>
+		<item component="ComponentInfo{org.chromium.webapk.a882f08ee29b8b24b/org.chromium.webapk.shell_apk.MainActivity}" drawable="apkpure"/>
+		<item component="ComponentInfo{org.chromium.webapk.af498ddfeb3125710/org.chromium.webapk.shell_apk.MainActivity}" drawable="facebook"/>
+		<item component="ComponentInfo{org.chromium.webapk.a01684c55bfc38659/org.chromium.webapk.shell_apk.MainActivity}" drawable="instagram"/>
 		<item component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}" drawable="mr_translator"/>
-		<!-- 海贝音乐 -->
 		<item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hiby_music"/>
+		<item component="ComponentInfo{xyz.paphonb.androidpify/xyz.paphonb.androidpify.ui.SettingsActivity}" drawable="android_p_ify" />
+		<item component="ComponentInfo{com.duitang.main/com.duitang.main.activity.SplashActivity}" drawable="duitang" />
+		<item component="ComponentInfo{net.duohuo.magapp.caihong/net.duohuo.magappx.main.WelcomeActivity}" drawable="caihong_world" />
+		<item component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}" drawable="openhub" />
+		<item component="ComponentInfo{inc.trilokia.pubgfxtool.free/inc.trilokia.pubgfxtool.free.LangActivity}" drawable="pub_gfx_tool_xda"/>
+		<item component="ComponentInfo{com.qzone/com.tencent.sc.activity.SplashActivity}" drawable="qzone" />
+		<item component="ComponentInfo{com.qzone/com.tencent.sc.activity.RomQzoneSplashActivity}" drawable="qzone" />
+		<item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
+		<item component="ComponentInfo{cn.w3cschool.app/com.uzmap.pkg.EntranceActivity}" drawable="w3cschool" />
+		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.classes.startup.LauncherActivity}" drawable="xiaoenai" />
+		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.presentation.launcher.LauncherActivity}" drawable="xiaoenai" />
+
+
 
 
 

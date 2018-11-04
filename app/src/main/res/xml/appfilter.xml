@@ -1248,6 +1248,20 @@
 		<item component="ComponentInfo{org.chromium.webapk.a01684c55bfc38659/org.chromium.webapk.shell_apk.MainActivity}" drawable="instagram"/>
 		<item component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}" drawable="mr_translator"/>
 		<item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hiby_music"/>
+		<item component="ComponentInfo{xyz.paphonb.androidpify/xyz.paphonb.androidpify.ui.SettingsActivity}" drawable="android_p_ify" />
+		<item component="ComponentInfo{com.duitang.main/com.duitang.main.activity.SplashActivity}" drawable="duitang" />
+		<item component="ComponentInfo{net.duohuo.magapp.caihong/net.duohuo.magappx.main.WelcomeActivity}" drawable="caihong_world" />
+		<item component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}" drawable="openhub" />
+		<item component="ComponentInfo{inc.trilokia.pubgfxtool.free/inc.trilokia.pubgfxtool.free.LangActivity}" drawable="pub_gfx_tool_xda"/>
+		<item component="ComponentInfo{com.qzone/com.tencent.sc.activity.SplashActivity}" drawable="qzone" />
+		<item component="ComponentInfo{com.qzone/com.tencent.sc.activity.RomQzoneSplashActivity}" drawable="qzone" />
+		<item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
+		<item component="ComponentInfo{cn.w3cschool.app/com.uzmap.pkg.EntranceActivity}" drawable="w3cschool" />
+		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.classes.startup.LauncherActivity}" drawable="xiaoenai" />
+		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.presentation.launcher.LauncherActivity}" drawable="xiaoenai" />
+
+
+
 
 
 

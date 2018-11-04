@@ -18,11 +18,12 @@
 <item>airbattery</item>
 <item>airfrozen</item>
 <item>alipay</item>
-<item>alipay_alt</item>
 <item>alipay_alt2</item>
+<item>alipay_alt</item>
 <item>aliyun</item>
 <item>aloha</item>
 <item>ampere</item>
+<item>android_p_ify</item>
 <item>android_pay</item>
 <item>antutu</item>
 <item>anyview</item>
@@ -56,9 +57,9 @@
 <item>bilibili</item>
 <item>bilibili_1</item>
 <item>bilibili_blue</item>
-<item>bilibili_cover</item>
 <item>bilibili_cover2</item>
 <item>bilibili_cover3</item>
+<item>bilibili_cover</item>
 <item>bilibili_link</item>
 <item>blackblub</item>
 <item>blued</item>
@@ -72,6 +73,7 @@
 <item>browser</item>
 <item>bullet_message</item>
 <item>buyathome</item>
+<item>caihong_world</item>
 <item>cainiao</item>
 <item>calculator</item>
 <item>calendar_d31</item>
@@ -122,6 +124,7 @@
 <item>dragalia_lost</item>
 <item>drawer</item>
 <item>drawer_1</item>
+<item>duitang</item>
 <item>duokan_reader</item>
 <item>earth</item>
 <item>easy_share</item>
@@ -220,7 +223,6 @@
 <item>google_voice_search</item>
 <item>google_wallpaper</item>
 <item>googlecalendar</item>
-<item>googlecalendar_d1</item>
 <item>googlecalendar_d10</item>
 <item>googlecalendar_d11</item>
 <item>googlecalendar_d12</item>
@@ -231,7 +233,7 @@
 <item>googlecalendar_d17</item>
 <item>googlecalendar_d18</item>
 <item>googlecalendar_d19</item>
-<item>googlecalendar_d2</item>
+<item>googlecalendar_d1</item>
 <item>googlecalendar_d20</item>
 <item>googlecalendar_d21</item>
 <item>googlecalendar_d22</item>
@@ -242,9 +244,10 @@
 <item>googlecalendar_d27</item>
 <item>googlecalendar_d28</item>
 <item>googlecalendar_d29</item>
-<item>googlecalendar_d3</item>
+<item>googlecalendar_d2</item>
 <item>googlecalendar_d30</item>
 <item>googlecalendar_d31</item>
+<item>googlecalendar_d3</item>
 <item>googlecalendar_d4</item>
 <item>googlecalendar_d5</item>
 <item>googlecalendar_d6</item>
@@ -375,8 +378,8 @@
 <item>mokee_aegis</item>
 <item>mokee_center</item>
 <item>momo</item>
-<item>monument</item>
 <item>monument2</item>
+<item>monument</item>
 <item>moonreader</item>
 <item>moshouzhushou</item>
 <item>mosoteach</item>
@@ -461,6 +464,7 @@
 <item>oneplus_setting</item>
 <item>oneplus_soundrecorder</item>
 <item>oneplus_switch</item>
+<item>openhub</item>
 <item>oppo_app_store</item>
 <item>oppo_compass</item>
 <item>oppo_files</item>
@@ -488,6 +492,7 @@
 <item>ppiicc</item>
 <item>psbc</item>
 <item>pstouch</item>
+<item>pub_gfx_tool_xda</item>
 <item>pubgm</item>
 <item>pure_icon_pack</item>
 <item>pure_icon_pack_lite</item>
@@ -509,6 +514,7 @@
 <item>qqzc</item>
 <item>quark</item>
 <item>quick_pic</item>
+<item>qzone</item>
 <item>radio</item>
 <item>register</item>
 <item>retro_music</item>
@@ -585,6 +591,7 @@
 <item>taobao_islefish</item>
 <item>taobao_movie</item>
 <item>taptap</item>
+<item>teamviewer</item>
 <item>ted</item>
 <item>telegram</item>
 <item>telegram_x</item>
@@ -627,6 +634,7 @@
 <item>viperfx</item>
 <item>vlc</item>
 <item>vmall</item>
+<item>w3cschool</item>
 <item>wakeup</item>
 <item>wandoujia</item>
 <item>wangmiao</item>
@@ -650,6 +658,7 @@
 <item>xgsp</item>
 <item>xiachufang</item>
 <item>xiami_music</item>
+<item>xiaoenai</item>
 <item>xiaomi_shop</item>
 <item>xiaomi_youpin</item>
 <item>ximalayafm</item>

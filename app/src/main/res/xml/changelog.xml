@@ -15,7 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v2.4.2" />
+    <version title="v2.4.3" />
+    <item text="万年不变的更新日志假装加了一条日志" />
     <item text="加入新图标" />
     <item text="调整适配部分图标" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
