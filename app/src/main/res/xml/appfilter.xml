@@ -1248,6 +1248,8 @@
 		<item component="ComponentInfo{org.chromium.webapk.a01684c55bfc38659/org.chromium.webapk.shell_apk.MainActivity}" drawable="instagram"/>
 		<item component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}" drawable="mr_translator"/>
 		<item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hiby_music"/>
+		<item component="ComponentInfo{com.behance.behance/com.behance.network.ui.activities.MainActivity}" drawable="behance"/>
+		<item component="ComponentInfo{com.sandisk.mz/com.sandisk.mz.ui.activity.SplashActivity}" drawable="memory_zone"/>
 
 
 

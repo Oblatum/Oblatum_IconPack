@@ -23,10 +23,13 @@
 	<category title="New and Update" />
 	  <item drawable="haoce" />
 	  <item drawable="hiby_music" />
-  	<item drawable="mr_translator" />
-  	<item drawable="novelmanager" />
-  	<item drawable="super_pad" />
+  	  <item drawable="mr_translator" />
+	  <item drawable="novelmanager" />
+	  <item drawable="super_pad" />
 
+	  <item drawable="memory_zone" />
+	  <item drawable="fasthub" />
+  
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
@@ -551,6 +554,7 @@
 		<item drawable="meeye" />
 		<item drawable="meitu" />
 		<item drawable="meituan" />
+		<item drawable="memory_zone" />
 		<item drawable="message" />
 		<item drawable="message_1" />
 		<item drawable="messenger_lite" />
