@@ -30,7 +30,9 @@
 		<item drawable="teamviewer" />
 		<item drawable="w3cschool" />
 		<item drawable="xiaoenai" />
-
+	  <item drawable="memory_zone" />
+	  <item drawable="fasthub" />
+  
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
@@ -558,6 +560,7 @@
 		<item drawable="meeye" />
 		<item drawable="meitu" />
 		<item drawable="meituan" />
+		<item drawable="memory_zone" />
 		<item drawable="message" />
 		<item drawable="message_1" />
 		<item drawable="messenger_lite" />

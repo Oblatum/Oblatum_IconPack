@@ -21,6 +21,8 @@
 	<version>1</version>
 
 	<category title="New and Update" />
+	  <item drawable="memory_zone" />
+	  <item drawable="fasthub" />
 		<item drawable="android_p_ify" />
 		<item drawable="caihong_world" />
 		<item drawable="duitang" />
@@ -30,7 +32,7 @@
 		<item drawable="teamviewer" />
 		<item drawable="w3cschool" />
 		<item drawable="xiaoenai" />
-
+  
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
 		<item drawable="folder_google" />
@@ -558,6 +560,7 @@
 		<item drawable="meeye" />
 		<item drawable="meitu" />
 		<item drawable="meituan" />
+		<item drawable="memory_zone" />
 		<item drawable="message" />
 		<item drawable="message_1" />
 		<item drawable="messenger_lite" />
