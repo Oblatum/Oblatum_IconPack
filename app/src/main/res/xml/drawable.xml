@@ -21,7 +21,7 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	  <item drawable="android_p_ify" />
+	 	<item drawable="android_p_ify" />
 		<item drawable="caihong_world" />
 		<item drawable="duitang" />
 		<item drawable="openhub" />
@@ -30,8 +30,11 @@
 		<item drawable="teamviewer" />
 		<item drawable="w3cschool" />
 		<item drawable="xiaoenai" />
-	  <item drawable="memory_zone" />
-	  <item drawable="fasthub" />
+		<item drawable="memory_zone" />
+		<item drawable="fasthub" />
+
+		<item drawable="ingress" />
+		<item drawable="ingress_prime" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
