@@ -875,6 +875,7 @@
 		<item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}" drawable="lushi" />
 		<item component="ComponentInfo{jp.co.hit_point.tabikaeru.st/com.sthh.StShellActivity}" drawable="lxqw" />
 		<item component="ComponentInfo{jp.co.hit_point.tabikaeru/net.gree.unitywebview.CUnityPlayerActivity}" drawable="lxqw" />
+		<item component="ComponentInfo{jp.co.hit_point.tabikaeru/com.unity3d.player.UnityPlayerActivity}" drawable="lxqw" />
 		<item component="ComponentInfo{com.suihan.version3/com.suihan.version3.MainActivity}" drawable="sh_inputs" />
 		<item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher" />
 		<item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex" />
@@ -1261,6 +1262,8 @@
 		<item component="ComponentInfo{cn.w3cschool.app/com.uzmap.pkg.EntranceActivity}" drawable="w3cschool" />
 		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.classes.startup.LauncherActivity}" drawable="xiaoenai" />
 		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.presentation.launcher.LauncherActivity}" drawable="xiaoenai" />
+		<item component="ComponentInfo{com.nianticproject.ingress/com.google.firebase.MessagingUnityPlayerActivity}" drawable="ingress_prime" />
+
 
 
 
