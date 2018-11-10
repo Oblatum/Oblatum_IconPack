@@ -21,20 +21,20 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-	 	<item drawable="android_p_ify" />
-		<item drawable="caihong_world" />
-		<item drawable="duitang" />
-		<item drawable="openhub" />
-		<item drawable="pub_gfx_tool_xda" />
-		<item drawable="qzone" />
-		<item drawable="teamviewer" />
-		<item drawable="w3cschool" />
-		<item drawable="xiaoenai" />
-		<item drawable="memory_zone" />
-		<item drawable="fasthub" />
-
+		<item drawable="a_island" />
+		<item drawable="android_p_ify" />
+		<item drawable="book_cp" />
+		<item drawable="book_jj" />
 		<item drawable="ingress" />
 		<item drawable="ingress_prime" />
+		<item drawable="mtgp_lol" />
+		<item drawable="nimingban" />
+		<item drawable="openhub" />
+		<item drawable="samsung_galaxycare" />
+		<item drawable="sky_compass" />
+		<item drawable="tieyou" />
+		<item drawable="video_rr" />
+		<item drawable="wanmeixiaoyaun" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -252,21 +252,23 @@
 		<item drawable="hyxd"/>
 		<item drawable="implosion" />
 		<item drawable="ingress" />
+		<item drawable="ingress_prime" />
 		<item drawable="kihan" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
 		<item drawable="minecraft"/>
 		<item drawable="monument2" />
-		<item drawable="netease_moba_bili"/>
+		<item drawable="mtgp_lol" />
 		<item drawable="netease_moba" />
+		<item drawable="netease_moba_bili"/>
 		<item drawable="osu" />
 		<item drawable="pubgm" />
 		<item drawable="soul_knight" />
 		<item drawable="tencent_speedmobile"/>
 		<item drawable="vainglory" />
+		<item drawable="wzry" />
 		<item drawable="wzry_beta" />
 		<item drawable="wzry_helper" />
-		<item drawable="wzry" />
 		<item drawable="xbox" />
 		<item drawable="xmqz"/>
 		<item drawable="yys" />

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 	<string-array name="icons_preview">
+		<item>a_island</item>
 		<item>abc</item>
 		<item>accubattery</item>
 		<item>acfun</item>
@@ -69,6 +70,8 @@
 		<item>blued_int</item>
 		<item>bmap</item>
 		<item>boc</item>
+		<item>book_cp</item>
+		<item>book_jj</item>
 		<item>bookshelf</item>
 		<item>browser</item>
 		<item>bullet_message</item>
@@ -388,6 +391,7 @@
 		<item>move_to_miui</item>
 		<item>mr_translator</item>
 		<item>mtglq</item>
+		<item>mtgp_lol</item>
 		<item>mtwm</item>
 		<item>music</item>
 		<item>musicfx</item>
@@ -409,6 +413,7 @@
 		<item>new500</item>
 		<item>news_and_weather</item>
 		<item>nga</item>
+		<item>nimingban</item>
 		<item>nokia_notes</item>
 		<item>nokia_smart_tuner</item>
 		<item>novalauncher</item>
@@ -524,6 +529,7 @@
 		<item>rricon</item>
 		<item>rricon_primitive</item>
 		<item>samsung_assistant</item>
+		<item>samsung_galaxycare</item>
 		<item>samsung_game_launcher</item>
 		<item>samsung_game_turner</item>
 		<item>samsung_health</item>
@@ -548,6 +554,7 @@
 		<item>shuttle</item>
 		<item>sim_toolkit</item>
 		<item>sketchbook</item>
+		<item>sky_compass</item>
 		<item>smartisan_bbs</item>
 		<item>smartisan_drivingmode</item>
 		<item>smartisan_idearpills</item>
@@ -609,6 +616,7 @@
 		<item>tgp</item>
 		<item>themes</item>
 		<item>thing</item>
+		<item>tieyou</item>
 		<item>tim</item>
 		<item>titaniumbackup</item>
 		<item>tmall</item>
@@ -631,6 +639,7 @@
 		<item>vertical_book</item>
 		<item>via</item>
 		<item>via_alt</item>
+		<item>video_rr</item>
 		<item>village</item>
 		<item>viper4android</item>
 		<item>viperfx</item>
@@ -640,6 +649,7 @@
 		<item>wakeup</item>
 		<item>wandoujia</item>
 		<item>wangmiao</item>
+		<item>wanmeixiaoyaun</item>
 		<item>weather</item>
 		<item>weibo</item>
 		<item>weixin</item>
