@@ -1263,6 +1263,16 @@
 		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.classes.startup.LauncherActivity}" drawable="xiaoenai" />
 		<item component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.presentation.launcher.LauncherActivity}" drawable="xiaoenai" />
 		<item component="ComponentInfo{com.nianticproject.ingress/com.google.firebase.MessagingUnityPlayerActivity}" drawable="ingress_prime" />
+		<item component="ComponentInfo{nimingban.hacfun.tv/nimingban.hacfun.tv.MainActivity}" drawable="a_island" />
+		<item component="ComponentInfo{net.cpwxw.cpfiction/com.zhulin.reader.SplashActivity}" drawable="book_cp" />
+		<item component="ComponentInfo{com.jjwxc.reader/com.example.jinjiangshucheng.AppStart}" drawable="book_jj" />
+		<item component="ComponentInfo{com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity}" drawable="mtgp_lol" />
+		<item component="ComponentInfo{com.tieyou.train.ark/com.zt.main.entrance.ZTLaunchActivity}" drawable="tieyou" />
+		<item component="ComponentInfo{jp.co.cygames.skycompass/jp.co.cygames.skycompass.launch.LaunchScreenActivity}" drawable="sky_compass" />
+		<item component="ComponentInfo{com.hippo.nimingban/com.hippo.nimingban.ui.ListActivity}" drawable="nimingban" />
+		<item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_galaxycare" />
+		<item component="ComponentInfo{com.zhongduomei.rrmj.society/com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity}" drawable="video_rr" />
+		<item component="ComponentInfo{com.newcapec.mobile.ncp/com.wanxiao.basebusiness.activity.SplashActivity}" drawable="wanmeixiaoyaun" />
 
 
 
