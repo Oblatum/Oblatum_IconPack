@@ -21,20 +21,19 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="a_island" />
-		<item drawable="android_p_ify" />
-		<item drawable="book_cp" />
-		<item drawable="book_jj" />
-		<item drawable="ingress" />
-		<item drawable="ingress_prime" />
-		<item drawable="mtgp_lol" />
-		<item drawable="nimingban" />
-		<item drawable="openhub" />
-		<item drawable="samsung_galaxycare" />
-		<item drawable="sky_compass" />
-		<item drawable="tieyou" />
-		<item drawable="video_rr" />
-		<item drawable="wanmeixiaoyaun" />
+		<item drawable="ali_smartdail" />
+		<item drawable="aliqin" />
+		<item drawable="benghuai2" />
+		<item drawable="boa" />
+		<item drawable="business_calendar" />
+		<item drawable="dxy" />
+		<item drawable="mi_router" />
+		<item drawable="mtk_mode" />
+		<item drawable="qdreader" />
+		<item drawable="shazam" />
+		<item drawable="star_walk2" />
+		<item drawable="star_walk2_1" />
+		<item drawable="yidianzixun" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -162,6 +161,7 @@
 
 	<category title="MIUI" />
 		<item drawable="manyou" />
+		<item drawable="mi_router" />
 		<item drawable="miui_compass" />
 		<item drawable="miui_feedback" />
 		<item drawable="miui_gamecenter" />
@@ -242,9 +242,10 @@
 
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
+		<item drawable="benghuai2" />
 		<item drawable="benghuai3"/>
-		<item drawable="cjzc_1" />
 		<item drawable="cjzc" />
+		<item drawable="cjzc_1" />
 		<item drawable="clash_of_clans" />
 		<item drawable="clash_royale" />
 		<item drawable="dancing_line" />
@@ -292,9 +293,11 @@
 		<item drawable="aikan_reader" />
 		<item drawable="airbattery" />
 		<item drawable="airfrozen" />
+		<item drawable="ali_smartdail" />
 		<item drawable="alipay" />
 		<item drawable="alipay_alt" />
 		<item drawable="alipay_alt2" />
+		<item drawable="aliqin" />
 		<item drawable="aliyun" />
 		<item drawable="aloha" />
 		<item drawable="ampere" />
@@ -327,6 +330,7 @@
 		<item drawable="bankcomm" />
 		<item drawable="bar" />
 		<item drawable="bbs1024" />
+		<item drawable="benghuai2" />
 		<item drawable="benghuai3" />
 		<item drawable="bilibili" />
 		<item drawable="bilibili_1" />
@@ -342,10 +346,12 @@
 		<item drawable="blued_hook_1" />
 		<item drawable="blued_int" />
 		<item drawable="bmap" />
+		<item drawable="boa" />
 		<item drawable="boc" />
 		<item drawable="bookshelf" />
 		<item drawable="browser" />
 		<item drawable="bullet_message" />
+		<item drawable="business_calendar" />
 		<item drawable="buyathome" />
 		<item drawable="cainiao" />
 		<item drawable="calculator" />
@@ -399,6 +405,7 @@
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
 		<item drawable="duokan_reader" />
+		<item drawable="dxy" />
 		<item drawable="earth" />
 		<item drawable="easy_share" />
 		<item drawable="eh_viewer" />
@@ -568,6 +575,7 @@
 		<item drawable="messenger_lite" />
 		<item drawable="metro" />
 		<item drawable="mi_home" />
+		<item drawable="mi_router" />
 		<item drawable="microsoft_edge" />
 		<item drawable="microsoft_launcher" />
 		<item drawable="microsoft_todo" />
@@ -612,6 +620,7 @@
 		<item drawable="move_to_miui" />
 		<item drawable="mr_translator" />
 		<item drawable="mtglq" />
+		<item drawable="mtk_mode" />
 		<item drawable="mtwm" />
 		<item drawable="music" />
 		<item drawable="musicfx" />
@@ -723,6 +732,7 @@
 		<item drawable="pure_weather" />
 		<item drawable="puretie" />
 		<item drawable="qcloud" />
+		<item drawable="qdreader" />
 		<item drawable="qq" />
 		<item drawable="qq_1" />
 		<item drawable="qq_2" />
@@ -765,6 +775,7 @@
 		<item drawable="shanbei_words" />
 		<item drawable="share" />
 		<item drawable="sharepoint" />
+		<item drawable="shazam" />
 		<item drawable="shenqi_browser" />
 		<item drawable="shuttle" />
 		<item drawable="sim_toolkit" />
@@ -799,6 +810,8 @@
 		<item drawable="ss" />
 		<item drawable="ssr" />
 		<item drawable="ssrr" />
+		<item drawable="star_walk2" />
+		<item drawable="star_walk2_1" />
 		<item drawable="starbucks" />
 		<item drawable="steam" />
 		<item drawable="steam_lite" />
@@ -892,6 +905,7 @@
 		<item drawable="xyst" />
 		<item drawable="yanxuan" />
 		<item drawable="ygmh" />
+		<item drawable="yidianzixun" />
 		<item drawable="ykjl" />
 		<item drawable="ylqb" />
 		<item drawable="yogurt_iconpack" />
