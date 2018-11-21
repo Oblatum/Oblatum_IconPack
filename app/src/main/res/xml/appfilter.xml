@@ -724,6 +724,7 @@
 		<item component="ComponentInfo{cn.jadenine.himail/com.jadenine.email.ui.Welcome}" drawable="jmail" />
 		<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" />
 		<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx_player" />
+		<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="mx_player" />
 		<item component="ComponentInfo{com.tencent.qq.kddi/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_jp" />
 		<item component="ComponentInfo{com.tencent.qq.kddi/com.tencent.qq.kddi.activity.SplashActivity}" drawable="qq_jp" />
 		<item component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}" drawable="tencent_weread" />
@@ -1273,8 +1274,22 @@
 		<item component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}" drawable="samsung_galaxycare" />
 		<item component="ComponentInfo{com.zhongduomei.rrmj.society/com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity}" drawable="video_rr" />
 		<item component="ComponentInfo{com.newcapec.mobile.ncp/com.wanxiao.basebusiness.activity.SplashActivity}" drawable="wanmeixiaoyaun" />
-	    <item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.MainActivity}" drawable="netease_uu"/>
-	    <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.HomePageActivity}" drawable="cainiao"/>
+		<item component="ComponentInfo{com.netease.uu/com.netease.uu.activity.MainActivity}" drawable="netease_uu"/>
+		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.HomePageActivity}" drawable="cainiao"/>
+		<item component="ComponentInfo{com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity}" drawable="mi_router"/>
+		<item component="ComponentInfo{com.aliqin.mytel/com.aliqin.mytel.SplashActivity}" drawable="aliqin"/>
+		<item component="ComponentInfo{com.cpf.mtkmode/com.cpf.mtkmode.WelcomeActivity}" drawable="mtk_mode"/>
+		<item component="ComponentInfo{com.infonow.bofa/com.infonow.bofa.Launcher}" drawable="boa"/>
+		<item component="ComponentInfo{cn.dxy.android.aspirin/cn.dxy.android.aspirin.ui.activity.StartupActivity}" drawable="dxy"/>
+		<item component="ComponentInfo{com.alicom.smartdail/com.alicom.smartdail.view.enter.SplashActivity}" drawable="ali_smartdail"/>
+		<item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.activities.SplashActivity}" drawable="shazam"/>
+		<item component="ComponentInfo{com.vitotechnology.StarWalk2/com.vitotechnology.common.GooglePlayBillingActivity}" drawable="star_walk2"/>
+		<item component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" drawable="business_calendar"/>
+		<item component="ComponentInfo{com.hipu.yidian/com.yidian.news.ui.guide.UserGuideActivity}" drawable="yidianzixun"/>
+		<item component="ComponentInfo{com.miHoYo.HSoDv22144.qihoo/com.miHoYo.qihoosdk.Agent}" drawable="benghuai2"/>
+		<item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qqreader"/>
+		<item component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.assistant.activity.SplashActivity}" drawable="app_qq"/>
+
 
 
 
