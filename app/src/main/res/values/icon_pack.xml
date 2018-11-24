@@ -33,6 +33,7 @@
 		<item>apex</item>
 		<item>apk_store</item>
 		<item>apkpure</item>
+		<item>aplayer</item>
 		<item>app_logo</item>
 		<item>apple_music</item>
 		<item>arcaea</item>
@@ -52,6 +53,8 @@
 		<item>baidu_netdisk</item>
 		<item>baidu_nuomi</item>
 		<item>baidu_tieba</item>
+		<item>baidu_translate</item>
+		<item>baidu_tuiguang</item>
 		<item>baimiao</item>
 		<item>bankcomm</item>
 		<item>bar</item>
@@ -75,6 +78,7 @@
 		<item>boa</item>
 		<item>boc</item>
 		<item>book_cp</item>
+		<item>book_douban</item>
 		<item>book_jj</item>
 		<item>bookshelf</item>
 		<item>browser</item>
@@ -103,6 +107,7 @@
 		<item>cjzc_1</item>
 		<item>clash_of_clans</item>
 		<item>clash_royale</item>
+		<item>class_163</item>
 		<item>cliff</item>
 		<item>clock</item>
 		<item>cmb</item>
@@ -125,6 +130,7 @@
 		<item>discord</item>
 		<item>diyidan</item>
 		<item>dizzypassword</item>
+		<item>dmzj</item>
 		<item>douban</item>
 		<item>douyin</item>
 		<item>douyutv</item>
@@ -274,6 +280,7 @@
 		<item>hdzuoye</item>
 		<item>heiyu</item>
 		<item>hellobike</item>
+		<item>hexin</item>
 		<item>hiby_music</item>
 		<item>hola</item>
 		<item>holi_weather</item>
@@ -304,6 +311,7 @@
 		<item>ic_dynamic_weather_unknown</item>
 		<item>icbc</item>
 		<item>ice_box</item>
+		<item>icmbc</item>
 		<item>ifanr</item>
 		<item>iflat</item>
 		<item>ifttt</item>
@@ -330,6 +338,7 @@
 		<item>lbe_security</item>
 		<item>leafpic</item>
 		<item>linos_recorder</item>
+		<item>lofter</item>
 		<item>lol_friend</item>
 		<item>lovebizhi</item>
 		<item>lovelycat</item>
@@ -639,6 +648,7 @@
 		<item>tray</item>
 		<item>tripview_lite</item>
 		<item>troye_sivan</item>
+		<item>tuchong</item>
 		<item>tumblr</item>
 		<item>twitch</item>
 		<item>twitter</item>
@@ -659,6 +669,7 @@
 		<item>vmall</item>
 		<item>w3cschool</item>
 		<item>wakeup</item>
+		<item>wallet_baidu</item>
 		<item>wandoujia</item>
 		<item>wangmiao</item>
 		<item>wanmeixiaoyaun</item>
@@ -708,11 +719,12 @@
 		<item>yys</item>
 		<item>yys_1</item>
 		<item>yyszs</item>
-		<item>z_live</item>
 		<item>zarchiver</item>
 		<item>zhihu</item>
 		<item>zhihu_daily</item>
 		<item>zhuishu</item>
 		<item>zhuishudashen</item>
+		<item>zlive</item>
+		<item>zlive_1</item>
 	</string-array>
 </resources>

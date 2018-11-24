@@ -1289,11 +1289,24 @@
 		<item component="ComponentInfo{com.miHoYo.HSoDv22144.qihoo/com.miHoYo.qihoosdk.Agent}" drawable="benghuai2"/>
 		<item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qqreader"/>
 		<item component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.assistant.activity.SplashActivity}" drawable="app_qq"/>
+	    <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
+		<item component="ComponentInfo{com.baidu.wallet/com.baidu.wallet.home.SplashActivity}" drawable="wallet_baidu"/>
+		<item component="ComponentInfo{com.douban.book.reader/com.douban.book.reader.activity.SplashActivity}" drawable="book_douban"/>
+		<item component="ComponentInfo{com.baidu.baidutranslate/com.baidu.baidutranslate.activity.SplashActivity}" drawable="baidu_translate"/>
+		<item component="ComponentInfo{com.baidu.fengchao.ui/com.baidu.fengchao.ui.WelcomeActivity}" drawable="baidu_tuiguang"/>
+		<item component="ComponentInfo{com.cmbchina.ccd.pluto.cmbActivity/com.cmbchina.ccd.pluto.cmbActivity.SplashActivity}" drawable="icmbc"/>
+		<item component="ComponentInfo{com.ss.android.tuchong/com.ss.android.tuchong.splash.controller.SplashActivity}" drawable="tuchong"/>
+		<item component="ComponentInfo{com.hexin.plat.android/com.hexin.plat.android.AndroidLogoActivity}" drawable="hexin"/>
+		<item component="ComponentInfo{com.dmzj.manhua/com.dmzj.manhua.ui.LaunchInterceptorActivity}" drawable="dmzj"/>
+		<item component="ComponentInfo{com.lofter.android/com.lofter.android.activity.SplashActivity}" drawable="lofter"/>
+		<item component="ComponentInfo{remix.myplayer/remix.myplayer.ui.activity.MainActivity}" drawable="aplayer" />
+		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityZero}" drawable="zlive"/>
 
 
 
 
-		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
+
+	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" xml="weather" />
 		<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" xml="clock" />

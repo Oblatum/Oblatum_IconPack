@@ -21,19 +21,18 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="ali_smartdail" />
-		<item drawable="aliqin" />
-		<item drawable="benghuai2" />
-		<item drawable="boa" />
-		<item drawable="business_calendar" />
-		<item drawable="dxy" />
-		<item drawable="mi_router" />
-		<item drawable="mtk_mode" />
-		<item drawable="qdreader" />
-		<item drawable="shazam" />
-		<item drawable="star_walk2" />
-		<item drawable="star_walk2_1" />
-		<item drawable="yidianzixun" />
+		<item drawable="aplayer" />
+		<item drawable="baidu_translate" />
+		<item drawable="baidu_tuiguang" />
+		<item drawable="book_douban" />
+		<item drawable="class_163" />
+		<item drawable="dmzj" />
+		<item drawable="hexin" />
+		<item drawable="icmbc" />
+		<item drawable="lofter" />
+		<item drawable="tuchong" />
+		<item drawable="wallet_baidu" />
+		<item drawable="zlive" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -307,6 +306,7 @@
 		<item drawable="apex" />
 		<item drawable="apk_store" />
 		<item drawable="apkpure" />
+		<item drawable="aplayer" />
 		<item drawable="apple_music" />
 		<item drawable="apple_music" />
 		<item drawable="arcaea" />
@@ -326,6 +326,8 @@
 		<item drawable="baidu_netdisk" />
 		<item drawable="baidu_nuomi" />
 		<item drawable="baidu_tieba" />
+		<item drawable="baidu_translate" />
+		<item drawable="baidu_tuiguang" />
 		<item drawable="baimiao" />
 		<item drawable="bankcomm" />
 		<item drawable="bar" />
@@ -348,6 +350,7 @@
 		<item drawable="bmap" />
 		<item drawable="boa" />
 		<item drawable="boc" />
+		<item drawable="book_douban" />
 		<item drawable="bookshelf" />
 		<item drawable="browser" />
 		<item drawable="bullet_message" />
@@ -374,6 +377,7 @@
 		<item drawable="cjzc_1" />
 		<item drawable="clash_of_clans" />
 		<item drawable="clash_royale" />
+		<item drawable="class_163" />
 		<item drawable="cliff" />
 		<item drawable="clock" />
 		<item drawable="cmb" />
@@ -397,6 +401,7 @@
 		<item drawable="discord" />
 		<item drawable="diyidan" />
 		<item drawable="dizzypassword" />
+		<item drawable="dmzj" />
 		<item drawable="douban" />
 		<item drawable="douyin" />
 		<item drawable="douyutv" />
@@ -515,6 +520,7 @@
 		<item drawable="hdzuoye" />
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
+		<item drawable="hexin" />
 		<item drawable="hiby_music" />
 		<item drawable="hola" />
 		<item drawable="holi_weather" />
@@ -527,6 +533,7 @@
 		<item drawable="i_reader" />
 		<item drawable="icbc" />
 		<item drawable="ice_box" />
+		<item drawable="icmbc" />
 		<item drawable="ifanr" />
 		<item drawable="iflat" />
 		<item drawable="ifttt" />
@@ -552,6 +559,7 @@
 		<item drawable="lbe_security" />
 		<item drawable="leafpic" />
 		<item drawable="linos_recorder" />
+		<item drawable="lofter" />
 		<item drawable="lol_friend" />
 		<item drawable="lovebizhi" />
 		<item drawable="lovelycat" />
@@ -852,6 +860,7 @@
 		<item drawable="tray" />
 		<item drawable="tripview_lite" />
 		<item drawable="troye_sivan" />
+		<item drawable="tuchong" />
 		<item drawable="tumblr" />
 		<item drawable="twitch" />
 		<item drawable="twitter" />
@@ -870,6 +879,7 @@
 		<item drawable="vlc" />
 		<item drawable="vmall" />
 		<item drawable="wakeup" />
+		<item drawable="wallet_baidu" />
 		<item drawable="wandoujia" />
 		<item drawable="wangmiao" />
 		<item drawable="weather" />
@@ -917,13 +927,13 @@
 		<item drawable="yys" />
 		<item drawable="yys_1" />
 		<item drawable="yyszs" />
-		<item drawable="z_live" />
-		<item drawable="z_live" />
 		<item drawable="zarchiver" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
 		<item drawable="zhuishu" />
 		<item drawable="zhuishudashen" />
+		<item drawable="zlive" />
+		<item drawable="zlive_1" />
 
 
 </resources>
