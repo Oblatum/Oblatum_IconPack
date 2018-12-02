@@ -276,6 +276,7 @@
 
 
 	<category title="All" /><!-- All icons here -->
+		<item drawable="a_island" />
 		<item drawable="abc" />
 		<item drawable="accubattery" />
 		<item drawable="acfun" />
@@ -294,12 +295,13 @@
 		<item drawable="airfrozen" />
 		<item drawable="ali_smartdail" />
 		<item drawable="alipay" />
-		<item drawable="alipay_alt" />
 		<item drawable="alipay_alt2" />
+		<item drawable="alipay_alt" />
 		<item drawable="aliqin" />
 		<item drawable="aliyun" />
 		<item drawable="aloha" />
 		<item drawable="ampere" />
+		<item drawable="android_p_ify" />
 		<item drawable="android_pay" />
 		<item drawable="antutu" />
 		<item drawable="anyview" />
@@ -307,7 +309,7 @@
 		<item drawable="apk_store" />
 		<item drawable="apkpure" />
 		<item drawable="aplayer" />
-		<item drawable="apple_music" />
+		<item drawable="app_logo" />
 		<item drawable="apple_music" />
 		<item drawable="arcaea" />
 		<item drawable="aries_iconpack" />
@@ -337,9 +339,9 @@
 		<item drawable="bilibili" />
 		<item drawable="bilibili_1" />
 		<item drawable="bilibili_blue" />
-		<item drawable="bilibili_cover" />
 		<item drawable="bilibili_cover2" />
 		<item drawable="bilibili_cover3" />
+		<item drawable="bilibili_cover" />
 		<item drawable="bilibili_link" />
 		<item drawable="blackblub" />
 		<item drawable="blued" />
@@ -350,12 +352,15 @@
 		<item drawable="bmap" />
 		<item drawable="boa" />
 		<item drawable="boc" />
+		<item drawable="book_cp" />
 		<item drawable="book_douban" />
+		<item drawable="book_jj" />
 		<item drawable="bookshelf" />
 		<item drawable="browser" />
 		<item drawable="bullet_message" />
 		<item drawable="business_calendar" />
 		<item drawable="buyathome" />
+		<item drawable="caihong_world" />
 		<item drawable="cainiao" />
 		<item drawable="calculator" />
 		<item drawable="calendar_dynamic" />
@@ -517,7 +522,6 @@
 		<item drawable="haoce" />
 		<item drawable="happy_browser" />
 		<item drawable="hdzuoye" />
-		<item drawable="hdzuoye" />
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
 		<item drawable="hexin" />
@@ -540,6 +544,7 @@
 		<item drawable="implosion" />
 		<item drawable="inbox" />
 		<item drawable="ingress" />
+		<item drawable="ingress_prime" />
 		<item drawable="instagram" />
 		<item drawable="interface_iconpack" />
 		<item drawable="iqiyi" />
@@ -570,7 +575,9 @@
 		<item drawable="mail_master" />
 		<item drawable="maimemo" />
 		<item drawable="mancamera" />
+		<item drawable="mangotv" />
 		<item drawable="mangotv"/>
+		<item drawable="mangotv_alt" />
 		<item drawable="mangotv_alt"/>
 		<item drawable="manyou" />
 		<item drawable="mark_qrcode" />
@@ -620,14 +627,15 @@
 		<item drawable="mokee_aegis" />
 		<item drawable="mokee_center" />
 		<item drawable="momo" />
-		<item drawable="monument" />
 		<item drawable="monument2" />
+		<item drawable="monument" />
 		<item drawable="moonreader" />
 		<item drawable="moshouzhushou" />
 		<item drawable="mosoteach" />
 		<item drawable="move_to_miui" />
 		<item drawable="mr_translator" />
 		<item drawable="mtglq" />
+		<item drawable="mtgp_lol" />
 		<item drawable="mtk_mode" />
 		<item drawable="mtwm" />
 		<item drawable="music" />
@@ -650,6 +658,7 @@
 		<item drawable="new500" />
 		<item drawable="news_and_weather" />
 		<item drawable="nga" />
+		<item drawable="nimingban" />
 		<item drawable="nokia_notes" />
 		<item drawable="nokia_smart_tuner" />
 		<item drawable="novalauncher" />
@@ -707,6 +716,7 @@
 		<item drawable="oneplus_setting" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
+		<item drawable="openhub" />
 		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_files" />
@@ -734,6 +744,7 @@
 		<item drawable="ppiicc" />
 		<item drawable="psbc" />
 		<item drawable="pstouch" />
+		<item drawable="pub_gfx_tool_xda" />
 		<item drawable="pubgm" />
 		<item drawable="pure_icon_pack" />
 		<item drawable="pure_icon_pack_lite" />
@@ -756,6 +767,7 @@
 		<item drawable="qqzc" />
 		<item drawable="quark" />
 		<item drawable="quick_pic" />
+		<item drawable="qzone" />
 		<item drawable="radio" />
 		<item drawable="register" />
 		<item drawable="retro_music" />
@@ -763,8 +775,10 @@
 		<item drawable="rricon" />
 		<item drawable="rricon_primitive" />
 		<item drawable="samsung_assistant" />
+		<item drawable="samsung_galaxycare" />
 		<item drawable="samsung_game_launcher" />
 		<item drawable="samsung_game_tuner" />
+		<item drawable="samsung_game_turner" />
 		<item drawable="samsung_health" />
 		<item drawable="samsung_magazine" />
 		<item drawable="samsung_pay" />
@@ -788,6 +802,7 @@
 		<item drawable="shuttle" />
 		<item drawable="sim_toolkit" />
 		<item drawable="sketchbook" />
+		<item drawable="sky_compass" />
 		<item drawable="smartisan_bbs" />
 		<item drawable="smartisan_drivingmode" />
 		<item drawable="smartisan_idearpills" />
@@ -796,6 +811,7 @@
 		<item drawable="smartisanos_mover" />
 		<item drawable="smzdm" />
 		<item drawable="snailread" />
+		<item drawable="snailread_alt" />
 		<item drawable="snailread_alt"/>
 		<item drawable="snap" />
 		<item drawable="snapseed" />
@@ -814,6 +830,7 @@
 		<item drawable="sound_recorder" />
 		<item drawable="soundcloud" />
 		<item drawable="speadtest" />
+		<item drawable="speedtest" />
 		<item drawable="spotify" />
 		<item drawable="ss" />
 		<item drawable="ssr" />
@@ -835,6 +852,7 @@
 		<item drawable="taobao_islefish" />
 		<item drawable="taobao_movie" />
 		<item drawable="taptap" />
+		<item drawable="teamviewer" />
 		<item drawable="ted" />
 		<item drawable="telegram" />
 		<item drawable="telegram_x" />
@@ -850,6 +868,7 @@
 		<item drawable="tgp" />
 		<item drawable="themes" />
 		<item drawable="thing" />
+		<item drawable="tieyou" />
 		<item drawable="tim" />
 		<item drawable="titaniumbackup" />
 		<item drawable="tmall" />
@@ -873,15 +892,18 @@
 		<item drawable="vertical_book" />
 		<item drawable="via" />
 		<item drawable="via_alt" />
+		<item drawable="video_rr" />
 		<item drawable="village" />
 		<item drawable="viper4android" />
 		<item drawable="viperfx" />
 		<item drawable="vlc" />
 		<item drawable="vmall" />
+		<item drawable="w3cschool" />
 		<item drawable="wakeup" />
 		<item drawable="wallet_baidu" />
 		<item drawable="wandoujia" />
 		<item drawable="wangmiao" />
+		<item drawable="wanmeixiaoyaun" />
 		<item drawable="weather" />
 		<item drawable="weibo" />
 		<item drawable="weixin" />
@@ -902,6 +924,7 @@
 		<item drawable="xgsp" />
 		<item drawable="xiachufang" />
 		<item drawable="xiami_music" />
+		<item drawable="xiaoenai" />
 		<item drawable="xiaomi_shop" />
 		<item drawable="xiaomi_youpin" />
 		<item drawable="ximalayafm" />
