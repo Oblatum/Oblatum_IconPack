@@ -42,6 +42,8 @@
 		<item>audiofx</item>
 		<item>audiofx_1</item>
 		<item>autohome</item>
+		<item>avgp</item>
+		<item>avnight</item>
 		<item>awesome_qr</item>
 		<item>b612</item>
 		<item>b612_jimeng</item>
@@ -58,7 +60,9 @@
 		<item>baimiao</item>
 		<item>bankcomm</item>
 		<item>bar</item>
+		<item>battle_net_authenticator</item>
 		<item>bbs1024</item>
+		<item>behance</item>
 		<item>benghuai2</item>
 		<item>benghuai3</item>
 		<item>bilibili</item>
@@ -103,6 +107,7 @@
 		<item>chrome_canary</item>
 		<item>chrome_dev</item>
 		<item>chromium</item>
+		<item>chushou</item>
 		<item>cjzc</item>
 		<item>cjzc_1</item>
 		<item>clash_of_clans</item>
@@ -111,6 +116,7 @@
 		<item>cliff</item>
 		<item>clock</item>
 		<item>cmb</item>
+		<item>cmbc</item>
 		<item>commbank</item>
 		<item>contacts</item>
 		<item>coolapk</item>
@@ -177,6 +183,7 @@
 		<item>evernote</item>
 		<item>excel</item>
 		<item>facebook</item>
+		<item>faloo_bookreader</item>
 		<item>fasthub</item>
 		<item>feedly</item>
 		<item>feizhu</item>
@@ -194,6 +201,7 @@
 		<item>folder_system</item>
 		<item>folder_xposed</item>
 		<item>fooview</item>
+		<item>foxit_pdf</item>
 		<item>fsbi</item>
 		<item>fsbi_2</item>
 		<item>fusion_app</item>
@@ -277,9 +285,11 @@
 		<item>hangouts</item>
 		<item>haoce</item>
 		<item>happy_browser</item>
+		<item>happyelements</item>
 		<item>hdzuoye</item>
 		<item>heiyu</item>
 		<item>hellobike</item>
+		<item>hero_yqlfc</item>
 		<item>hexin</item>
 		<item>hiby_music</item>
 		<item>hola</item>
@@ -341,6 +351,7 @@
 		<item>lofter</item>
 		<item>lol_friend</item>
 		<item>lovebizhi</item>
+		<item>lovelive</item>
 		<item>lovelycat</item>
 		<item>lp_iconpack</item>
 		<item>lushi</item>
@@ -399,6 +410,7 @@
 		<item>mokee_aegis</item>
 		<item>mokee_center</item>
 		<item>momo</item>
+		<item>monkeybook</item>
 		<item>monument2</item>
 		<item>monument</item>
 		<item>moonreader</item>
@@ -507,6 +519,7 @@
 		<item>phonograph</item>
 		<item>photoeditor</item>
 		<item>picacg</item>
+		<item>pinterest</item>
 		<item>pixiv</item>
 		<item>pixles_iconpack</item>
 		<item>pixles_iconpack_1</item>
@@ -522,6 +535,7 @@
 		<item>pure_icon_pack_lite</item>
 		<item>pure_weather</item>
 		<item>puretie</item>
+		<item>pvz</item>
 		<item>qcloud</item>
 		<item>qdreader</item>
 		<item>qq</item>
@@ -616,6 +630,7 @@
 		<item>super_pad</item>
 		<item>superstar</item>
 		<item>supersu</item>
+		<item>swiftkey</item>
 		<item>t_12306</item>
 		<item>taobao</item>
 		<item>taobao_islefish</item>
@@ -644,6 +659,7 @@
 		<item>tmgp_cf</item>
 		<item>today_s_headline</item>
 		<item>total_launcher</item>
+		<item>touchpal</item>
 		<item>tp_link</item>
 		<item>tray</item>
 		<item>tripview_lite</item>
