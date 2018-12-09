@@ -1318,6 +1318,24 @@
 		<item component="ComponentInfo{com.blizzard.bma.cn/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battle_net_authenticator" />
 		<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battle_net_authenticator" />
 		<item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.COPPAActivity}" drawable="pvz" />
+		<item component="ComponentInfo{com.alibaba.ailabs.tg/com.alibaba.ailabs.tg.splash.WelcomeActivity}" drawable="voice_tmall"/>
+		<item omponent="ComponentInfo{com.duxiaoman.wallet/com.duxiaoman.wallet.home.SplashActivity}" drawable="duxiaoman"/>
+		<item component="ComponentInfo{com.zhaopin.social/com.zhaopin.social.SplashActivity}" drawable="zhilianzhaoping"/>
+		<item component="ComponentInfo{com.rhmsoft.edit/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit"/>
+		<item component="ComponentInfo{github.tornaco.xposedmoduletest/github.tornaco.xposedmoduletest.ui.activity.NavigatorActivityBottomNav}" drawable="x_apm"/>
+		<item component="ComponentInfo{com.github.dawndiy.bifrostv/com.github.dawndiy.bifrostv.main.MainActivity}" drawable="bifrostv"/>
+		<item component="ComponentInfo{me.bluemail.mail/com.trtf.blue.activity.Accounts}" drawable="bluemail"/>
+		<item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="mx_player"/>
+		<item component="ComponentInfo{com.wokee.qpay/com.wokee.qpay.EmptyActivity}" drawable="qpay"/>
+		<item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity}" drawable="your_phone_companion"/>
+		<item component="ComponentInfo{com.bankcomm.maidanba/com.bankcomm.maidanba.activity.SplashActivity}" drawable="maidanba"/>
+		<item component="ComponentInfo{com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator}" drawable="calculator"/>
+		<item component="ComponentInfo{com.android.vending.billing.InAppBillingService.COIN/com.android.vending.billing.InAppBillingService.COIN.MainActivityOriginal}" drawable="lucky_patcher"/>
+		<item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island"/>
+
+
+
+
 
 
 

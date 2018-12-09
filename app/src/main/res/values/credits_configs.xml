@@ -35,13 +35,13 @@
 
     <string-array name="credits_buttons">
         <item>支付宝|更多方式</item>
-        <item>酷安主页</item>
+        <item>酷安主页|微博</item>
         <item>酷安主页|Twitter</item>
     </string-array>
 
     <string-array name="credits_links">
         <item>https://QR.ALIPAY.COM/FKX04200AHRIT2CGO7ONC6?t=1534082905106|http://image.coolapk.com/apk_image/2018/0925/21/1537871160412-166044-o_1co8g0hbg1ul5djgmvkjtgjcpq-uid-1102491@1080x2160.png</item>
-        <item>https://www.coolapk.com/u/464418</item>
+        <item>https://www.coolapk.com/u/464418|https://weibo.com/2110133364</item>
         <item>https://www.coolapk.com/u/724972|https://twitter.com/TucaoLiuOnline</item>
     </string-array>
 </resources>

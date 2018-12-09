@@ -25,18 +25,30 @@
 		<item drawable="avnight" />
 		<item drawable="battle_net_authenticator" />
 		<item drawable="behance" />
+		<item drawable="bifrostv" /> 
+		<item drawable="bluemail" />
 		<item drawable="chushou" />
 		<item drawable="cmbc" />
+		<item drawable="duxiaoman" />
 		<item drawable="faloo_bookreader" />
 		<item drawable="foxit_pdf" />
 		<item drawable="happyelements" />
 		<item drawable="hero_yqlfc" />
+		<item drawable="island" />
 		<item drawable="lovelive" />
+		<item drawable="lucky_patch" />
+		<item drawable="maidanba" />
 		<item drawable="monkeybook" />
 		<item drawable="pinterest" />
 		<item drawable="pvz" />
+		<item drawable="qpay" />
+		<item drawable="quickedit" />
 		<item drawable="swiftkey" />
 		<item drawable="touchpal" />
+		<item drawable="voice_tmall" />
+		<item drawable="x_apm" />
+		<item drawable="your_phone_companion" />
+		<item drawable="zhilianzhaoping" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -345,6 +357,7 @@
 		<item drawable="behance" />
 		<item drawable="benghuai2" />
 		<item drawable="benghuai3" />
+		<item drawable="bifrostv" /> 
 		<item drawable="bilibili" />
 		<item drawable="bilibili_1" />
 		<item drawable="bilibili_blue" />
@@ -358,6 +371,7 @@
 		<item drawable="blued_hook" />
 		<item drawable="blued_hook_1" />
 		<item drawable="blued_int" />
+		<item drawable="bluemail" />
 		<item drawable="bmap" />
 		<item drawable="boa" />
 		<item drawable="boc" />
@@ -426,6 +440,7 @@
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
 		<item drawable="duokan_reader" />
+		<item drawable="duxiaoman" />
 		<item drawable="dxy" />
 		<item drawable="earth" />
 		<item drawable="easy_share" />
@@ -563,6 +578,7 @@
 		<item drawable="instagram" />
 		<item drawable="interface_iconpack" />
 		<item drawable="iqiyi" />
+		<item drawable="island" />
 		<item drawable="it_home" />
 		<item drawable="javiewer" />
 		<item drawable="jd" />
@@ -585,9 +601,11 @@
 		<item drawable="lovelive" />
 		<item drawable="lovelycat" />
 		<item drawable="lp_iconpack" />
+		<item drawable="lucky_patch" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
 		<item drawable="magisk_manager" />
+		<item drawable="maidanba" />
 		<item drawable="mail_master" />
 		<item drawable="maimemo" />
 		<item drawable="mancamera" />
@@ -771,6 +789,7 @@
 		<item drawable="pvz" />
 		<item drawable="qcloud" />
 		<item drawable="qdreader" />
+		<item drawable="qpay" />
 		<item drawable="qq" />
 		<item drawable="qq_1" />
 		<item drawable="qq_2" />
@@ -786,6 +805,7 @@
 		<item drawable="qqzc" />
 		<item drawable="quark" />
 		<item drawable="quick_pic" />
+		<item drawable="quickedit" />
 		<item drawable="qzone" />
 		<item drawable="radio" />
 		<item drawable="register" />
@@ -919,6 +939,7 @@
 		<item drawable="viperfx" />
 		<item drawable="vlc" />
 		<item drawable="vmall" />
+		<item drawable="voice_tmall" />
 		<item drawable="w3cschool" />
 		<item drawable="wakeup" />
 		<item drawable="wallet_baidu" />
@@ -938,6 +959,7 @@
 		<item drawable="wzry_1" />
 		<item drawable="wzry_beta" />
 		<item drawable="wzry_helper" />
+		<item drawable="x_apm" />
 		<item drawable="xbj" />
 		<item drawable="xbox" />
 		<item drawable="xbrowser" />
@@ -966,6 +988,7 @@
 		<item drawable="youdao_dict" />
 		<item drawable="youdao_net_note" />
 		<item drawable="youku" />
+		<item drawable="your_phone_companion" />
 		<item drawable="youtube" />
 		<item drawable="yunduo_nighttools" />
 		<item drawable="yys" />
@@ -974,6 +997,7 @@
 		<item drawable="zarchiver" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
+		<item drawable="zhilianzhaoping" />
 		<item drawable="zhuishu" />
 		<item drawable="zhuishudashen" />
 		<item drawable="zlive" />
