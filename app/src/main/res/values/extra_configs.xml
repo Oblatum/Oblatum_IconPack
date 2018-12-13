@@ -26,26 +26,30 @@
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
         <item>Meeye 图标包</item>
+        <item>易屋铵 圆图标包</item>
         <item>糯米纸PY小店</item>
 		<item>检查更新</item>
         <item>加入QQ群</item>
     </string-array>
     <string-array name="home_list_descriptions">
         <item>灵感源于Nokia MeeGo Harmattan，弱化但保留了原有的质感</item>
+        <item>去他的不规则，劳资就是要全圆！</item>
         <item>双十二13点上架第四期，欢迎PY</item>
 		<item>手动检查更新以保持程序最新</item>
         <item>欢迎加入Oblatum图标应援团</item>
     </string-array>
     <string-array name="home_list_icons">
         <item>meeye</item>
+        <item>rricon</item>
         <item>alipay</item>
 		<item>oblatum_nocode</item>
         <item>qq</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://www.coolapk.com/apk/com.yeyebbc.meeye.iconpack</item>
-        <item>http://image.coolapk.com/apk_image/2018/1031/21/1540949064692-166044-o_1cr53r2f0cf21984b4q12m51rm6q-uid-1102491@1440x1080.png</item>
-		<item>https://www.coolapk.com/apk/com.oblatum.iconpack</item>
-        <item>http://t.cn/Rk9PTZO</item>
+        <item>market://details?id=com.yeyebbc.meeye.iconpack</item>
+        <item>market://details?id=cc.cinyu.rricon</item>
+        <item>alipays://platformapi/startapp?saId=10000007&amp;clientVersion=3.7.0.0718&amp;qrcode=https://qr.alipay.com/00c06445cgqhoqhbs8joc0b?_s=web-other</item>
+		<item>market://details?id=com.oblatum.iconpack</item>
+        <item>mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DSPmArtw7LPE5WFMXiv5HoEI45JcF98a-</item>
     </string-array>
 </resources>
