@@ -19,29 +19,34 @@
         <item>#</item>
         <item>https://img.vim-cn.com/83/c64aa72e10a8463078d4f9b62ca075ad049b0a.jpg</item>
         <item>https://img.vim-cn.com/07/b3529b52f3de75312f8271465a0187874fff85.jpg</item>
+        <item>https://img.vim-cn.com/ac/a5d40c1acbb81803cd0877b8506f272d5655a0.jpg</item>
     </string-array>
 
     <string-array name="credits_titles">
         <item>捐赠</item>
         <item>PzHown</item>
         <item>直男不懂哲学</item>
+        <item>泽野键盘afglhg</item>
     </string-array>
 
     <string-array name="credits_descriptions">
         <item>请开发者们喝杯咖啡☕</item>
         <item>性感糯米，直播打包</item>
         <item>丁二Butanediol | 消歧义 | 丝瓜快乐丁</item>
+        <item>糯米纸主要贡献者之一</item>
     </string-array>
 
     <string-array name="credits_buttons">
         <item>支付宝|更多方式</item>
         <item>酷安主页|微博</item>
         <item>酷安主页|Twitter</item>
+        <item>酷安主页</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://QR.ALIPAY.COM/FKX04200AHRIT2CGO7ONC6?t=1534082905106|http://image.coolapk.com/apk_image/2018/0925/21/1537871160412-166044-o_1co8g0hbg1ul5djgmvkjtgjcpq-uid-1102491@1080x2160.png</item>
+        <item>alipays://platformapi/startapp?saId=10000007&amp;clientVersion=3.7.0.0718&amp;qrcode=https://qr.alipay.com/FKX04200AHRIT2CGO7ONC6?t=1534082905106?_s=web-other|http://image.coolapk.com/apk_image/2018/0925/21/1537871160412-166044-o_1co8g0hbg1ul5djgmvkjtgjcpq-uid-1102491@1080x2160.png</item>
         <item>https://www.coolapk.com/u/464418|https://weibo.com/2110133364</item>
         <item>https://www.coolapk.com/u/724972|https://twitter.com/TucaoLiuOnline</item>
+        <item>http://www.coolapk.com/u/1347187</item>
     </string-array>
 </resources>
