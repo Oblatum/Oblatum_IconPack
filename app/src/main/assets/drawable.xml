@@ -21,34 +21,17 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="avgp" />
-		<item drawable="avnight" />
-		<item drawable="battle_net_authenticator" />
-		<item drawable="behance" />
-		<item drawable="bifrostv" /> 
-		<item drawable="bluemail" />
-		<item drawable="chushou" />
-		<item drawable="cmbc" />
-		<item drawable="duxiaoman" />
-		<item drawable="faloo_bookreader" />
-		<item drawable="foxit_pdf" />
-		<item drawable="happyelements" />
-		<item drawable="hero_yqlfc" />
-		<item drawable="island" />
-		<item drawable="lovelive" />
-		<item drawable="lucky_patch" />
-		<item drawable="maidanba" />
-		<item drawable="monkeybook" />
-		<item drawable="pinterest" />
-		<item drawable="pvz" />
-		<item drawable="qpay" />
-		<item drawable="quickedit" />
-		<item drawable="swiftkey" />
-		<item drawable="touchpal" />
-		<item drawable="voice_tmall" />
-		<item drawable="x_apm" />
-		<item drawable="your_phone_companion" />
-		<item drawable="zhilianzhaoping" />
+		<item drawable="acrobat" />
+		<item drawable="adobe_scan" />
+		<item drawable="asphalt9" />
+		<item drawable="authenticator" />
+		<item drawable="changsha_metro" />
+		<item drawable="cheapflights" />
+		<item drawable="duia" />
+		<item drawable="food_alaide" />
+		<item drawable="google_wear" />
+		<item drawable="soul" />
+
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -297,12 +280,14 @@
 		<item drawable="abc" />
 		<item drawable="accubattery" />
 		<item drawable="acfun" />
+		<item drawable="acrobat" />
 		<item drawable="actinium" />
 		<item drawable="action_launcher" />
 		<item drawable="adm_pro" />
 		<item drawable="adobe_draw" />
 		<item drawable="adobe_flashplayer" />
 		<item drawable="adobe_lrmobile" />
+		<item drawable="adobe_scan" />
 		<item drawable="adobe_shape" />
 		<item drawable="adobe_xd" />
 		<item drawable="advblock" />
@@ -331,8 +316,10 @@
 		<item drawable="arcaea" />
 		<item drawable="aries_iconpack" />
 		<item drawable="aries_iconpack_lite" />
+		<item drawable="asphalt9" />
 		<item drawable="audiofx" />
 		<item drawable="audiofx_1" />
+		<item drawable="authenticator" />
 		<item drawable="autohome" />
 		<item drawable="avgp" />
 		<item drawable="avnight" />
@@ -393,6 +380,8 @@
 		<item drawable="cardboard" />
 		<item drawable="cardboard_camera" />
 		<item drawable="ccb" />
+		<item drawable="changsha_metro" />
+		<item drawable="cheapflights" />
 		<item drawable="chinamobile" />
 		<item drawable="chinatelecom" />
 		<item drawable="chinaunicom" />
@@ -439,6 +428,7 @@
 		<item drawable="dragalia_lost" />
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
+		<item drawable="duia" />
 		<item drawable="duokan_reader" />
 		<item drawable="duxiaoman" />
 		<item drawable="dxy" />
@@ -495,6 +485,7 @@
 		<item drawable="folder_photo_editor" />
 		<item drawable="folder_system" />
 		<item drawable="folder_xposed" />
+		<item drawable="food_alaide" />
 		<item drawable="fooview" />
 		<item drawable="foxit_pdf" />
 		<item drawable="fsbi" />
@@ -540,6 +531,7 @@
 		<item drawable="google_translate" />
 		<item drawable="google_voice_search" />
 		<item drawable="google_wallpaper" />
+		<item drawable="google_wear" />
 		<item drawable="googlecalendar" />
 		<item drawable="googleplay" />
 		<item drawable="gotokeep" />
@@ -865,6 +857,7 @@
 		<item drawable="sony_what_is_new" />
 		<item drawable="sorcery" />
 		<item drawable="sougou_input" />
+		<item drawable="soul" />
 		<item drawable="soul_knight" />
 		<item drawable="sound_recorder" />
 		<item drawable="soundcloud" />

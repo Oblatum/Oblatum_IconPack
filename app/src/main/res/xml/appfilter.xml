@@ -1316,7 +1316,7 @@
 		<item component="ComponentInfo{com.cootek.smartinputv5/com.cootek.smartinput5.GateActivity}" drawable="touchpal" />
 		<item component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeBookActivity}" drawable="monkeybook"/>
 		<item component="ComponentInfo{com.blizzard.bma.cn/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battle_net_authenticator" />
-		<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battle_net_authenticator" />
+		<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="authenticator" />
 		<item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.COPPAActivity}" drawable="pvz" />
 		<item component="ComponentInfo{com.alibaba.ailabs.tg/com.alibaba.ailabs.tg.splash.WelcomeActivity}" drawable="voice_tmall"/>
 		<item omponent="ComponentInfo{com.duxiaoman.wallet/com.duxiaoman.wallet.home.SplashActivity}" drawable="duxiaoman"/>
@@ -1332,6 +1332,21 @@
 		<item component="ComponentInfo{com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator}" drawable="calculator"/>
 		<item component="ComponentInfo{com.android.vending.billing.InAppBillingService.COIN/com.android.vending.billing.InAppBillingService.COIN.MainActivityOriginal}" drawable="lucky_patcher"/>
 		<item component="ComponentInfo{com.oasisfeng.island/com.oasisfeng.island.MainActivity}" drawable="island"/>
+		<item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="jisu_browser"/>
+		<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}" drawable="lantern"/>
+		<item component="ComponentInfo{com.cf.flightsearch/com.kayak.android.Splash}" drawable="cheapflights"/>
+		<item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="google_wear"/>
+		<item component="ComponentInfo{com.adlsc.customer/com.yabbyhouse.customer.SplashActivity}" drawable="food_alaide"/>
+		<item component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}" drawable="soul"/>
+		<item component="ComponentInfo{com.adobe.scan.android/com.adobe.scan.android.SplashActivity}" drawable="adobe_scan"/>
+		<item component="ComponentInfo{com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity}" drawable="asphalt9"/>
+		<item component="ComponentInfo{com.duia.duiaapp/com.duia.duiaapp.splash.SplashActivity}" drawable="duia"/>
+		<item component="ComponentInfo{com.netease.qrzd/com.netease.qrzd.Launcher}" drawable="qrzd"/>
+		<item component="ComponentInfo{com.chinasofti.shanghaihuateng.metroapp/com.chinasofti.shanghaihuateng.metroapp.main.MainActivity}" drawable="changsha_metro"/>
+		<item component="ComponentInfo{com.enjoymeet.aloapp/com.enjoymeet.live.liveshow.ui.startup.activity.LaunchRouterActivity}" drawable="aloha"/>
+		<item component="ComponentInfo{bin.mt.plus/l.ۦۦ۠ۗ}" drawable="mtglq"/>
+		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.MainActivity}" drawable="douyutv"/>
+	    <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyutv"/>
 
 
 

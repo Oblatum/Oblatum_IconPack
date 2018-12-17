@@ -5,12 +5,14 @@
 		<item>abc</item>
 		<item>accubattery</item>
 		<item>acfun</item>
+		<item>acrobat</item>
 		<item>actinium</item>
 		<item>action_launcher</item>
 		<item>adm_pro</item>
 		<item>adobe_draw</item>
 		<item>adobe_flashplayer</item>
 		<item>adobe_lrmobile</item>
+		<item>adobe_scan</item>
 		<item>adobe_shape</item>
 		<item>adobe_xd</item>
 		<item>advblock</item>
@@ -39,8 +41,10 @@
 		<item>arcaea</item>
 		<item>aries_iconpack</item>
 		<item>aries_iconpack_lite</item>
+		<item>asphalt9</item>
 		<item>audiofx</item>
 		<item>audiofx_1</item>
+		<item>authenticator</item>
 		<item>autohome</item>
 		<item>avgp</item>
 		<item>avnight</item>
@@ -101,6 +105,8 @@
 		<item>cardboard</item>
 		<item>cardboard_camera</item>
 		<item>ccb</item>
+		<item>changsha_metro</item>
+		<item>cheapflights</item>
 		<item>chinamobile</item>
 		<item>chinatelecom</item>
 		<item>chinaunicom</item>
@@ -146,6 +152,7 @@
 		<item>dragalia_lost</item>
 		<item>drawer</item>
 		<item>drawer_1</item>
+		<item>duia</item>
 		<item>duitang</item>
 		<item>duokan_reader</item>
 		<item>duxiaoman</item>
@@ -203,6 +210,7 @@
 		<item>folder_photo_editor</item>
 		<item>folder_system</item>
 		<item>folder_xposed</item>
+		<item>food_alaide</item>
 		<item>fooview</item>
 		<item>foxit_pdf</item>
 		<item>fsbi</item>
@@ -248,6 +256,7 @@
 		<item>google_translate</item>
 		<item>google_voice_search</item>
 		<item>google_wallpaper</item>
+		<item>google_wear</item>
 		<item>googlecalendar</item>
 		<item>googlecalendar_d10</item>
 		<item>googlecalendar_d11</item>
@@ -618,6 +627,7 @@
 		<item>sony_what_is_new</item>
 		<item>sorcery</item>
 		<item>sougou_input</item>
+		<item>soul</item>
 		<item>soul_knight</item>
 		<item>sound_recorder</item>
 		<item>soundcloud</item>
