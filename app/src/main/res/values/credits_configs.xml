@@ -23,21 +23,21 @@
     </string-array>
 
     <string-array name="credits_titles">
-        <item>捐赠</item>
+        <item>请开发者们喝杯☕</item>
         <item>PzHown</item>
         <item>直男不懂哲学</item>
         <item>泽野键盘afglhg</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>请开发者们喝杯咖啡☕</item>
+        <item>让我们做得更好</item>
         <item>性感糯米，直播打包</item>
         <item>丁二Butanediol | 消歧义 | 丝瓜快乐丁</item>
         <item>糯米纸主要贡献者之一</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>支付宝|更多方式</item>
+        <item>鸡护鸨|更多方式</item>
         <item>酷安主页|微博</item>
         <item>酷安主页|Twitter</item>
         <item>酷安主页</item>

@@ -1346,7 +1346,7 @@
 		<item component="ComponentInfo{com.enjoymeet.aloapp/com.enjoymeet.live.liveshow.ui.startup.activity.LaunchRouterActivity}" drawable="aloha"/>
 		<item component="ComponentInfo{bin.mt.plus/l.ۦۦ۠ۗ}" drawable="mtglq"/>
 		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.MainActivity}" drawable="douyutv"/>
-	    <item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyutv"/>
+		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyutv"/>
 
 
 
