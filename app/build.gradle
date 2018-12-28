@@ -30,7 +30,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion versions.targetSdk
-    buildToolsVersion versions.buildTools
+    buildToolsVersion '28.0.2'
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
@@ -55,9 +55,9 @@ android {
         applicationId "com.oblatum.iconpack"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 207
-        versionName "2.4.8_2"
-				//版本号更新 2018.12.18)
+        versionCode 210
+        versionName "2.5.0"
+				//版本号更新 2018.12.20)
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
