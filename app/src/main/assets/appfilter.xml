@@ -576,6 +576,7 @@
 		<item component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}" drawable="ampere" />
 		<item component="ComponentInfo{com.nuomi/com.baidu.bainuo.dex.InstallDexActivity}" drawable="baidu_nuomi" />
 		<item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin" />
+		<item component="ComponentInfo{com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="douyin" />
 		<item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="google_maps" />
 		<item component="ComponentInfo{com.e123.gxicon/com.by_syk.lib.nanoiconpack.MainActivity}" drawable="gxicon" />
 		<item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="mtwm" />
@@ -1007,6 +1008,7 @@
 		<item component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}" drawable="duokan_reader" />
 		<item component="ComponentInfo{com.pubgm/com.pubgm.UserActivity}" drawable="pubgm" />
 		<item component="ComponentInfo{com.tencent.tmgp.pubgm/com.epicgames.ue4.SplashActivity}" drawable="pubgm" />
+		<item component="ComponentInfo{com.tencent.ig/com.epicgames.ue4.SplashActivity}" drawable="pubgm" />
 		<item component="ComponentInfo{com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity}" drawable="qcloud" />
 		<item component="ComponentInfo{com.smartisanos.sara/com.smartisanos.sara.bubble.SettingActivity}" drawable="smartisan_idearpills" />
 		<item component="ComponentInfo{com.z28j.feel/com.z28j.feel.HomeActivity}" drawable="shenqi_browser" />
@@ -1290,6 +1292,7 @@
 		<item component="ComponentInfo{com.hipu.yidian/com.yidian.news.ui.guide.UserGuideActivity}" drawable="yidianzixun"/>
 		<item component="ComponentInfo{com.miHoYo.HSoDv22144.qihoo/com.miHoYo.qihoosdk.Agent}" drawable="benghuai2"/>
 		<item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qdreader"/>
+		<item component="ComponentInfo{com.qidian.QDReader.cps/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qdreader"/>
 		<item component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.assistant.activity.SplashActivity}" drawable="app_qq"/>
 	    <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
 		<item component="ComponentInfo{com.baidu.wallet/com.baidu.wallet.home.SplashActivity}" drawable="wallet_baidu"/>
