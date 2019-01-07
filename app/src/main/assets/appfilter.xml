@@ -1289,7 +1289,7 @@
 		<item component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" drawable="business_calendar"/>
 		<item component="ComponentInfo{com.hipu.yidian/com.yidian.news.ui.guide.UserGuideActivity}" drawable="yidianzixun"/>
 		<item component="ComponentInfo{com.miHoYo.HSoDv22144.qihoo/com.miHoYo.qihoosdk.Agent}" drawable="benghuai2"/>
-		<item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qqreader"/>
+		<item component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}" drawable="qdreader"/>
 		<item component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.assistant.activity.SplashActivity}" drawable="app_qq"/>
 	    <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
 		<item component="ComponentInfo{com.baidu.wallet/com.baidu.wallet.home.SplashActivity}" drawable="wallet_baidu"/>
@@ -1347,6 +1347,33 @@
 		<item component="ComponentInfo{bin.mt.plus/l.ۦۦ۠ۗ}" drawable="mtglq"/>
 		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.MainActivity}" drawable="douyutv"/>
 		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}" drawable="douyutv"/>
+		<item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="files"/>
+		<item component="ComponentInfo{com.douyu.rush/com.douyu.rush.splash.launcher.DYLauncherActivity}" drawable="douyutv"/>
+		<item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="acrobat"/>
+		<item component="ComponentInfo{com.adobe.creativeapps.gather/com.adobe.creativeapps.gather.activity.GatherSplashScreenActivity}" drawable="adobe_capture"/>
+		<item component="ComponentInfo{com.adobe.creativeapps.sketch/com.adobe.creativeapps.sketch.activity.SplashScreenActivity}" drawable="adobe_photoshop_sketch"/>
+		<item component="ComponentInfo{com.romide.terminal/com.romide.terminal.activity.Term}" drawable="ansole"/>
+		<item component="ComponentInfo{com.avmovie/com.avmovie.activity.LauncherActivity}" drawable="avmovie"/>
+		<item component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.MainActivity}" drawable="csdn"/>
+		<item component="ComponentInfo{com.ylmf.androidclient/com.main.partner.user.activity.LogActivity}" drawable="d115"/>
+		<item component="ComponentInfo{com.diershoubing.erbing/com.diershoubing.erbing.activity.VersionActivity}" drawable="erbing"/>
+		<item component="ComponentInfo{com.fb.fluid/com.fb.fluid.ActivityMain}" drawable="fluid_n_g"/>
+		<item component="ComponentInfo{cn.edu.zjicm.wordsnet_d/cn.edu.zjicm.wordsnet_d.ui.activity.WelcomeActivity}" drawable="iwordnet"/>
+
+		<item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="kakaotalk"/>
+		<item component="ComponentInfo{cn.kuwo.player/cn.kuwo.player.activities.EntryActivity}" drawable="kuwo_music"/>
+		<item component="ComponentInfo{com.lenovo.leos.cloud.sync/com.lenovo.leos.cloud.sync.UIv5.V5SplashActivity}" drawable="lenovo_sync"/>
+		<item component="ComponentInfo{com.naver.linewebtoon/com.naver.linewebtoon.splash.SplashActivity}" drawable="linewebtoon"/>
+		<item component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}" drawable="migu_video"/>
+		<item component="ComponentInfo{demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity}" drawable="mobilism"/>
+		<item component="ComponentInfo{cn.mixiaoxiao.myappscreenmask/cn.mixiaoxiao.myappscreenmask.MainActivity}" drawable="myappscreenmask"/>
+		<item component="ComponentInfo{com.nintendo.znca/md533b117125e779ee5bd2742126a94a846.MainActivity}" drawable="nintendo_switch_online"/>
+
+		<item component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeBookActivity}" drawable="monkeybook"/>
+		<item component="ComponentInfo{com.amazon.kindlefc/com.amazon.kindle.UpgradePage}" drawable="kindle"/>
+		<item component="ComponentInfo{com.android.browser/com.google.android.apps.chrome.Main}" drawable="browser"/>
+		<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}" drawable="lantern"/>
+		<item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="jisu_browser"/>
 
 
 
@@ -1355,7 +1382,7 @@
 
 
 
-	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
+		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" xml="weather" />
 		<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" xml="clock" />
