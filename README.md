@@ -10,7 +10,7 @@
 > 这是一个基于[Blueprint](https://github.com/jahirfiquitiva/Blueprint)的图标包，现已在[酷安](https://www.coolapk.com/apk/com.oblatum.iconpack)、[应用宝](http://app.qq.com/#id=detail&appid=1106745030)、[PP助手](http://m.pp.cn/detail.html?appid=7872544&ch_src=pp_dev&ch=default)上架。
 
 ---
-本仓库的内容主要是Oblatum图标包内的图标，并不是图标包程序本身，因此代码库主体采用CC BY4.0国际开源协议，png或jpg等图片文件采用CC BY-NC-ND 4.0国际开源协议。
+本仓库的内容主要是Oblatum图标包内的图标，并不是图标包程序本身，因此代码库主体采用CC BY4.0国际开源协议，/app/src/main/res/xml/drawable.xml中列出的所有图标文件采用CC BY-NC-ND 4.0国际开源协议。
 
 
 如果您有使用这些图标的需求，请与我们取得联系。
