@@ -15,10 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v2.5.0" />
-    <item text="万年不变的更新日志假装加了一条日志" />
-    <item text="如果遇到PY漏更在1.1后请联系PzHown!" />
-    <item text="加入新图标" />
-    <item text="调整适配部分图标" />
+    <version title="V2.4.8.8" />
+    <item text="对于双十一购买py的用户感到十分抱歉，由于个人原因，鸽了很久" />
+    <item text="如果以上用户遇到py还未更新，请联系我退款，并且购买的内容仍会做" />
+    <item text="双十二购买的用户请耐心等待，即将开始安排制作" />
+    <item text="抱歉了，寒假，会迎来一波2.4.9高潮级更新（我是不会鸽的是吧，咕咕咕）" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

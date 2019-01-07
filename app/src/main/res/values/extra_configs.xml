@@ -48,7 +48,8 @@
     <string-array name="home_list_links">
         <item>market://details?id=com.yeyebbc.meeye.iconpack</item>
         <item>market://details?id=cc.cinyu.rricon</item>
-        <item>https://img.vim-cn.com/10/9d20ea07cc8dbb98dfd98a3f4cfa3862e0cde1.png</item>
+        <item>#</item>
+        <!--<item>https://img.vim-cn.com/10/9d20ea07cc8dbb98dfd98a3f4cfa3862e0cde1.png</item>-->
 		<item>market://details?id=com.oblatum.iconpack</item>
         <item>mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DSPmArtw7LPE5WFMXiv5HoEI45JcF98a-</item>
     </string-array>

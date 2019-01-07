@@ -6,12 +6,15 @@
 		<item>accubattery</item>
 		<item>acfun</item>
 		<item>acrobat</item>
+		<item>acrobat</item>
 		<item>actinium</item>
 		<item>action_launcher</item>
 		<item>adm_pro</item>
+		<item>adobe_capture</item>
 		<item>adobe_draw</item>
 		<item>adobe_flashplayer</item>
 		<item>adobe_lrmobile</item>
+		<item>adobe_photoshop_sketch</item>
 		<item>adobe_scan</item>
 		<item>adobe_shape</item>
 		<item>adobe_xd</item>
@@ -30,6 +33,7 @@
 		<item>ampere</item>
 		<item>android_p_ify</item>
 		<item>android_pay</item>
+		<item>ansole</item>
 		<item>antutu</item>
 		<item>anyview</item>
 		<item>apex</item>
@@ -46,7 +50,8 @@
 		<item>audiofx_1</item>
 		<item>authenticator</item>
 		<item>autohome</item>
-		<item>avgp</item>
+		<item>avgo</item>
+		<item>avmovie</item>
 		<item>avnight</item>
 		<item>awesome_qr</item>
 		<item>b612</item>
@@ -129,8 +134,10 @@
 		<item>contacts</item>
 		<item>coolapk</item>
 		<item>cortana</item>
+		<item>csdn</item>
 		<item>ctrip</item>
 		<item>ctrl_plus</item>
+		<item>d115</item>
 		<item>dancing_line</item>
 		<item>daodai</item>
 		<item>data_monitor</item>
@@ -187,6 +194,7 @@
 		<item>emui_vassistant</item>
 		<item>emui_vdrive</item>
 		<item>emui_youku</item>
+		<item>erbing</item>
 		<item>erweima</item>
 		<item>eswenjian</item>
 		<item>eudic_dictionary</item>
@@ -203,6 +211,7 @@
 		<item>firefox_focus</item>
 		<item>firefox_nightly</item>
 		<item>fit</item>
+		<item>fluid_n_g</item>
 		<item>folder_google</item>
 		<item>folder_iconpack</item>
 		<item>folder_masturbation</item>
@@ -346,20 +355,25 @@
 		<item>iqiyi</item>
 		<item>island</item>
 		<item>it_home</item>
+		<item>iwordnet</item>
 		<item>javiewer</item>
 		<item>jd</item>
 		<item>jd_jinrong</item>
 		<item>jike</item>
 		<item>jisu_browser</item>
 		<item>jmail</item>
+		<item>kakaotalk</item>
 		<item>keep</item>
 		<item>kihan</item>
 		<item>kindle</item>
 		<item>kugou_music</item>
+		<item>kuwo_music</item>
 		<item>lantern</item>
 		<item>lawnchair</item>
 		<item>lbe_security</item>
 		<item>leafpic</item>
+		<item>lenovo_sync</item>
+		<item>linewebtoon</item>
 		<item>linos_recorder</item>
 		<item>lofter</item>
 		<item>lol_friend</item>
@@ -393,6 +407,7 @@
 		<item>microsoft_launcher</item>
 		<item>microsoft_todo</item>
 		<item>midea_ac</item>
+		<item>migu_video</item>
 		<item>minecraft</item>
 		<item>mint_bookkeeping</item>
 		<item>mipush</item>
@@ -421,6 +436,7 @@
 		<item>mjweather_light</item>
 		<item>mobai</item>
 		<item>mobile_collaboration</item>
+		<item>mobilism</item>
 		<item>mobvoi</item>
 		<item>mokee_aegis</item>
 		<item>mokee_center</item>
@@ -440,6 +456,7 @@
 		<item>music</item>
 		<item>musicfx</item>
 		<item>mx_player</item>
+		<item>myappscreenmask</item>
 		<item>mystops</item>
 		<item>nano</item>
 		<item>neoreader</item>
@@ -458,6 +475,7 @@
 		<item>news_and_weather</item>
 		<item>nga</item>
 		<item>nimingban</item>
+		<item>nintendo_switch_online</item>
 		<item>nokia_notes</item>
 		<item>nokia_smart_tuner</item>
 		<item>novalauncher</item>
@@ -516,6 +534,7 @@
 		<item>oneplus_soundrecorder</item>
 		<item>oneplus_switch</item>
 		<item>openhub</item>
+		<item>opgg</item>
 		<item>oppo_app_store</item>
 		<item>oppo_compass</item>
 		<item>oppo_files</item>
@@ -528,12 +547,14 @@
 		<item>pandatv</item>
 		<item>paypal</item>
 		<item>peini</item>
+		<item>phicomm</item>
 		<item>phone</item>
 		<item>phone_1</item>
 		<item>phone_2</item>
 		<item>phonograph</item>
 		<item>photoeditor</item>
 		<item>picacg</item>
+		<item>pingan_lifeinsurance</item>
 		<item>pinterest</item>
 		<item>pixiv</item>
 		<item>pixles_iconpack</item>
@@ -558,10 +579,12 @@
 		<item>qq_1</item>
 		<item>qq_2</item>
 		<item>qq_ac</item>
+		<item>qq_ac_1</item>
 		<item>qq_browser</item>
 		<item>qq_inputs</item>
 		<item>qq_jp</item>
 		<item>qq_music_local_player</item>
+		<item>qq_sp</item>
 		<item>qqmail</item>
 		<item>qqmail_1</item>
 		<item>qqmusic</item>
@@ -596,6 +619,7 @@
 		<item>settings_1</item>
 		<item>sh_inputs</item>
 		<item>sh_inputs_1</item>
+		<item>shanbay_speak</item>
 		<item>shanbei_words</item>
 		<item>share</item>
 		<item>sharepoint</item>
@@ -640,6 +664,7 @@
 		<item>star_walk2_1</item>
 		<item>starbucks</item>
 		<item>steam</item>
+		<item>steam_link</item>
 		<item>steam_lite</item>
 		<item>stitch</item>
 		<item>stocard</item>
@@ -648,11 +673,14 @@
 		<item>super_pad</item>
 		<item>superstar</item>
 		<item>supersu</item>
+		<item>svideo</item>
 		<item>swiftkey</item>
 		<item>t_12306</item>
+		<item>taichi</item>
 		<item>taobao</item>
 		<item>taobao_islefish</item>
 		<item>taobao_movie</item>
+		<item>tap_go</item>
 		<item>taptap</item>
 		<item>teamviewer</item>
 		<item>ted</item>
@@ -690,7 +718,9 @@
 		<item>uc_browser</item>
 		<item>uc_browser_1</item>
 		<item>uc_browser_2</item>
+		<item>ucmooc</item>
 		<item>umetrip</item>
+		<item>uu_router</item>
 		<item>vainglory</item>
 		<item>vertical_book</item>
 		<item>via</item>
@@ -709,9 +739,12 @@
 		<item>wangmiao</item>
 		<item>wanmeixiaoyaun</item>
 		<item>weather</item>
+		<item>weatherzone</item>
+		<item>wei_account</item>
 		<item>weibo</item>
 		<item>weixin</item>
 		<item>weixin_1</item>
+		<item>wellbeing</item>
 		<item>whatsapp</item>
 		<item>wifilocating</item>
 		<item>wikipedia</item>
@@ -730,12 +763,14 @@
 		<item>xiachufang</item>
 		<item>xiami_music</item>
 		<item>xiaoenai</item>
+		<item>xiaoheihe</item>
 		<item>xiaomi_shop</item>
 		<item>xiaomi_youpin</item>
 		<item>ximalayafm</item>
 		<item>xk_wallpaper</item>
 		<item>xmhealth</item>
 		<item>xmqz</item>
+		<item>xodo_docs</item>
 		<item>xposed</item>
 		<item>xueqiu</item>
 		<item>xunfei_input</item>
