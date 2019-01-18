@@ -444,7 +444,14 @@
 		<item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity}" drawable="radio" />
 		<item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
 		<item component="ComponentInfo{com.vivo.FMRadio/com.vivo.FMRadio.FMRadio}" drawable="radio" />
+		
 
+		<!-- OPPO -->
+		<item component="ComponentInfo{com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity}" drawable="oppo_find_my_phone"/>
+		<item component="ComponentInfo{com.nearme.note/com.nearme.note.view.AllNoteActivity}" drawable="oppo_notes" />
+		<item component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}" drawable="oppo_oroaming" />
+		<item component="ComponentInfo{com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity}" drawable="oppo_tips" />
+		<item component="ComponentInfo{com.coloros.flowmarket/com.coloros.flowmarket.MainActivity}" drawable="oppo_data_supermarket" />
 
 		<!-- 普通应用 / apps -->
 		<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="erweima" />
@@ -704,7 +711,7 @@
 		<item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
 		<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk_manager" />
 		<item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver" />
-		<item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo" />
+		<item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo_int" />
 		<item component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}" drawable="huyazhibo" />
 		<item component="ComponentInfo{com.theme.mumu.flat/com.afollestad.polar.ui.SplashScreen}" drawable="iflat" />
 		<item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
@@ -783,6 +790,7 @@
 		<item component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
 		<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
 		<item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity}" drawable="geometric_weather" />
+		<item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.main.MainActivity}" drawable="geometric_weather" />
 		<item component="ComponentInfo{ml.puredark.hviewer/ml.puredark.hviewer.ui.activities.LockActivity}" drawable="h_viewer" />
 		<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern" />
 		<item component="ComponentInfo{pro.com.lantern/pro.com.lantern.AppStart}" drawable="lantern" />
@@ -1309,6 +1317,7 @@
 		<item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="swiftkey"/>
 		<item component="ComponentInfo{com.kascend.chushou/com.kascend.chushou.ChuShouTV}" drawable="chushou" />
 		<item component="ComponentInfo{com.happyelements.AndroidAnimal/com.happyelements.android.platform.oppo.ads.SplashActivity}" drawable="happyelements" />
+		<item component="ComponentInfo{com.tencent.tmgp.AndroidAnimal/com.happyelements.hellolua.MainActivity}" drawable="happyelements" />
 		<item component="ComponentInfo{com.faloo.BookReader4Android/com.faloo.app.activity.LogoPageActivity}" drawable="faloo_bookreader"/>
 		<item component="ComponentInfo{klb.android.lovelivecn/klb.android.GameEngine.GameEngineActivity}" drawable="lovelive"/>
 		<item component="ComponentInfo{com.wyd.hero.yqlfc.cb1.apk/com.wyd.fc.activity.SplashActivity}" drawable="hero_yqlfc" />
@@ -1318,6 +1327,7 @@
 		<item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
 		<item component="ComponentInfo{com.cootek.smartinputv5/com.cootek.smartinput5.GateActivity}" drawable="touchpal" />
 		<item component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeBookActivity}" drawable="monkeybook"/>
+		<item component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity}" drawable="monkeybook"/>
 		<item component="ComponentInfo{com.blizzard.bma.cn/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battle_net_authenticator" />
 		<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="authenticator" />
 		<item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.COPPAActivity}" drawable="pvz" />
@@ -1377,8 +1387,17 @@
 		<item component="ComponentInfo{com.android.browser/com.google.android.apps.chrome.Main}" drawable="browser"/>
 		<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}" drawable="lantern"/>
 		<item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="jisu_browser"/>
+		
+		<item component="ComponentInfo{com.joe.dida/com.joe.dida.activity.LoginActivity}" drawable="dida_music"/>
+		<item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity}" drawable="jg12123"/>
+		<item component="ComponentInfo{com.wzm.moviepic/com.wzm.moviepic.ui.activity.SplashActivity}" drawable="moviepic"/>
+		<item component="ComponentInfo{com.sina.weibolite/com.sina.weibo.lightning.main.SplashActivity}" drawable="weibo_siju"/>
+		<item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}" drawable="weibo_see"/>
+		<item component="ComponentInfo{com.eico.weico/com.eico.weico.activity.LogoActivity}" drawable="weico" />
+		<item component="ComponentInfo{com.sxy.ui/com.sxy.ui.view.MainActivity}" drawable="welike"/>
 
-
+		<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts"/>
+		<item component="ComponentInfo{cmb.pb/cmb.pb.mainframe.PBEntryActivity}" drawable="cmb"/>
 
 
 
