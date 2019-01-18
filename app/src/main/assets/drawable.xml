@@ -21,41 +21,18 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="acrobat" />
-		<item drawable="adobe_capture" />
-		<item drawable="adobe_photoshop_sketch" />
-		<item drawable="ansole" />
-		<item drawable="avmovie" />
-		<item drawable="csdn" />
-		<item drawable="d115" />
-		<item drawable="erbing" />
-		<item drawable="fluid_n_g" />
-		<item drawable="iwordnet" />
-		<item drawable="kakaotalk" />
-		<item drawable="kuwo_music" />
-		<item drawable="lenovo_sync" />
-		<item drawable="linewebtoon" />
-		<item drawable="migu_video" />
-		<item drawable="mobilism" />
-		<item drawable="myappscreenmask" />
-		<item drawable="nintendo_switch_online" />
-		<item drawable="opgg" />
-		<item drawable="phicomm" />
-		<item drawable="pingan_lifeinsurance" />
-		<item drawable="qq_ac_1" />
-		<item drawable="samsung_game_launcher" />
-		<item drawable="shanbay_speak" />
-		<item drawable="steam_link" />
-		<item drawable="svideo" />
-		<item drawable="taichi" />
-		<item drawable="tap_go" />
-		<item drawable="ucmooc" />
-		<item drawable="uu_router" />
-		<item drawable="weatherzone" />
-		<item drawable="wei_account" />
-		<item drawable="wellbeing" />
-		<item drawable="xiaoheihe" />
-		<item drawable="xodo_docs" />
+		<item drawable="dida_music" />
+		<item drawable="jg12123" />
+		<item drawable="moviepic" />
+		<item drawable="oppo_data_supermarket" />
+		<item drawable="oppo_notes" />
+		<item drawable="oppo_oroaming" />
+		<item drawable="oppo_tips" />
+		<item drawable="weibo_int" />
+		<item drawable="weibo_jisu" />
+		<item drawable="weibo_see" />
+		<item drawable="weico" />
+		<item drawable="welike" />
 
 
 	<category title="Folders and Widgets" />
@@ -254,11 +231,15 @@
 	<category title="OPPO" />
 		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
+		<item drawable="oppo_data_supermarket" />
 		<item drawable="oppo_files" />
 		<item drawable="oppo_menber" />
 		<item drawable="oppo_music" />
+		<item drawable="oppo_notes" />
+		<item drawable="oppo_oroaming" />
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
+		<item drawable="oppo_tips" />
 
 	<category title="BlackBerry" />
 		<item drawable="blackberry_launcher" />
@@ -445,6 +426,7 @@
 		<item drawable="daydream" />
 		<item drawable="delve" />
 		<item drawable="dianping" />
+		<item drawable="dida_music" />
 		<item drawable="didi" />
 		<item drawable="digit" />
 		<item drawable="ding_talk" />
@@ -532,6 +514,7 @@
 		<item drawable="geek360" />
 		<item drawable="gemini" />
 		<item drawable="geometric_weather" />
+		<item drawable="getAppfilter" />
 		<item drawable="gmail" />
 		<item drawable="gohosts" />
 		<item drawable="goodseed" />
@@ -610,6 +593,7 @@
 		<item drawable="javiewer" />
 		<item drawable="jd" />
 		<item drawable="jd_jinrong" />
+		<item drawable="jg12123" />
 		<item drawable="jike" />
 		<item drawable="jisu_browser" />
 		<item drawable="jmail" />
@@ -701,6 +685,7 @@
 		<item drawable="moshouzhushou" />
 		<item drawable="mosoteach" />
 		<item drawable="move_to_miui" />
+		<item drawable="moviepic" />
 		<item drawable="mr_translator" />
 		<item drawable="mtglq" />
 		<item drawable="mtgp_lol" />
@@ -790,11 +775,15 @@
 		<item drawable="opgg" />
 		<item drawable="oppo_app_store" />
 		<item drawable="oppo_compass" />
+		<item drawable="oppo_data_supermarket" />
 		<item drawable="oppo_files" />
 		<item drawable="oppo_menber" />
 		<item drawable="oppo_music" />
+		<item drawable="oppo_notes" />
+		<item drawable="oppo_oroaming" />
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
+		<item drawable="oppo_tips" />
 		<item drawable="osu" />
 		<item drawable="outlook" />
 		<item drawable="pandatv" />
@@ -998,8 +987,13 @@
 		<item drawable="weatherzone" />
 		<item drawable="wei_account" />
 		<item drawable="weibo" />
+		<item drawable="weibo_int" />
+		<item drawable="weibo_jisu" />
+		<item drawable="weibo_see" />
+		<item drawable="weico" />
 		<item drawable="weixin" />
 		<item drawable="weixin_1" />
+		<item drawable="welike" />
 		<item drawable="wellbeing" />
 		<item drawable="whatsapp" />
 		<item drawable="wifilocating" />
