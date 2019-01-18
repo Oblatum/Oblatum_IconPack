@@ -144,6 +144,7 @@
 		<item>daydream</item>
 		<item>delve</item>
 		<item>dianping</item>
+		<item>dida_music</item>
 		<item>didi</item>
 		<item>digit</item>
 		<item>ding_talk</item>
@@ -359,6 +360,7 @@
 		<item>javiewer</item>
 		<item>jd</item>
 		<item>jd_jinrong</item>
+		<item>jg12123</item>
 		<item>jike</item>
 		<item>jisu_browser</item>
 		<item>jmail</item>
@@ -448,6 +450,7 @@
 		<item>moshouzhushou</item>
 		<item>mosoteach</item>
 		<item>move_to_miui</item>
+		<item>moviepic</item>
 		<item>mr_translator</item>
 		<item>mtglq</item>
 		<item>mtgp_lol</item>
@@ -537,11 +540,15 @@
 		<item>opgg</item>
 		<item>oppo_app_store</item>
 		<item>oppo_compass</item>
+		<item>oppo_data_supermarket</item>
 		<item>oppo_files</item>
 		<item>oppo_menber</item>
 		<item>oppo_music</item>
+		<item>oppo_notes</item>
+		<item>oppo_oroaming</item>
 		<item>oppo_security</item>
 		<item>oppo_sound_recorder</item>
+		<item>oppo_tips</item>
 		<item>osu</item>
 		<item>outlook</item>
 		<item>pandatv</item>
@@ -742,8 +749,13 @@
 		<item>weatherzone</item>
 		<item>wei_account</item>
 		<item>weibo</item>
+		<item>weibo_int</item>
+		<item>weibo_jisu</item>
+		<item>weibo_see</item>
+		<item>weico</item>
 		<item>weixin</item>
 		<item>weixin_1</item>
+		<item>welike</item>
 		<item>wellbeing</item>
 		<item>whatsapp</item>
 		<item>wifilocating</item>

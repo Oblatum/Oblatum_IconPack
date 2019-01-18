@@ -444,7 +444,13 @@
 		<item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity}" drawable="radio" />
 		<item component="ComponentInfo{com.tct.fmradio.bb/com.tct.fmradio.utils.BaseActivity}" drawable="radio" />
 		<item component="ComponentInfo{com.vivo.FMRadio/com.vivo.FMRadio.FMRadio}" drawable="radio" />
+		
 
+		<!-- OPPO -->
+		<item component="ComponentInfo{com.nearme.note/com.nearme.note.view.AllNoteActivity}" drawable="oppo_notes" />
+		<item component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}" drawable="oppo_oroaming" />
+		<item component="ComponentInfo{com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity}" drawable="oppo_tips" />
+		<item component="ComponentInfo{com.coloros.flowmarket/com.coloros.flowmarket.MainActivity}" drawable="oppo_data_supermarket" />
 
 		<!-- 普通应用 / apps -->
 		<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="erweima" />
@@ -704,7 +710,7 @@
 		<item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
 		<item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk_manager" />
 		<item component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}" drawable="zarchiver" />
-		<item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo" />
+		<item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo_int" />
 		<item component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}" drawable="huyazhibo" />
 		<item component="ComponentInfo{com.theme.mumu.flat/com.afollestad.polar.ui.SplashScreen}" drawable="iflat" />
 		<item component="ComponentInfo{de.stocard.stocard/de.stocard.ui.main.InitActivity}" drawable="stocard" />
@@ -1377,6 +1383,14 @@
 		<item component="ComponentInfo{com.android.browser/com.google.android.apps.chrome.Main}" drawable="browser"/>
 		<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}" drawable="lantern"/>
 		<item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="jisu_browser"/>
+		
+		<item component="ComponentInfo{com.joe.dida/com.joe.dida.activity.LoginActivity}" drawable="dida_music"/>
+		<item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity}" drawable="jg12123"/>
+		<item component="ComponentInfo{com.wzm.moviepic/com.wzm.moviepic.ui.activity.SplashActivity}" drawable="moviepic"/>
+		<item component="ComponentInfo{com.sina.weibolite/com.sina.weibo.lightning.main.SplashActivity}" drawable="weibo_siju"/>
+		<item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}" drawable="weibo_see"/>
+		<item component="ComponentInfo{com.eico.weico/com.eico.weico.activity.LogoActivity}" drawable="weico" />
+		<item component="ComponentInfo{com.sxy.ui/com.sxy.ui.view.MainActivity}" drawable="welike"/>
 
 
 
