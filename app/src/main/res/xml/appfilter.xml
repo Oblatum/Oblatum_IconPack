@@ -1392,6 +1392,15 @@
 		<item component="ComponentInfo{com.eico.weico/com.eico.weico.activity.LogoActivity}" drawable="weico" />
 		<item component="ComponentInfo{com.sxy.ui/com.sxy.ui.view.MainActivity}" drawable="welike"/>
 
+		<item component="ComponentInfo{com.pingan.paces.ccms/com.pingan.pocketbank.splash.PALoadingActivity}" drawable="bank_pingan"/>
+		<item component="ComponentInfo{hdpfans.com/com.hdpfans.app.ui.main.MainActivity}" drawable="hdplive"/>
+		<item component="ComponentInfo{com.jym.mall/com.jym.mall.launch.ui.SplashActivity}" drawable="jiaoyicat"/>
+		<item component="ComponentInfo{com.ludashi.benchmark/com.ludashi.benchmark.SplashActivity}" drawable="ludashi"/>
+		<item component="ComponentInfo{moe.feng.nhentai/moe.feng.nhentai.ui.HomeActivity}" drawable="nhbooks"/>
+		<item component="ComponentInfo{com.Qunar/com.mqunar.splash.SplashActivity}" drawable="qunar"/>
+		<item component="ComponentInfo{com.sto.express/com.sto.express.mvp.other.ui.SplashActivity}" drawable="sto"/>
+		<item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity}" drawable="oppo_game_space"/>
+		<item component="ComponentInfo{com.oppo.community/com.oppo.community.InitActivity}" drawable="oppo_ommunity"/>
 
 
 
