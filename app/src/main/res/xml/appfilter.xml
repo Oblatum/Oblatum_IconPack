@@ -1401,6 +1401,8 @@
 		<item component="ComponentInfo{com.sto.express/com.sto.express.mvp.other.ui.SplashActivity}" drawable="sto"/>
 		<item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity}" drawable="oppo_game_space"/>
 		<item component="ComponentInfo{com.oppo.community/com.oppo.community.InitActivity}" drawable="oppo_ommunity"/>
+		<item component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity}" drawable="monkeybook"/>
+		<item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="cainiao"/>
 
 
 
