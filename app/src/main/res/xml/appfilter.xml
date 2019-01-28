@@ -447,10 +447,13 @@
 		
 
 		<!-- OPPO -->
+		<item component="ComponentInfo{com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity}" drawable="oppo_find_my_phone"/>
 		<item component="ComponentInfo{com.nearme.note/com.nearme.note.view.AllNoteActivity}" drawable="oppo_notes" />
 		<item component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}" drawable="oppo_oroaming" />
 		<item component="ComponentInfo{com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity}" drawable="oppo_tips" />
 		<item component="ComponentInfo{com.coloros.flowmarket/com.coloros.flowmarket.MainActivity}" drawable="oppo_data_supermarket" />
+		<item component="ComponentInfo{com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity}" drawable="oppo_find_my_phone" />
+		<item component="ComponentInfo{com.coloros.onekeylockscreen/com.coloros.onekeylockscreen.OppoLockScreen}" drawable="oppo_one_tap_lockscreen" />
 
 		<!-- 普通应用 / apps -->
 		<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="erweima" />
@@ -789,6 +792,7 @@
 		<item component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map" />
 		<item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="camscanner" />
 		<item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity}" drawable="geometric_weather" />
+		<item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.main.MainActivity}" drawable="geometric_weather" />
 		<item component="ComponentInfo{ml.puredark.hviewer/ml.puredark.hviewer.ui.activities.LockActivity}" drawable="h_viewer" />
 		<item component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}" drawable="lantern" />
 		<item component="ComponentInfo{pro.com.lantern/pro.com.lantern.AppStart}" drawable="lantern" />
@@ -1315,6 +1319,7 @@
 		<item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivityIcon}" drawable="swiftkey"/>
 		<item component="ComponentInfo{com.kascend.chushou/com.kascend.chushou.ChuShouTV}" drawable="chushou" />
 		<item component="ComponentInfo{com.happyelements.AndroidAnimal/com.happyelements.android.platform.oppo.ads.SplashActivity}" drawable="happyelements" />
+		<item component="ComponentInfo{com.tencent.tmgp.AndroidAnimal/com.happyelements.hellolua.MainActivity}" drawable="happyelements" />
 		<item component="ComponentInfo{com.faloo.BookReader4Android/com.faloo.app.activity.LogoPageActivity}" drawable="faloo_bookreader"/>
 		<item component="ComponentInfo{klb.android.lovelivecn/klb.android.GameEngine.GameEngineActivity}" drawable="lovelive"/>
 		<item component="ComponentInfo{com.wyd.hero.yqlfc.cb1.apk/com.wyd.fc.activity.SplashActivity}" drawable="hero_yqlfc" />
@@ -1324,6 +1329,7 @@
 		<item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest" />
 		<item component="ComponentInfo{com.cootek.smartinputv5/com.cootek.smartinput5.GateActivity}" drawable="touchpal" />
 		<item component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeBookActivity}" drawable="monkeybook"/>
+		<item component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity}" drawable="monkeybook"/>
 		<item component="ComponentInfo{com.blizzard.bma.cn/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battle_net_authenticator" />
 		<item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="authenticator" />
 		<item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.COPPAActivity}" drawable="pvz" />
@@ -1402,7 +1408,18 @@
 		<item component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity}" drawable="oppo_game_space"/>
 		<item component="ComponentInfo{com.oppo.community/com.oppo.community.InitActivity}" drawable="oppo_ommunity"/>
 
-
+		<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts"/>
+		<item component="ComponentInfo{cmb.pb/cmb.pb.mainframe.PBEntryActivity}" drawable="cmb"/>
+		<item component="ComponentInfo{com.zzzmode.appopsx/com.zzzmode.appopsx.ui.main.MainActivity}" drawable="appopsx" />
+		<item component="ComponentInfo{com.zzzmode.appopsx.sys/com.zzzmode.appopsx.ui.main.MainActivity}" drawable="appopsx" />
+		<item component="ComponentInfo{dk.beoplay.app/dk.shape.beoplay.activities.MainActivity}" drawable="beoplay" />
+		<item component="ComponentInfo{tech.evlsoc.captivemgr/tech.evlsoc.captivemgr.MainActivity}" drawable="captivemgr" />
+		<item component="ComponentInfo{com.damonplay.damonps2.pro.ppsspp/com.damonplay.damonps2.MainActivity}" drawable="damon_ps2" />
+		<item component="ComponentInfo{flar2.devcheck/flar2.devcheck.SplashActivity}" drawable="devcheck" />
+		<item component="ComponentInfo{com.languagedrops.drops.international/com.languagedrops.drops.international.MainActivity}" drawable="drops" />
+		<item component="ComponentInfo{com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity}" drawable="kitchen_stories" />
+		<item component="ComponentInfo{nz.co.codepoint.minimetro/com.ads.ad.SplashAdActivity}" drawable="mini_metro" />
+		<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" />
 
 
 
