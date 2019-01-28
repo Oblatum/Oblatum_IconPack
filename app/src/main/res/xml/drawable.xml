@@ -22,19 +22,29 @@
 
 	<category title="New and Update" />
 		<item drawable="appopsx" />
+		<item drawable="bank_pingan" />
 		<item drawable="beoplay" />
 		<item drawable="beoplay_1" />
 		<item drawable="captivemgr" />
 		<item drawable="damon_ps2" />
 		<item drawable="devcheck" />
 		<item drawable="drops" />
+		<item drawable="hdplive" />
+		<item drawable="jiaoyicat" />
 		<item drawable="kitchen_stories" />
+		<item drawable="ludashi" />
 		<item drawable="mini_metro" />
+		<item drawable="nhbooks" />
+		<item drawable="oppo_community" />
 		<item drawable="oppo_find_my_phone" />
+		<item drawable="oppo_game_space" />
 		<item drawable="oppo_member" />
+		<item drawable="oppo_myoppo" />
 		<item drawable="oppo_one_tap_lockscreen" />
 		<item drawable="pocket_casts" />
 		<item drawable="pocket_casts_1" />
+		<item drawable="qunar" />
+		<item drawable="sto" />
 
 
 	<category title="Folders and Widgets" />
@@ -351,6 +361,7 @@
 		<item drawable="baidu_translate" />
 		<item drawable="baidu_tuiguang" />
 		<item drawable="baimiao" />
+		<item drawable="bank_pingan" />
 		<item drawable="bankcomm" />
 		<item drawable="bar" />
 		<item drawable="battle_net_authenticator" />
@@ -568,6 +579,7 @@
 		<item drawable="haoce" />
 		<item drawable="happy_browser" />
 		<item drawable="happyelements" />
+		<item drawable="hdplive" />
 		<item drawable="hdzuoye" />
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
@@ -603,6 +615,7 @@
 		<item drawable="jd" />
 		<item drawable="jd_jinrong" />
 		<item drawable="jg12123" />
+		<item drawable="jiaoyicat" />
 		<item drawable="jike" />
 		<item drawable="jisu_browser" />
 		<item drawable="jmail" />
@@ -627,6 +640,7 @@
 		<item drawable="lovelycat" />
 		<item drawable="lp_iconpack" />
 		<item drawable="lucky_patch" />
+		<item drawable="ludashi" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
 		<item drawable="magisk_manager" />
@@ -723,6 +737,7 @@
 		<item drawable="new500" />
 		<item drawable="news_and_weather" />
 		<item drawable="nga" />
+		<item drawable="nhbooks" />
 		<item drawable="nimingban" />
 		<item drawable="nintendo_switch_online" />
 		<item drawable="nokia_notes" />
@@ -785,13 +800,16 @@
 		<item drawable="openhub" />
 		<item drawable="opgg" />
 		<item drawable="oppo_app_store" />
+		<item drawable="oppo_community" />
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_data_supermarket" />
 		<item drawable="oppo_files" />
 		<item drawable="oppo_find_my_phone" />
+		<item drawable="oppo_game_space" />
+		<item drawable="oppo_member" />
 		<item drawable="oppo_menber" />
 		<item drawable="oppo_music" />
-		<item drawable="oppo_member" />
+		<item drawable="oppo_myoppo" />
 		<item drawable="oppo_notes" />
 		<item drawable="oppo_one_tap_lockscreen" />
 		<item drawable="oppo_oroaming" />
@@ -851,6 +869,7 @@
 		<item drawable="quark" />
 		<item drawable="quick_pic" />
 		<item drawable="quickedit" />
+		<item drawable="qunar" />
 		<item drawable="qzone" />
 		<item drawable="radio" />
 		<item drawable="register" />
@@ -928,6 +947,7 @@
 		<item drawable="steam_link" />
 		<item drawable="steam_lite" />
 		<item drawable="stitch" />
+		<item drawable="sto" />
 		<item drawable="stocard" />
 		<item drawable="substratum" />
 		<item drawable="super_class_schedule" />
