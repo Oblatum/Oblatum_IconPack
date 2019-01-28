@@ -6,7 +6,6 @@
 		<item>accubattery</item>
 		<item>acfun</item>
 		<item>acrobat</item>
-		<item>acrobat</item>
 		<item>actinium</item>
 		<item>action_launcher</item>
 		<item>adm_pro</item>
@@ -42,6 +41,7 @@
 		<item>aplayer</item>
 		<item>app_logo</item>
 		<item>apple_music</item>
+		<item>appopsx</item>
 		<item>arcaea</item>
 		<item>aries_iconpack</item>
 		<item>aries_iconpack_lite</item>
@@ -74,6 +74,8 @@
 		<item>behance</item>
 		<item>benghuai2</item>
 		<item>benghuai3</item>
+		<item>beoplay</item>
+		<item>beoplay_1</item>
 		<item>bifrostv</item>
 		<item>bilibili</item>
 		<item>bilibili_1</item>
@@ -106,6 +108,7 @@
 		<item>calendar_d31</item>
 		<item>camera</item>
 		<item>camscanner</item>
+		<item>captivemgr</item>
 		<item>card_iconpack</item>
 		<item>cardboard</item>
 		<item>cardboard_camera</item>
@@ -138,11 +141,13 @@
 		<item>ctrip</item>
 		<item>ctrl_plus</item>
 		<item>d115</item>
+		<item>damon_ps2</item>
 		<item>dancing_line</item>
 		<item>daodai</item>
 		<item>data_monitor</item>
 		<item>daydream</item>
 		<item>delve</item>
+		<item>devcheck</item>
 		<item>dianping</item>
 		<item>dida_music</item>
 		<item>didi</item>
@@ -160,6 +165,7 @@
 		<item>dragalia_lost</item>
 		<item>drawer</item>
 		<item>drawer_1</item>
+		<item>drops</item>
 		<item>duia</item>
 		<item>duitang</item>
 		<item>duokan_reader</item>
@@ -368,6 +374,7 @@
 		<item>keep</item>
 		<item>kihan</item>
 		<item>kindle</item>
+		<item>kitchen_stories</item>
 		<item>kugou_music</item>
 		<item>kuwo_music</item>
 		<item>lantern</item>
@@ -411,6 +418,7 @@
 		<item>midea_ac</item>
 		<item>migu_video</item>
 		<item>minecraft</item>
+		<item>mini_metro</item>
 		<item>mint_bookkeeping</item>
 		<item>mipush</item>
 		<item>miui_bbs</item>
@@ -542,9 +550,12 @@
 		<item>oppo_compass</item>
 		<item>oppo_data_supermarket</item>
 		<item>oppo_files</item>
+		<item>oppo_find_my_phone</item>
 		<item>oppo_menber</item>
 		<item>oppo_music</item>
+		<item>oppo_member</item>
 		<item>oppo_notes</item>
+		<item>oppo_one_tap_lockscreen</item>
 		<item>oppo_oroaming</item>
 		<item>oppo_security</item>
 		<item>oppo_sound_recorder</item>
@@ -566,6 +577,8 @@
 		<item>pixiv</item>
 		<item>pixles_iconpack</item>
 		<item>pixles_iconpack_1</item>
+		<item>pocket_casts</item>
+		<item>pocket_casts_1</item>
 		<item>pornhub</item>
 		<item>power_clean</item>
 		<item>powerpoint</item>
