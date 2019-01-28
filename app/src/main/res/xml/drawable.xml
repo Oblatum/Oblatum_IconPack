@@ -21,18 +21,20 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="dida_music" />
-		<item drawable="jg12123" />
-		<item drawable="moviepic" />
-		<item drawable="oppo_data_supermarket" />
-		<item drawable="oppo_notes" />
-		<item drawable="oppo_oroaming" />
-		<item drawable="oppo_tips" />
-		<item drawable="weibo_int" />
-		<item drawable="weibo_jisu" />
-		<item drawable="weibo_see" />
-		<item drawable="weico" />
-		<item drawable="welike" />
+		<item drawable="appopsx" />
+		<item drawable="beoplay" />
+		<item drawable="beoplay_1" />
+		<item drawable="captivemgr" />
+		<item drawable="damon_ps2" />
+		<item drawable="devcheck" />
+		<item drawable="drops" />
+		<item drawable="kitchen_stories" />
+		<item drawable="mini_metro" />
+		<item drawable="oppo_find_my_phone" />
+		<item drawable="oppo_member" />
+		<item drawable="oppo_one_tap_lockscreen" />
+		<item drawable="pocket_casts" />
+		<item drawable="pocket_casts_1" />
 
 
 	<category title="Folders and Widgets" />
@@ -263,6 +265,7 @@
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
 		<item drawable="minecraft"/>
+		<item drawable="mini_metro" />
 		<item drawable="monument2" />
 		<item drawable="mtgp_lol" />
 		<item drawable="netease_moba" />
@@ -286,7 +289,6 @@
 		<item drawable="abc" />
 		<item drawable="accubattery" />
 		<item drawable="acfun" />
-		<item drawable="acrobat" />
 		<item drawable="acrobat" />
 		<item drawable="actinium" />
 		<item drawable="action_launcher" />
@@ -323,6 +325,7 @@
 		<item drawable="aplayer" />
 		<item drawable="app_logo" />
 		<item drawable="apple_music" />
+		<item drawable="appopsx" />
 		<item drawable="arcaea" />
 		<item drawable="aries_iconpack" />
 		<item drawable="aries_iconpack_lite" />
@@ -355,6 +358,8 @@
 		<item drawable="behance" />
 		<item drawable="benghuai2" />
 		<item drawable="benghuai3" />
+		<item drawable="beoplay" />
+		<item drawable="beoplay_1" />
 		<item drawable="bifrostv" /> 
 		<item drawable="bilibili" />
 		<item drawable="bilibili_1" />
@@ -387,6 +392,7 @@
 		<item drawable="calendar_dynamic" />
 		<item drawable="camera" />
 		<item drawable="camscanner" />
+		<item drawable="captivemgr" />
 		<item drawable="card_iconpack" />
 		<item drawable="cardboard" />
 		<item drawable="cardboard_camera" />
@@ -420,11 +426,13 @@
 		<item drawable="ctrip" />
 		<item drawable="ctrl_plus" />
 		<item drawable="d115" />
+		<item drawable="damon_ps2" />
 		<item drawable="dancing_line" />
 		<item drawable="daodai" />
 		<item drawable="data_monitor" />
 		<item drawable="daydream" />
 		<item drawable="delve" />
+		<item drawable="devcheck" />
 		<item drawable="dianping" />
 		<item drawable="dida_music" />
 		<item drawable="didi" />
@@ -442,6 +450,7 @@
 		<item drawable="dragalia_lost" />
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
+		<item drawable="drops" />
 		<item drawable="duia" />
 		<item drawable="duokan_reader" />
 		<item drawable="duxiaoman" />
@@ -601,6 +610,7 @@
 		<item drawable="keep" />
 		<item drawable="kihan" />
 		<item drawable="kindle" />
+		<item drawable="kitchen_stories" />
 		<item drawable="kugou_music" />
 		<item drawable="kuwo_music" />
 		<item drawable="lantern" />
@@ -646,6 +656,7 @@
 		<item drawable="midea_ac" />
 		<item drawable="migu_video" />
 		<item drawable="minecraft" />
+		<item drawable="mini_metro" />
 		<item drawable="mint_bookkeeping" />
 		<item drawable="mipush" />
 		<item drawable="miui_bbs" />
@@ -777,9 +788,12 @@
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_data_supermarket" />
 		<item drawable="oppo_files" />
+		<item drawable="oppo_find_my_phone" />
 		<item drawable="oppo_menber" />
 		<item drawable="oppo_music" />
+		<item drawable="oppo_member" />
 		<item drawable="oppo_notes" />
+		<item drawable="oppo_one_tap_lockscreen" />
 		<item drawable="oppo_oroaming" />
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
@@ -801,6 +815,8 @@
 		<item drawable="pixiv" />
 		<item drawable="pixles_iconpack" />
 		<item drawable="pixles_iconpack_1" />
+		<item drawable="pocket_casts" />
+		<item drawable="pocket_casts_1" />
 		<item drawable="pornhub" />
 		<item drawable="power_clean" />
 		<item drawable="powerpoint" />
@@ -1049,5 +1065,4 @@
 		<item drawable="zhuishudashen" />
 		<item drawable="zlive" />
 		<item drawable="zlive_1" />
-
 </resources>

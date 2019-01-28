@@ -452,6 +452,8 @@
 		<item component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}" drawable="oppo_oroaming" />
 		<item component="ComponentInfo{com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity}" drawable="oppo_tips" />
 		<item component="ComponentInfo{com.coloros.flowmarket/com.coloros.flowmarket.MainActivity}" drawable="oppo_data_supermarket" />
+		<item component="ComponentInfo{com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity}" drawable="oppo_find_my_phone" />
+		<item component="ComponentInfo{com.coloros.onekeylockscreen/com.coloros.onekeylockscreen.OppoLockScreen}" drawable="oppo_one_tap_lockscreen" />
 
 		<!-- 普通应用 / apps -->
 		<item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="erweima" />
@@ -1408,7 +1410,16 @@
 
 		<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts"/>
 		<item component="ComponentInfo{cmb.pb/cmb.pb.mainframe.PBEntryActivity}" drawable="cmb"/>
-
+		<item component="ComponentInfo{com.zzzmode.appopsx/com.zzzmode.appopsx.ui.main.MainActivity}" drawable="appopsx" />
+		<item component="ComponentInfo{com.zzzmode.appopsx.sys/com.zzzmode.appopsx.ui.main.MainActivity}" drawable="appopsx" />
+		<item component="ComponentInfo{dk.beoplay.app/dk.shape.beoplay.activities.MainActivity}" drawable="beoplay" />
+		<item component="ComponentInfo{tech.evlsoc.captivemgr/tech.evlsoc.captivemgr.MainActivity}" drawable="captivemgr" />
+		<item component="ComponentInfo{com.damonplay.damonps2.pro.ppsspp/com.damonplay.damonps2.MainActivity}" drawable="damon_ps2" />
+		<item component="ComponentInfo{flar2.devcheck/flar2.devcheck.SplashActivity}" drawable="devcheck" />
+		<item component="ComponentInfo{com.languagedrops.drops.international/com.languagedrops.drops.international.MainActivity}" drawable="drops" />
+		<item component="ComponentInfo{com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity}" drawable="kitchen_stories" />
+		<item component="ComponentInfo{nz.co.codepoint.minimetro/com.ads.ad.SplashAdActivity}" drawable="mini_metro" />
+		<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" />
 
 
 
