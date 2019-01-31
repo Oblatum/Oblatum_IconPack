@@ -21,30 +21,17 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="appopsx" />
-		<item drawable="bank_pingan" />
-		<item drawable="beoplay" />
-		<item drawable="beoplay_1" />
-		<item drawable="captivemgr" />
-		<item drawable="damon_ps2" />
-		<item drawable="devcheck" />
-		<item drawable="drops" />
-		<item drawable="hdplive" />
-		<item drawable="jiaoyicat" />
-		<item drawable="kitchen_stories" />
-		<item drawable="ludashi" />
-		<item drawable="mini_metro" />
-		<item drawable="nhbooks" />
-		<item drawable="oppo_community" />
-		<item drawable="oppo_find_my_phone" />
-		<item drawable="oppo_game_space" />
-		<item drawable="oppo_member" />
-		<item drawable="oppo_myoppo" />
-		<item drawable="oppo_one_tap_lockscreen" />
-		<item drawable="pocket_casts" />
-		<item drawable="pocket_casts_1" />
-		<item drawable="qunar" />
-		<item drawable="sto" />
+		<item drawable="ciyuanjn" />
+		<item drawable="lovely_cat_crack" />
+		<item drawable="magic_magnet" />
+		<item drawable="mahua" />
+		<item drawable="maomi_video" />
+		<item drawable="movie_fans" />
+		<item drawable="ssly" />
+		<item drawable="wisdom_tree" />
+		<item drawable="wolf_man" />
+		<item drawable="x_plore" />
+
 
 
 	<category title="Folders and Widgets" />
@@ -419,6 +406,7 @@
 		<item drawable="chrome_dev" />
 		<item drawable="chromium" />
 		<item drawable="chushou" />
+		<item drawable="ciyuanjn" />
 		<item drawable="cjzc" />
 		<item drawable="cjzc_1" />
 		<item drawable="clash_of_clans" />
@@ -637,13 +625,16 @@
 		<item drawable="lol_friend" />
 		<item drawable="lovebizhi" />
 		<item drawable="lovelive" />
+		<item drawable="lovely_cat_crack" />
 		<item drawable="lovelycat" />
 		<item drawable="lp_iconpack" />
 		<item drawable="lucky_patch" />
 		<item drawable="ludashi" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
+		<item drawable="magic_magnet" />
 		<item drawable="magisk_manager" />
+		<item drawable="mahua" />
 		<item drawable="maidanba" />
 		<item drawable="mail_master" />
 		<item drawable="maimemo" />
@@ -653,6 +644,7 @@
 		<item drawable="mangotv_alt" />
 		<item drawable="mangotv_alt"/>
 		<item drawable="manyou" />
+		<item drawable="maomi_video" />
 		<item drawable="mark_qrcode" />
 		<item drawable="meeye" />
 		<item drawable="meitu" />
@@ -710,6 +702,7 @@
 		<item drawable="moshouzhushou" />
 		<item drawable="mosoteach" />
 		<item drawable="move_to_miui" />
+		<item drawable="movie_fans" />
 		<item drawable="moviepic" />
 		<item drawable="mr_translator" />
 		<item drawable="mtglq" />
@@ -938,6 +931,7 @@
 		<item drawable="speedtest" />
 		<item drawable="spotify" />
 		<item drawable="ss" />
+		<item drawable="ssly" />
 		<item drawable="ssr" />
 		<item drawable="ssrr" />
 		<item drawable="star_walk2" />
@@ -1034,6 +1028,8 @@
 		<item drawable="whatsapp" />
 		<item drawable="wifilocating" />
 		<item drawable="wikipedia" />
+		<item drawable="wisdom_tree" />
+		<item drawable="wolf_man" />
 		<item drawable="word" />
 		<item drawable="wps_office" />
 		<item drawable="wzry" />
@@ -1041,6 +1037,7 @@
 		<item drawable="wzry_beta" />
 		<item drawable="wzry_helper" />
 		<item drawable="x_apm" />
+		<item drawable="x_plore" />
 		<item drawable="xbj" />
 		<item drawable="xbox" />
 		<item drawable="xbrowser" />

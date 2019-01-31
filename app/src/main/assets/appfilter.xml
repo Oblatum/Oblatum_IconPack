@@ -1422,8 +1422,16 @@
 		<item component="ComponentInfo{com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity}" drawable="kitchen_stories" />
 		<item component="ComponentInfo{nz.co.codepoint.minimetro/com.ads.ad.SplashAdActivity}" drawable="mini_metro" />
 		<item component="ComponentInfo{au.com.shiftyjelly.pocketcasts/au.com.shiftyjelly.pocketcasts.ui.MainActivity}" drawable="pocket_casts" />
-
-
+		<item component="ComponentInfo{com.lonelycatgames.Xplore/com.lonelycatgames.Xplore.Browser}" drawable="x_plore"/>
+		<item component="ComponentInfo{com.amahua.ywofnbfd/com.mh.movie.core.mvp.ui.activity.SplashActivity}" drawable="mahua"/>
+		<item component="ComponentInfo{www.sslyapp.com/com.jdly.activity.App_start}" drawable="ssly"/>
+		<item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.login.PermissionsActivity}" drawable="wisdom_tree"/>
+		<item component="ComponentInfo{com.outsource.videostream/com.outsource.videostream.zbb.SplashActivity}" drawable="maomi_video"/>
+		<item component="ComponentInfo{com.maomi.love/com.lovelycat.activity.SplashActivity}" drawable="lovely_cat_crack"/>
+		<item component="ComponentInfo{com.hghgweb.dnvodbox/com.hghgweb.dnvodbox.ui.activity.SplashActivity}" drawable="wolf_man"/>
+		<item component="ComponentInfo{com.xingyuyou.xingyuyou/com.xingyuyou.xingyuyou.SplashActivity}" drawable="ciyuanjn"/>
+		<item component="ComponentInfo{cn.ikicker.moviefans/cn.ikicker.moviefans.ui.activity.MainActivity}" drawable="movie_fans"/>
+		<item component="ComponentInfo{com.magicmagnet/com.magicmagnet.common.SplashActivity}" drawable="magic_magnet"/>
 
 
 
