@@ -21,16 +21,27 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="ciyuanjn" />
-		<item drawable="lovely_cat_crack" />
-		<item drawable="magic_magnet" />
-		<item drawable="mahua" />
-		<item drawable="maomi_video" />
-		<item drawable="movie_fans" />
-		<item drawable="ssly" />
-		<item drawable="wisdom_tree" />
-		<item drawable="wolf_man" />
-		<item drawable="x_plore" />
+		<item drawable="airdroid" />
+		<item drawable="aliyun_alink" />
+		<item drawable="brainmusic" />
+		<item drawable="bsz" />
+		<item drawable="chelaile" />
+		<item drawable="cn_gov_tax" />
+		<item drawable="cytus_ii" />
+		<item drawable="hanju_tv" />
+		<item drawable="huawei_smarthome" />
+		<item drawable="live_visualizer" />
+		<item drawable="maoyan" />
+		<item drawable="miuihd" />
+		<item drawable="nekogram" />
+		<item drawable="roundcorner" />
+		<item drawable="stellio" />
+		<item drawable="sunlogin_remote_control" />
+		<item drawable="sz_citizencard" />
+		<item drawable="sz_citizencard_1" />
+		<item drawable="szfreego" />
+		<item drawable="wudaokou_hippo" />
+		<item drawable="zaker" />
 
 
 
@@ -251,6 +262,7 @@
 		<item drawable="cjzc_1" />
 		<item drawable="clash_of_clans" />
 		<item drawable="clash_royale" />
+		<item drawable="cytus_ii" />
 		<item drawable="dancing_line" />
 		<item drawable="dragalia_lost" />
 		<item drawable="happyelements" />
@@ -302,6 +314,7 @@
 		<item drawable="aide" />
 		<item drawable="aikan_reader" />
 		<item drawable="airbattery" />
+		<item drawable="airdroid" />
 		<item drawable="airfrozen" />
 		<item drawable="ali_smartdail" />
 		<item drawable="alipay" />
@@ -309,6 +322,7 @@
 		<item drawable="alipay_alt2" />
 		<item drawable="aliqin" />
 		<item drawable="aliyun" />
+		<item drawable="aliyun_alink" />
 		<item drawable="aloha" />
 		<item drawable="ampere" />
 		<item drawable="android_p_ify" />
@@ -380,7 +394,9 @@
 		<item drawable="book_douban" />
 		<item drawable="book_jj" />
 		<item drawable="bookshelf" />
+		<item drawable="brainmusic" />
 		<item drawable="browser" />
+		<item drawable="bsz" />
 		<item drawable="bullet_message" />
 		<item drawable="business_calendar" />
 		<item drawable="buyathome" />
@@ -397,6 +413,7 @@
 		<item drawable="ccb" />
 		<item drawable="changsha_metro" />
 		<item drawable="cheapflights" />
+		<item drawable="chelaile" />
 		<item drawable="chinamobile" />
 		<item drawable="chinatelecom" />
 		<item drawable="chinaunicom" />
@@ -416,6 +433,7 @@
 		<item drawable="clock" />
 		<item drawable="cmb" />
 		<item drawable="cmbc" />
+		<item drawable="cn_gov_tax" />
 		<item drawable="commbank" />
 		<item drawable="contacts" />
 		<item drawable="coolapk" />
@@ -424,6 +442,7 @@
 		<item drawable="csdn" />
 		<item drawable="ctrip" />
 		<item drawable="ctrl_plus" />
+		<item drawable="cytus_ii" />
 		<item drawable="d115" />
 		<item drawable="damon_ps2" />
 		<item drawable="dancing_line" />
@@ -564,6 +583,7 @@
 		<item drawable="gxicon" />
 		<item drawable="h_viewer" />
 		<item drawable="hangouts" />
+		<item drawable="hanju_tv" />
 		<item drawable="haoce" />
 		<item drawable="happy_browser" />
 		<item drawable="happyelements" />
@@ -579,6 +599,7 @@
 		<item drawable="hook_model" />
 		<item drawable="hsbb" />
 		<item drawable="huawei_fans" />
+		<item drawable="huawei_smarthome" />
 		<item drawable="hupu" />
 		<item drawable="huyazhibo" />
 		<item drawable="hyxd" />
@@ -621,6 +642,7 @@
 		<item drawable="lenovo_sync" />
 		<item drawable="linewebtoon" />
 		<item drawable="linos_recorder" />
+		<item drawable="live_visualizer" />
 		<item drawable="lofter" />
 		<item drawable="lol_friend" />
 		<item drawable="lovebizhi" />
@@ -645,6 +667,7 @@
 		<item drawable="mangotv_alt"/>
 		<item drawable="manyou" />
 		<item drawable="maomi_video" />
+		<item drawable="maoyan" />
 		<item drawable="mark_qrcode" />
 		<item drawable="meeye" />
 		<item drawable="meitu" />
@@ -685,6 +708,7 @@
 		<item drawable="miui_themes" />
 		<item drawable="miui_wallet" />
 		<item drawable="miui_xiao_ai" />
+		<item drawable="miuihd" />
 		<item drawable="mix_explorer" />
 		<item drawable="mjweather" />
 		<item drawable="mjweather_light" />
@@ -715,6 +739,7 @@
 		<item drawable="myappscreenmask" />
 		<item drawable="mystops" />
 		<item drawable="nano" />
+		<item drawable="nekogram" />
 		<item drawable="neoreader" />
 		<item drawable="netease_cartoonreader" />
 		<item drawable="netease_cloudmusic" />
@@ -868,6 +893,7 @@
 		<item drawable="register" />
 		<item drawable="retro_music" />
 		<item drawable="root_explorer" />
+		<item drawable="roundcorner" />
 		<item drawable="rricon" />
 		<item drawable="rricon_primitive" />
 		<item drawable="samsung_assistant" />
@@ -940,16 +966,21 @@
 		<item drawable="steam" />
 		<item drawable="steam_link" />
 		<item drawable="steam_lite" />
+		<item drawable="stellio" />
 		<item drawable="stitch" />
 		<item drawable="sto" />
 		<item drawable="stocard" />
 		<item drawable="substratum" />
+		<item drawable="sunlogin_remote_control" />
 		<item drawable="super_class_schedule" />
 		<item drawable="super_pad" />
 		<item drawable="superstar" />
 		<item drawable="supersu" />
 		<item drawable="svideo" />
 		<item drawable="swiftkey" />
+		<item drawable="sz_citizencard" />
+		<item drawable="sz_citizencard_1" />
+		<item drawable="szfreego" />
 		<item drawable="t_12306" />
 		<item drawable="taichi" />
 		<item drawable="taobao" />
@@ -1032,6 +1063,7 @@
 		<item drawable="wolf_man" />
 		<item drawable="word" />
 		<item drawable="wps_office" />
+		<item drawable="wudaokou_hippo" />
 		<item drawable="wzry" />
 		<item drawable="wzry_1" />
 		<item drawable="wzry_beta" />
@@ -1074,6 +1106,7 @@
 		<item drawable="yys" />
 		<item drawable="yys_1" />
 		<item drawable="yyszs" />
+		<item drawable="zaker" />
 		<item drawable="zarchiver" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
