@@ -1436,6 +1436,32 @@
 		<item component="ComponentInfo{cn.ikicker.moviefans/cn.ikicker.moviefans.ui.activity.MainActivity}" drawable="movie_fans"/>
 		<item component="ComponentInfo{com.magicmagnet/com.magicmagnet.common.SplashActivity}" drawable="magic_magnet"/>
 		<item component="ComponentInfo{com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="eswenjian"/>
+		<item component="ComponentInfo{com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity}" drawable="huawei_smarthome"/>
+		<item component="ComponentInfo{com.oray.sunlogin/com.oray.sunlogin.application.Main}" drawable="sunlogin_remote_control"/>
+		<item component="ComponentInfo{com.moe.LiveVisualizer/com.moe.LiveVisualizer.activity.SettingActivity}" drawable="live_visualizer" />
+		<item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="adm_pro"/>
+		<item component="ComponentInfo{com.bwton.szfreego/com.bwton.szfreego.business.LaunchActivity}" drawable="szfreego"/>
+		<item component="ComponentInfo{sz.szsmk.citizencard/sz.szsmk.citizencard.ui.activity.LoadingActivity}" drawable="sz_citizencard"/>
+		<item component="ComponentInfo{com.aliyun.alink/com.aliyun.alink.page.main.MainActivity}" drawable="aliyun_alink"/>
+		<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}" drawable="wudaokou_hippo"/>
+		<item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="cn_gov_tax"/>
+		<item component="ComponentInfo{com.yt.sz.szbank/com.yitong.szbank.bank.splash.activity.Splash}" drawable="bsz"/>
+		<item component="ComponentInfo{com.babycloud.hanju/com.babycloud.hanju.ui.activity.WelcomeActivity}" drawable="hanju_tv"/>
+		<item component="ComponentInfo{com.hch.miuihd/io.dcloud.PandoraEntry}" drawable="miuihd"/>
+		<item component="ComponentInfo{com.rayark.cytus2/com.inca.security.DexProtect.LauncherActivity}" drawable="cytus_ii"/>
+		<item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.ui.LaunchActivity}" drawable="nekogram"/>
+		<item component="ComponentInfo{com.nj.wellsign/com.nj.wellsign.ui.activity.StartActivity}" drawable="wellsign "/>
+		<item component="ComponentInfo{bin.mt.plus/l.ۦۤ۬ۤ}" drawable="mtglq"/>
+		<item component="ComponentInfo{io.stellio.player/io.stellio.player.MainActivity}" drawable="stellio"/>
+		<item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="adm_pro"/>
+		<item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.activity.StartActivity}" drawable="bmap"/>
+		<item component="ComponentInfo{com.myzaker.ZAKER_Phone/com.myzaker.ZAKER_Phone.view.LogoActivity}" drawable="zaker" />
+		<item component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_}" drawable="airdroid" />
+		<item component="ComponentInfo{com.c4x.roundcorner/com.c4x.roundcorner.ui.LauAct}" drawable="roundcorner" />
+		<item component="ComponentInfo{io.stellio.player/io.stellio.player.MainActivity}" drawable="stellio" />
+		<item component="ComponentInfo{com.psyone.brainmusic/com.psyone.brainmusic.SplashActivity}" drawable=" sbrainmusic" />
+		<item component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}" drawable="chelaile" />
+		<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.base.activity.splash.InitActivity}" drawable="wudaokou_hippo" />
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />

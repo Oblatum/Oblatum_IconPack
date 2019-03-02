@@ -21,6 +21,7 @@
 		<item>aide</item>
 		<item>aikan_reader</item>
 		<item>airbattery</item>
+		<item>airdroid</item>
 		<item>airfrozen</item>
 		<item>ali_smartdail</item>
 		<item>alipay</item>
@@ -28,6 +29,7 @@
 		<item>alipay_alt</item>
 		<item>aliqin</item>
 		<item>aliyun</item>
+		<item>aliyun_alink</item>
 		<item>aloha</item>
 		<item>ampere</item>
 		<item>android_p_ify</item>
@@ -98,7 +100,9 @@
 		<item>book_douban</item>
 		<item>book_jj</item>
 		<item>bookshelf</item>
+		<item>brainmusic</item>
 		<item>browser</item>
+		<item>bsz</item>
 		<item>bullet_message</item>
 		<item>business_calendar</item>
 		<item>buyathome</item>
@@ -115,6 +119,7 @@
 		<item>ccb</item>
 		<item>changsha_metro</item>
 		<item>cheapflights</item>
+		<item>chelaile</item>
 		<item>chinamobile</item>
 		<item>chinatelecom</item>
 		<item>chinaunicom</item>
@@ -134,6 +139,7 @@
 		<item>clock</item>
 		<item>cmb</item>
 		<item>cmbc</item>
+		<item>cn_gov_tax</item>
 		<item>commbank</item>
 		<item>contacts</item>
 		<item>coolapk</item>
@@ -141,6 +147,7 @@
 		<item>csdn</item>
 		<item>ctrip</item>
 		<item>ctrl_plus</item>
+		<item>cytus_ii</item>
 		<item>d115</item>
 		<item>damon_ps2</item>
 		<item>dancing_line</item>
@@ -312,6 +319,7 @@
 		<item>gxicon</item>
 		<item>h_viewer</item>
 		<item>hangouts</item>
+		<item>hanju_tv</item>
 		<item>haoce</item>
 		<item>happy_browser</item>
 		<item>happyelements</item>
@@ -326,6 +334,7 @@
 		<item>hook_model</item>
 		<item>hsbb</item>
 		<item>huawei_fans</item>
+		<item>huawei_smarthome</item>
 		<item>hupu</item>
 		<item>huyazhibo</item>
 		<item>hyxd</item>
@@ -385,6 +394,7 @@
 		<item>lenovo_sync</item>
 		<item>linewebtoon</item>
 		<item>linos_recorder</item>
+		<item>live_visualizer</item>
 		<item>lofter</item>
 		<item>lol_friend</item>
 		<item>lovebizhi</item>
@@ -406,6 +416,7 @@
 		<item>mangotv_alt</item>
 		<item>manyou</item>
 		<item>maomi_video</item>
+		<item>maoyan</item>
 		<item>mark_qrcode</item>
 		<item>meeye</item>
 		<item>meitu</item>
@@ -446,6 +457,7 @@
 		<item>miui_themes</item>
 		<item>miui_wallet</item>
 		<item>miui_xiao_ai</item>
+		<item>miuihd</item>
 		<item>mix_explorer</item>
 		<item>mjweather</item>
 		<item>mjweather_light</item>
@@ -476,6 +488,7 @@
 		<item>myappscreenmask</item>
 		<item>mystops</item>
 		<item>nano</item>
+		<item>nekogram</item>
 		<item>neoreader</item>
 		<item>netease_cartoonreader</item>
 		<item>netease_cloudmusic</item>
@@ -624,6 +637,7 @@
 		<item>register</item>
 		<item>retro_music</item>
 		<item>root_explorer</item>
+		<item>roundcorner</item>
 		<item>rricon</item>
 		<item>rricon_primitive</item>
 		<item>samsung_assistant</item>
@@ -693,15 +707,20 @@
 		<item>steam</item>
 		<item>steam_link</item>
 		<item>steam_lite</item>
+		<item>stellio</item>
 		<item>stitch</item>
 		<item>stocard</item>
 		<item>substratum</item>
+		<item>sunlogin_remote_control</item>
 		<item>super_class_schedule</item>
 		<item>super_pad</item>
 		<item>superstar</item>
 		<item>supersu</item>
 		<item>svideo</item>
 		<item>swiftkey</item>
+		<item>sz_citizencard</item>
+		<item>sz_citizencard_1</item>
+		<item>szfreego</item>
 		<item>t_12306</item>
 		<item>taichi</item>
 		<item>taobao</item>
@@ -784,6 +803,7 @@
 		<item>wolf_man</item>
 		<item>word</item>
 		<item>wps_office</item>
+		<item>wudaokou_hippo</item>
 		<item>wzry</item>
 		<item>wzry_1</item>
 		<item>wzry_beta</item>
@@ -826,6 +846,7 @@
 		<item>yys</item>
 		<item>yys_1</item>
 		<item>yyszs</item>
+		<item>zaker</item>
 		<item>zarchiver</item>
 		<item>zhihu</item>
 		<item>zhihu_daily</item>
