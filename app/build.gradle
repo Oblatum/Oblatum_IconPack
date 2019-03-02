@@ -30,7 +30,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion versions.targetSdk
-    buildToolsVersion '28.0.2'
+    buildToolsVersion '28.0.3'
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
@@ -95,7 +95,7 @@ dependencies {
     implementation('com.jahirfiquitiva:Blueprint:1.2.7@aar') {
         transitive = true
     }
-    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     // TODO: Remove comment marks to enable
     // implementation libraries.oneSignal
 }
