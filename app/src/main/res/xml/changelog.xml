@@ -15,8 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.4.9.4" />
-    <item text="如果遇到py还未更新，请联系酷安@PzHown" />
-    <item text="糯米纸年度应援会开始啦，点击链接查看：http://t.cn/EtJLg3V" />
+    <version title="V2.4.9.6" />
+    <item text="如果遇到遇到问题请加入qq群" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

@@ -21,27 +21,15 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="airdroid" />
-		<item drawable="aliyun_alink" />
-		<item drawable="brainmusic" />
-		<item drawable="bsz" />
-		<item drawable="chelaile" />
-		<item drawable="cn_gov_tax" />
-		<item drawable="cytus_ii" />
-		<item drawable="hanju_tv" />
-		<item drawable="huawei_smarthome" />
-		<item drawable="live_visualizer" />
-		<item drawable="maoyan" />
-		<item drawable="miuihd" />
-		<item drawable="nekogram" />
-		<item drawable="roundcorner" />
-		<item drawable="stellio" />
-		<item drawable="sunlogin_remote_control" />
-		<item drawable="sz_citizencard" />
-		<item drawable="sz_citizencard_1" />
-		<item drawable="szfreego" />
-		<item drawable="wudaokou_hippo" />
-		<item drawable="zaker" />
+		<item drawable="calculator" />
+		<item drawable="clock" />
+		<item drawable="emui_calculator" />
+		<item drawable="google_vioce" />
+		<item drawable="knowspace" />
+		<item drawable="qianji" />
+		<item drawable="settings" />
+		<item drawable="unionpay" />
+		<item drawable="yizhifu" />
 
 
 
@@ -403,6 +391,7 @@
 		<item drawable="caihong_world" />
 		<item drawable="cainiao" />
 		<item drawable="calculator" />
+		<item drawable="calculator_1" />
 		<item drawable="calendar_dynamic" />
 		<item drawable="camera" />
 		<item drawable="camscanner" />
@@ -431,6 +420,7 @@
 		<item drawable="class_163" />
 		<item drawable="cliff" />
 		<item drawable="clock" />
+		<item drawable="clock_1" />
 		<item drawable="cmb" />
 		<item drawable="cmbc" />
 		<item drawable="cn_gov_tax" />
@@ -481,6 +471,7 @@
 		<item drawable="emore" />
 		<item drawable="emui_accountagent" />
 		<item drawable="emui_bone" />
+		<item drawable="emui_calculator" />
 		<item drawable="emui_findmyphone" />
 		<item drawable="emui_flashlight" />
 		<item drawable="emui_gamebox" />
@@ -573,6 +564,7 @@
 		<item drawable="google_plus" />
 		<item drawable="google_slides" />
 		<item drawable="google_translate" />
+		<item drawable="google_vioce" />
 		<item drawable="google_voice_search" />
 		<item drawable="google_wallpaper" />
 		<item drawable="google_wear" />
@@ -633,6 +625,7 @@
 		<item drawable="kihan" />
 		<item drawable="kindle" />
 		<item drawable="kitchen_stories" />
+		<item drawable="knowspace" />
 		<item drawable="kugou_music" />
 		<item drawable="kuwo_music" />
 		<item drawable="lantern" />
@@ -868,6 +861,7 @@
 		<item drawable="pvz" />
 		<item drawable="qcloud" />
 		<item drawable="qdreader" />
+		<item drawable="qianji" />
 		<item drawable="qpay" />
 		<item drawable="qq" />
 		<item drawable="qq_1" />
@@ -914,6 +908,7 @@
 		<item drawable="setting" />
 		<item drawable="settings" />
 		<item drawable="settings_1" />
+		<item drawable="settings_2" />
 		<item drawable="sh_inputs" />
 		<item drawable="sh_inputs_1" />
 		<item drawable="shanbay_speak" />
@@ -1026,6 +1021,8 @@
 		<item drawable="uc_browser_2" />
 		<item drawable="ucmooc" />
 		<item drawable="umetrip" />
+		<item drawable="unionpay" />
+		<item drawable="unionpay_1" />
 		<item drawable="uu_router" />
 		<item drawable="vainglory" />
 		<item drawable="vertical_book" />
@@ -1094,8 +1091,8 @@
 		<item drawable="yanxuan" />
 		<item drawable="ygmh" />
 		<item drawable="yidianzixun" />
+		<item drawable="yizhifu" />
 		<item drawable="ykjl" />
-		<item drawable="ylqb" />
 		<item drawable="yogurt_iconpack" />
 		<item drawable="youdao_dict" />
 		<item drawable="youdao_net_note" />
