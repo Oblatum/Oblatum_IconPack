@@ -109,6 +109,7 @@
 		<item>caihong_world</item>
 		<item>cainiao</item>
 		<item>calculator</item>
+		<item>calculator_1</item>
 		<item>calendar_d31</item>
 		<item>camera</item>
 		<item>camscanner</item>
@@ -137,6 +138,7 @@
 		<item>class_163</item>
 		<item>cliff</item>
 		<item>clock</item>
+		<item>clock_1</item>
 		<item>cmb</item>
 		<item>cmbc</item>
 		<item>cn_gov_tax</item>
@@ -187,6 +189,7 @@
 		<item>emore</item>
 		<item>emui_accountagent</item>
 		<item>emui_bone</item>
+		<item>emui_calculator</item>
 		<item>emui_findmyphone</item>
 		<item>emui_flashlight</item>
 		<item>emui_gamebox</item>
@@ -278,6 +281,7 @@
 		<item>google_plus</item>
 		<item>google_slides</item>
 		<item>google_translate</item>
+		<item>google_vioce</item>
 		<item>google_voice_search</item>
 		<item>google_wallpaper</item>
 		<item>google_wear</item>
@@ -385,6 +389,7 @@
 		<item>kihan</item>
 		<item>kindle</item>
 		<item>kitchen_stories</item>
+		<item>knowspace</item>
 		<item>kugou_music</item>
 		<item>kuwo_music</item>
 		<item>lantern</item>
@@ -613,6 +618,7 @@
 		<item>pvz</item>
 		<item>qcloud</item>
 		<item>qdreader</item>
+		<item>qianji</item>
 		<item>qpay</item>
 		<item>qq</item>
 		<item>qq_1</item>
@@ -657,6 +663,7 @@
 		<item>setting</item>
 		<item>settings</item>
 		<item>settings_1</item>
+		<item>settings_2</item>
 		<item>sh_inputs</item>
 		<item>sh_inputs_1</item>
 		<item>shanbay_speak</item>
@@ -766,6 +773,8 @@
 		<item>uc_browser_2</item>
 		<item>ucmooc</item>
 		<item>umetrip</item>
+		<item>unionpay</item>
+		<item>unionpay_1</item>
 		<item>uu_router</item>
 		<item>vainglory</item>
 		<item>vertical_book</item>
@@ -834,8 +843,8 @@
 		<item>yanxuan</item>
 		<item>ygmh</item>
 		<item>yidianzixun</item>
+		<item>yizhifu</item>
 		<item>ykjl</item>
-		<item>ylqb</item>
 		<item>yogurt_iconpack</item>
 		<item>youdao_dict</item>
 		<item>youdao_net_note</item>
