@@ -21,17 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="calculator" />
-		<item drawable="clock" />
-		<item drawable="emui_calculator" />
-		<item drawable="google_vioce" />
-		<item drawable="knowspace" />
-		<item drawable="qianji" />
-		<item drawable="settings" />
-		<item drawable="unionpay" />
-		<item drawable="yizhifu" />
-
-
+		<item drawable="actiondash" />
+		<item drawable="miui_health" />
+		<item drawable="nanjing" />
+		<item drawable="souhu_video" />
+		<item drawable="trademessenger" />
+		<item drawable="xyz_insurance" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -163,6 +158,7 @@
 		<item drawable="miui_compass" />
 		<item drawable="miui_feedback" />
 		<item drawable="miui_gamecenter" />
+		<item drawable="miui_health" />
 		<item drawable="miui_live" />
 		<item drawable="miui_market" />
 		<item drawable="miui_music" />
@@ -289,6 +285,7 @@
 		<item drawable="acrobat" />
 		<item drawable="actinium" />
 		<item drawable="action_launcher" />
+		<item drawable="actiondash" />
 		<item drawable="adm_pro" />
 		<item drawable="adobe_capture" />
 		<item drawable="adobe_draw" />
@@ -688,6 +685,7 @@
 		<item drawable="miui_feedback" />
 		<item drawable="miui_forum" />
 		<item drawable="miui_gamecenter" />
+		<item drawable="miui_health" />
 		<item drawable="miui_live" />
 		<item drawable="miui_market" />
 		<item drawable="miui_music" />
@@ -731,6 +729,7 @@
 		<item drawable="mx_player" />
 		<item drawable="myappscreenmask" />
 		<item drawable="mystops" />
+		<item drawable="nanjing" />
 		<item drawable="nano" />
 		<item drawable="nekogram" />
 		<item drawable="neoreader" />
@@ -944,6 +943,7 @@
 		<item drawable="sony_what_is_new" />
 		<item drawable="sorcery" />
 		<item drawable="sougou_input" />
+		<item drawable="souhu_video" />
 		<item drawable="soul" />
 		<item drawable="soul_knight" />
 		<item drawable="sound_recorder" />
@@ -1008,6 +1008,7 @@
 		<item drawable="total_launcher" />
 		<item drawable="touchpal" />
 		<item drawable="tp_link" />
+		<item drawable="trademessenger" />
 		<item drawable="tray" />
 		<item drawable="tripview_lite" />
 		<item drawable="troye_sivan" />
@@ -1088,6 +1089,7 @@
 		<item drawable="xunfei_input" />
 		<item drawable="xunlei" />
 		<item drawable="xyst" />
+		<item drawable="xyz_insurance" />
 		<item drawable="yanxuan" />
 		<item drawable="ygmh" />
 		<item drawable="yidianzixun" />
