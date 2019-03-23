@@ -1471,6 +1471,12 @@
 		<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
 		<item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
 		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird}" drawable="zlive"/>
+		<item component="ComponentInfo{com.actiondash.playstore/actiondash.MainActivity}" drawable="actiondash"/>
+		<item component="ComponentInfo{com.mi.health/com.mi.health.splash.SplashActivity}" drawable="miui_health"/>
+		<item component="ComponentInfo{com.hoperun.intelligenceportal/com.hoperun.intelligenceportal_extends.LeaderLoginPreActivity}" drawable="nanjing"/>
+		<item component="ComponentInfo{com.focustm.inner/com.focustm.inner.activity.loading.LoadingActivity}" drawable="trademessenger"/>
+		<item component="ComponentInfo{com.focustech.xyz/com.focustech.xyz.ui.main.LoadActivity}" drawable="xyz_insurance"/>
+		<item component="ComponentInfo{com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup}" drawable="sohu_video" />
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
