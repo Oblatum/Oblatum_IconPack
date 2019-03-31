@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.4.9.6" />
+    <version title="V2.5.0.1" />
     <item text="如果遇到遇到问题请加入qq群" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

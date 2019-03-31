@@ -21,15 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="calculator" />
-		<item drawable="clock" />
-		<item drawable="emui_calculator" />
-		<item drawable="google_vioce" />
-		<item drawable="knowspace" />
-		<item drawable="qianji" />
-		<item drawable="settings" />
-		<item drawable="unionpay" />
-		<item drawable="yizhifu" />
+		<item drawable="jd" />
+		<item drawable="jd_1" />
+		<item drawable="taobao" />
+		<item drawable="taobao_1" />
+	<!--未加到下面-->
+
 
 
 

@@ -25,7 +25,7 @@
 		factor="0.5" /> -->
 
 		<!--self-->
-		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="app_logo" />
+		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="oblatum_aprilfool" />
 
 		<!-- 系统 / System -->
 
@@ -1466,7 +1466,11 @@
 		<item component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}" drawable="qianji"/>
 		<item component="ComponentInfo{com.unnoo.quan/com.unnoo.quan.activities.StartActivity}" drawable="knowspace"/>
 		<item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice"/>
-
+		<item component="ComponentInfo{com.shanbay.speak/com.shanbay.speak.startup.activity.SplashActivity}" drawable="shanbei_words"/>
+		<item component="ComponentInfo{cn.ikicker.moviefans/cn.ikicker.moviefans.ui.activity.SplashActivity}" drawable="movie_fans"/>
+		<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
+		<item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
+		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird}" drawable="zlive"/>
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
