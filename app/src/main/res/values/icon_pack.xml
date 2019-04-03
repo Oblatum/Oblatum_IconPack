@@ -141,6 +141,7 @@
 		<item>clock_1</item>
 		<item>cmb</item>
 		<item>cmbc</item>
+		<item>cn_500px</item>
 		<item>cn_gov_tax</item>
 		<item>commbank</item>
 		<item>contacts</item>
@@ -218,6 +219,7 @@
 		<item>eudic_dictionary</item>
 		<item>evernote</item>
 		<item>excel</item>
+		<item>explorer_Ssolid</item>
 		<item>facebook</item>
 		<item>faloo_bookreader</item>
 		<item>fasthub</item>
@@ -280,6 +282,7 @@
 		<item>google_play_newsstand</item>
 		<item>google_plus</item>
 		<item>google_slides</item>
+		<item>google_space</item>
 		<item>google_translate</item>
 		<item>google_vioce</item>
 		<item>google_voice_search</item>
@@ -330,6 +333,7 @@
 		<item>hdzuoye</item>
 		<item>heiyu</item>
 		<item>hellobike</item>
+		<item>hema</item>
 		<item>hero_yqlfc</item>
 		<item>hexin</item>
 		<item>hiby_music</item>
@@ -390,6 +394,7 @@
 		<item>kindle</item>
 		<item>kitchen_stories</item>
 		<item>knowspace</item>
+		<item>kuaishou</item>
 		<item>kugou_music</item>
 		<item>kuwo_music</item>
 		<item>lantern</item>
@@ -584,6 +589,7 @@
 		<item>oppo_security</item>
 		<item>oppo_sound_recorder</item>
 		<item>oppo_tips</item>
+		<item>oringe_vr</item>
 		<item>osu</item>
 		<item>outlook</item>
 		<item>pandatv</item>
@@ -619,6 +625,7 @@
 		<item>qcloud</item>
 		<item>qdreader</item>
 		<item>qianji</item>
+		<item>qingtingyingyu</item>
 		<item>qpay</item>
 		<item>qq</item>
 		<item>qq_1</item>
@@ -751,6 +758,7 @@
 		<item>tgp</item>
 		<item>themes</item>
 		<item>thing</item>
+		<item>tide</item>
 		<item>tieyou</item>
 		<item>tim</item>
 		<item>titaniumbackup</item>
@@ -805,6 +813,7 @@
 		<item>weixin_1</item>
 		<item>welike</item>
 		<item>wellbeing</item>
+		<item>whale_tv</item>
 		<item>whatsapp</item>
 		<item>wifilocating</item>
 		<item>wikipedia</item>
@@ -864,5 +873,6 @@
 		<item>zhuishudashen</item>
 		<item>zlive</item>
 		<item>zlive_1</item>
+		<item>zonghengxiaoshuo</item>
 	</string-array>
 </resources>

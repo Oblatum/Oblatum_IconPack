@@ -25,7 +25,7 @@
 		factor="0.5" /> -->
 
 		<!--self-->
-		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="oblatum_aprilfool" />
+		<item component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}" drawable="app_logo" />
 
 		<!-- 系统 / System -->
 
@@ -1471,6 +1471,20 @@
 		<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
 		<item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
 		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird}" drawable="zlive"/>
+		<!-- 2.5.0.1 -->
+		<item component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}" drawable="hema"/>
+		<item component="ComponentInfo{com.chengzivr.android/com.chengzivr.android.GuideActivity}" drawable="oringe_vr"/>
+		<item component="ComponentInfo{com.fivehundredpx.viewer.main/com.fivehundredpx.viewer.main.RootActivity}" drawable="cn_500px"/>
+		<item component="ComponentInfo{com.excean.gspace/com.excelliance.kxqp.ui.HelloActivity}" drawable="google_space"/>
+		<item component="ComponentInfo{com.baidu.tieba_mini/com.baidu.tieba.LogoActivity}" drawable="tieba"/><!-- 贴吧极速版 todo：换新 -->
+		<item component="ComponentInfo{com.zongheng.reader/com.zongheng.reader.ui.common.ActivitySplash}" drawable="zonghengxiaoshuo"/>
+		<item component="ComponentInfo{io.moreless.tide/io.moreless.tide.play.PlayActivity}" drawable="tide"/>
+		<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer"/>
+		<item component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}" drawable="qingtingyingyu"/>
+		<item component="ComponentInfo{mei.zhi.whale/me.tvspark.view.activity.SplashActivity}" drawable="whale_tv"/>
+
+
+
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />

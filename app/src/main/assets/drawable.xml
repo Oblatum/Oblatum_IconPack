@@ -21,10 +21,21 @@
 	<version>1</version>
 
 	<category title="New and Update" />
+		<item drawable="cn_500px" />
+		<item drawable="google_space" />
+		<item drawable="hema" />
 		<item drawable="jd" />
 		<item drawable="jd_1" />
+		<item drawable="kuaishou" />
+		<item drawable="oringe_vr" />
+		<item drawable="qingtingyingyu" />
+		<item drawable="solid_explorer" />
 		<item drawable="taobao" />
 		<item drawable="taobao_1" />
+		<item drawable="tide" />
+		<item drawable="whale_tv" />
+		<item drawable="zonghengxiaoshuo" />
+		<!--未加到下面-->
 
 
 
