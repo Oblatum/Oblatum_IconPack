@@ -16,7 +16,7 @@
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>#</item>
+        <!--<item>#</item>-->
         <item>https://img.vim-cn.com/83/c64aa72e10a8463078d4f9b62ca075ad049b0a.jpg</item>
         <item>https://img.vim-cn.com/07/b3529b52f3de75312f8271465a0187874fff85.jpg</item>
         <item>https://img.vim-cn.com/ac/a5d40c1acbb81803cd0877b8506f272d5655a0.jpg</item>
