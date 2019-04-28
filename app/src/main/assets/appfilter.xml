@@ -30,6 +30,7 @@
 		<!-- 系统 / System -->
 
 		<!-- 日历 / Calendar -->
+		<calendar component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" prefix="calendar_d"/>
 		<calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="calendar_d" />
 		<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="calendar_d" />
 		<calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_d" />
@@ -52,6 +53,7 @@
 		<item component="ComponentInfo{com.yulong.android.calendar/com.yulong.android.calendar.ui.MenuAnimationActivity}" drawable="calendar_dynamic" />
 		<item component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}" drawable="calendar_dynamic" />
 		<item component="ComponentInfo{com.qiku.android.calendar/com.qiku.android.calendar.ui.MenuAnimationActivity}" drawable="calendar_dynamic"/>
+		<item component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}" drawable="calendar_dynamic"/>
 
 		<!--给不支持动态日历的启动器的静态日历图标-->
 		<item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar_dynamic" />
@@ -326,6 +328,7 @@
 
 		<!-- 图库 / Gallery -->
 		<item component="ComponentInfo{cn.nubia.gallery3d/cn.nubia.gallery3d.app.Gallery}" drawable="gallery" />
+		<item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary}" drawable="gallery"/>
 		<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="gallery" />
 		<item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
 		<item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="gallery" />
@@ -1482,6 +1485,44 @@
 		<item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer"/>
 		<item component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}" drawable="qingtingyingyu"/>
 		<item component="ComponentInfo{mei.zhi.whale/me.tvspark.view.activity.SplashActivity}" drawable="whale_tv"/>
+		<item component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}" drawable="geometric_weather"/>
+		<item component="ComponentInfo{com.mokee.center/com.mokee.center.activity.MainActivity}" drawable="mokee_center"/>
+		<item component="ComponentInfo{com.bullet.messenger/com.smartisan.flashim.main.activity.LaunchActivity}" drawable="bullet_message"/>
+		<item component="ComponentInfo{com.chaozhuo.filemanager/com.chaozhuo.filemanager.activities.SplashActivity}" drawable="cz_file_manager"/>
+		<item component="ComponentInfo{com.chaozhuo.texteditor/com.chaozhuo.texteditor.activity.TextEditorMainActivity}" drawable="cz_texteditor"/>
+		<item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="idm_plus"/>
+		<item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird}" drawable="zlive"/>
+		<item component="ComponentInfo{com.jzzs.ParentsHelper/com.jzzs.ParentsHelper.WelcomeActivity}" drawable="aqjypt"/>
+		<item component="ComponentInfo{com.traffic.handtrafficbible/newdoone.lls.ui.aty.GuidePageAty}" drawable="lls"/>
+		<item component="ComponentInfo{com.ilongyuan.sdorica.longyuan/com.ilongyuan.sdorica.longyuan.MainActivity}" drawable="game_sdorica"/>
+		<item component="ComponentInfo{com.cjzchz.alone/com.cjzchz.alone.MainActivity}" drawable="pubg_huazhi"/>
+		<item component="ComponentInfo{com.tencent.gamereva/com.tencent.gamereva.launch.LaunchActivity}" drawable="xianyou"/>
+		<item component="ComponentInfo{com.cs_credit_bank/com.alipay.mobile.quinox.LauncherActivity}" drawable="faxianjc"/>
+		<item component="ComponentInfo{com.hamsteroncoke.zenge/com.unity3d.player.UnityPlayerActivity}" drawable="zenge"/>
+		<item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="sleep"/>
+		<item component="ComponentInfo{com.pure.lite.browser/com.vs.browser.MainActivity}" drawable="pure_browser"/>
+		<item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+		<item component="ComponentInfo{com.dunkhome.dunkshoe/com.dunkhome.dunkshoe.activity.AppStartActivity}" drawable="get" />
+		<item component="ComponentInfo{com.ilongyuan.voez.huawei/com.ilongyuan.voez_huawei.remaster.MainActivity}" drawable="voez" />
+		<item component="ComponentInfo{com.ilongyuan.voez.ly/com.ilongyuan.voez.remaster.MainActivity}" drawable="voez" />
+		<item component="ComponentInfo{com.ilongyuan.voez.mz/com.ilongyuan.voez.mz.remaster.MainActivity}" drawable="voez" />
+		<item component="ComponentInfo{com.ilongyuan.voez.nearme.gamecenter/com.ilongyuan.voez_oppo.remaster.MainActivity}" drawable="voez" />
+		<item component="ComponentInfo{com.ilongyuan.voez.uc/com.ilongyuan.voze_aligame.remaster.MainActivity}" drawable="voez" />
+		<item component="ComponentInfo{com.liuchao.sanji.movieheaven/com.liuchao.sanji.movieheaven.ui.main.MainActivity}" drawable="movie_radar" />
+		<item component="ComponentInfo{com.magnetic.king/com.magnetic.king.SplashActivity}" drawable="magnetic_king" />
+		<item component="ComponentInfo{com.meiriyiwen.app/com.stub.plugin.Stub01}" drawable="guanzhi_meiriyiwen" />
+		<item component="ComponentInfo{com.modian.app/com.modian.app.ui.activity.GuideActivity}" drawable="modian" />
+		<item component="ComponentInfo{com.rayark.valkyrie/com.onevcat.uniwebview.AndroidPlugin}" drawable="voez" />
+		<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2ray_ng" />
+		<item component="ComponentInfo{com.wikihow.wikihowapp/com.wikihow.wikihowapp.MainTabActivity}" drawable="wikihow" />
+		<item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
+		<item component="ComponentInfo{flipboard.cn.lite/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
+		<item component="ComponentInfo{flipboard.cn/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
+		<item component="ComponentInfo{video.vue.android/video.vue.android.ui.activity.SplashActivity}" drawable="vue" />
+		<item component="ComponentInfo{video.vue.android/video.vue.android.ui.launch.SplashActivity}" drawable="vue" />
+		<item component="ComponentInfo{com.cpic.sxbxxe/com.primeton.emp.client.activity.WelcomeActivity}" drawable="tpybx"/>
+		<item component="ComponentInfo{com.dw.btime/com.dw.btime.Launcher}" drawable="qinbaobao"/>
+		<item component="ComponentInfo{com.dede.sonimei/com.dede.sonimei.module.home.MainActivity}" drawable="qinxinsou"/>
 
 
 

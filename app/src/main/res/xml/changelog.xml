@@ -15,9 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.5.0.1" />
+    <version title="V2.5.0.2" />
     <item text="如果遇到遇到问题请加入qq群；" />
     <item text="通知：所有PY不支持游戏、偏人物或手绘类图标！" />
-    <item text="应援活动已结束，预计在未来两次更新中添加。" />
+    <item text="应援活动已结束，预计在未来两个版本更新中添加。" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

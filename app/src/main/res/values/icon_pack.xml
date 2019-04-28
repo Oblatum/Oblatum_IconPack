@@ -32,6 +32,8 @@
 		<item>aliyun</item>
 		<item>aliyun_alink</item>
 		<item>aloha</item>
+		<item>amazon</item>
+		<item>amazon_1</item>
 		<item>ampere</item>
 		<item>android_p_ify</item>
 		<item>android_pay</item>
@@ -45,6 +47,7 @@
 		<item>app_logo</item>
 		<item>apple_music</item>
 		<item>appopsx</item>
+		<item>aqjypt</item>
 		<item>arcaea</item>
 		<item>aries_iconpack</item>
 		<item>aries_iconpack_lite</item>
@@ -152,12 +155,15 @@
 		<item>ctrip</item>
 		<item>ctrl_plus</item>
 		<item>cytus_ii</item>
+		<item>cz_file_manager</item>
+		<item>cz_texteditor</item>
 		<item>d115</item>
 		<item>damon_ps2</item>
 		<item>dancing_line</item>
 		<item>daodai</item>
 		<item>data_monitor</item>
 		<item>daydream</item>
+		<item>delve</item>
 		<item>delve</item>
 		<item>devcheck</item>
 		<item>dianping</item>
@@ -220,10 +226,13 @@
 		<item>eudic_dictionary</item>
 		<item>evernote</item>
 		<item>excel</item>
+		<item>excel</item>
+		<item>excel_1</item>
 		<item>explorer_Ssolid</item>
 		<item>facebook</item>
 		<item>faloo_bookreader</item>
 		<item>fasthub</item>
+		<item>faxianjc</item>
 		<item>feedly</item>
 		<item>feizhu</item>
 		<item>files</item>
@@ -232,6 +241,7 @@
 		<item>firefox_focus</item>
 		<item>firefox_nightly</item>
 		<item>fit</item>
+		<item>flipboard</item>
 		<item>fluid_n_g</item>
 		<item>folder_google</item>
 		<item>folder_iconpack</item>
@@ -247,12 +257,15 @@
 		<item>fsbi_2</item>
 		<item>fusion_app</item>
 		<item>gallery</item>
+		<item>game_sdorica</item>
 		<item>gameguardian</item>
 		<item>gaode_maps</item>
 		<item>gboard</item>
 		<item>geek360</item>
 		<item>gemini</item>
 		<item>geometric_weather</item>
+		<item>get</item>
+		<item>getAppfilter</item>
 		<item>gmail</item>
 		<item>gohosts</item>
 		<item>goodseed</item>
@@ -324,6 +337,7 @@
 		<item>googleplay</item>
 		<item>gotokeep</item>
 		<item>greenify</item>
+		<item>guanzhi_meiriyiwen</item>
 		<item>gxicon</item>
 		<item>h_viewer</item>
 		<item>hangouts</item>
@@ -369,6 +383,7 @@
 		<item>icbc</item>
 		<item>ice_box</item>
 		<item>icmbc</item>
+		<item>idm_plus</item>
 		<item>ifanr</item>
 		<item>iflat</item>
 		<item>ifttt</item>
@@ -406,6 +421,7 @@
 		<item>linewebtoon</item>
 		<item>linos_recorder</item>
 		<item>live_visualizer</item>
+		<item>lls</item>
 		<item>lofter</item>
 		<item>lol_friend</item>
 		<item>lovebizhi</item>
@@ -418,6 +434,7 @@
 		<item>lxqw</item>
 		<item>magic_magnet</item>
 		<item>magisk_manager</item>
+		<item>magnetic_king</item>
 		<item>mahua</item>
 		<item>maidanba</item>
 		<item>mail_master</item>
@@ -477,6 +494,7 @@
 		<item>mobile_collaboration</item>
 		<item>mobilism</item>
 		<item>mobvoi</item>
+		<item>modian</item>
 		<item>mokee_aegis</item>
 		<item>mokee_center</item>
 		<item>momo</item>
@@ -488,6 +506,8 @@
 		<item>mosoteach</item>
 		<item>move_to_miui</item>
 		<item>movie_fans</item>
+		<item>movie_radar</item>
+		<item>movie_radar_1</item>
 		<item>moviepic</item>
 		<item>mr_translator</item>
 		<item>mtglq</item>
@@ -553,12 +573,16 @@
 		<item>oblatum_square</item>
 		<item>oblatum_valentine</item>
 		<item>office_365_admin</item>
+		<item>office_365_admin</item>
+		<item>office_lens</item>
 		<item>office_lens</item>
 		<item>ofo</item>
 		<item>okta</item>
 		<item>omfg</item>
 		<item>onedrive</item>
 		<item>onenote</item>
+		<item>onenote</item>
+		<item>onenote_1</item>
 		<item>oneplus_bbs</item>
 		<item>oneplus_browser</item>
 		<item>oneplus_calendar</item>
@@ -576,6 +600,7 @@
 		<item>oneplus_setting</item>
 		<item>oneplus_soundrecorder</item>
 		<item>oneplus_switch</item>
+		<item>onething_minecloud</item>
 		<item>openhub</item>
 		<item>opgg</item>
 		<item>oppo_app_store</item>
@@ -595,6 +620,8 @@
 		<item>oringe_vr</item>
 		<item>osu</item>
 		<item>outlook</item>
+		<item>outlook</item>
+		<item>outlook_1</item>
 		<item>pandatv</item>
 		<item>paypal</item>
 		<item>peini</item>
@@ -615,11 +642,15 @@
 		<item>pornhub</item>
 		<item>power_clean</item>
 		<item>powerpoint</item>
+		<item>powerpoint</item>
+		<item>powerpoint_1</item>
 		<item>ppiicc</item>
 		<item>psbc</item>
 		<item>pstouch</item>
 		<item>pub_gfx_tool_xda</item>
+		<item>pubg_huazhi</item>
 		<item>pubgm</item>
+		<item>pure_broswer</item>
 		<item>pure_icon_pack</item>
 		<item>pure_icon_pack_lite</item>
 		<item>pure_weather</item>
@@ -628,7 +659,9 @@
 		<item>qcloud</item>
 		<item>qdreader</item>
 		<item>qianji</item>
+		<item>qinbaobao</item>
 		<item>qingtingyingyu</item>
+		<item>qinxinsou</item>
 		<item>qpay</item>
 		<item>qq</item>
 		<item>qq_1</item>
@@ -680,12 +713,14 @@
 		<item>shanbei_words</item>
 		<item>share</item>
 		<item>sharepoint</item>
+		<item>sharepoint</item>
 		<item>shazam</item>
 		<item>shenqi_browser</item>
 		<item>shuttle</item>
 		<item>sim_toolkit</item>
 		<item>sketchbook</item>
 		<item>sky_compass</item>
+		<item>sleep</item>
 		<item>smartisan_bbs</item>
 		<item>smartisan_drivingmode</item>
 		<item>smartisan_idearpills</item>
@@ -772,6 +807,7 @@
 		<item>total_launcher</item>
 		<item>touchpal</item>
 		<item>tp_link</item>
+		<item>tpybx</item>
 		<item>trademessenger</item>
 		<item>tray</item>
 		<item>tripview_lite</item>
@@ -789,6 +825,7 @@
 		<item>unionpay</item>
 		<item>unionpay_1</item>
 		<item>uu_router</item>
+		<item>v2ray_ng</item>
 		<item>vainglory</item>
 		<item>vertical_book</item>
 		<item>via</item>
@@ -799,7 +836,9 @@
 		<item>viperfx</item>
 		<item>vlc</item>
 		<item>vmall</item>
+		<item>voez</item>
 		<item>voice_tmall</item>
+		<item>vue</item>
 		<item>w3cschool</item>
 		<item>wakeup</item>
 		<item>wallet_baidu</item>
@@ -821,10 +860,13 @@
 		<item>whale_tv</item>
 		<item>whatsapp</item>
 		<item>wifilocating</item>
+		<item>wikihow</item>
 		<item>wikipedia</item>
 		<item>wisdom_tree</item>
 		<item>wolf_man</item>
 		<item>word</item>
+		<item>word</item>
+		<item>word_1</item>
 		<item>wps_office</item>
 		<item>wudaokou_hippo</item>
 		<item>wzry</item>
@@ -840,6 +882,7 @@
 		<item>xgsp</item>
 		<item>xiachufang</item>
 		<item>xiami_music</item>
+		<item>xianyou</item>
 		<item>xiaoenai</item>
 		<item>xiaoheihe</item>
 		<item>xiaomi_shop</item>
@@ -872,6 +915,7 @@
 		<item>yyszs</item>
 		<item>zaker</item>
 		<item>zarchiver</item>
+		<item>zenge</item>
 		<item>zhihu</item>
 		<item>zhihu_daily</item>
 		<item>zhilianzhaoping</item>
