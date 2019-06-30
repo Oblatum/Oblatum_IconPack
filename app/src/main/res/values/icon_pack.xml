@@ -92,6 +92,7 @@
 		<item>bilibili_cover</item>
 		<item>bilibili_link</item>
 		<item>blackblub</item>
+		<item>blackhouse</item>
 		<item>blued</item>
 		<item>blued_1</item>
 		<item>blued_hook</item>
@@ -126,6 +127,8 @@
 		<item>changsha_metro</item>
 		<item>cheapflights</item>
 		<item>chelaile</item>
+		<item>china_daily</item>
+		<item>china_daily_1</item>
 		<item>chinamobile</item>
 		<item>chinatelecom</item>
 		<item>chinaunicom</item>
@@ -184,10 +187,12 @@
 		<item>dragalia_lost</item>
 		<item>drawer</item>
 		<item>drawer_1</item>
+		<item>drcom</item>
 		<item>drops</item>
 		<item>duia</item>
 		<item>duitang</item>
 		<item>duokan_reader</item>
+		<item>duolingo</item>
 		<item>duxiaoman</item>
 		<item>dxy</item>
 		<item>earth</item>
@@ -224,6 +229,8 @@
 		<item>erbing</item>
 		<item>erweima</item>
 		<item>eswenjian</item>
+		<item>etao</item>
+		<item>etao_1</item>
 		<item>eudic_dictionary</item>
 		<item>evernote</item>
 		<item>excel</item>
@@ -339,6 +346,7 @@
 		<item>gotokeep</item>
 		<item>greenify</item>
 		<item>guanzhi_meiriyiwen</item>
+		<item>gumtree</item>
 		<item>gxicon</item>
 		<item>h_viewer</item>
 		<item>hangouts</item>
@@ -402,11 +410,14 @@
 		<item>jd</item>
 		<item>jd_jinrong</item>
 		<item>jg12123</item>
+		<item>jiakao_baodian</item>
 		<item>jike</item>
 		<item>jisu_browser</item>
 		<item>jmail</item>
 		<item>kakaotalk</item>
 		<item>keep</item>
+		<item>kernel_adiutor</item>
+		<item>kfc</item>
 		<item>kihan</item>
 		<item>kindle</item>
 		<item>kitchen_stories</item>
@@ -420,6 +431,8 @@
 		<item>lbe_security</item>
 		<item>leafpic</item>
 		<item>lenovo_sync</item>
+		<item>line</item>
+		<item>line_lite</item>
 		<item>linewebtoon</item>
 		<item>linos_recorder</item>
 		<item>live_cc</item>
@@ -445,6 +458,7 @@
 		<item>mancamera</item>
 		<item>mangotv</item>
 		<item>mangotv_alt</item>
+		<item>manhuaren</item>
 		<item>manyou</item>
 		<item>maomi_video</item>
 		<item>maoyan</item>
@@ -464,6 +478,7 @@
 		<item>microsoft_launcher</item>
 		<item>microsoft_todo</item>
 		<item>midea_ac</item>
+		<item>migrate</item>
 		<item>migu_video</item>
 		<item>minecraft</item>
 		<item>mini_metro</item>
@@ -547,6 +562,7 @@
 		<item>nintendo_switch_online</item>
 		<item>nokia_notes</item>
 		<item>nokia_smart_tuner</item>
+		<item>nord_vpn</item>
 		<item>novalauncher</item>
 		<item>novasetting</item>
 		<item>novelmanager</item>
@@ -624,6 +640,7 @@
 		<item>oppo_security</item>
 		<item>oppo_sound_recorder</item>
 		<item>oppo_tips</item>
+		<item>orientation_control</item>
 		<item>oringe_vr</item>
 		<item>osu</item>
 		<item>outlook</item>
@@ -644,14 +661,17 @@
 		<item>pixiv</item>
 		<item>pixles_iconpack</item>
 		<item>pixles_iconpack_1</item>
+		<item>plus</item>
 		<item>pocket_casts</item>
 		<item>pocket_casts_1</item>
 		<item>pornhub</item>
 		<item>power_clean</item>
+		<item>poweramp</item>
 		<item>powerpoint</item>
 		<item>powerpoint</item>
 		<item>powerpoint_1</item>
 		<item>ppiicc</item>
+		<item>ppsspp</item>
 		<item>psbc</item>
 		<item>pstouch</item>
 		<item>pub_gfx_tool_xda</item>
@@ -793,6 +813,7 @@
 		<item>ted</item>
 		<item>telegram</item>
 		<item>telegram_x</item>
+		<item>telstra247</item>
 		<item>tencent_filemanager</item>
 		<item>tencent_karaoke</item>
 		<item>tencent_maps</item>
@@ -805,6 +826,7 @@
 		<item>tgp</item>
 		<item>themes</item>
 		<item>thing</item>
+		<item>ticktick_task</item>
 		<item>tide</item>
 		<item>tieyou</item>
 		<item>tim</item>
@@ -817,6 +839,7 @@
 		<item>tp_link</item>
 		<item>tpybx</item>
 		<item>trademessenger</item>
+		<item>transit</item>
 		<item>tray</item>
 		<item>tripview_lite</item>
 		<item>troye_sivan</item>
@@ -825,6 +848,7 @@
 		<item>twitch</item>
 		<item>twitter</item>
 		<item>twrp</item>
+		<item>uber_eats</item>
 		<item>uc_browser</item>
 		<item>uc_browser_1</item>
 		<item>uc_browser_2</item>
@@ -852,6 +876,7 @@
 		<item>wallet_baidu</item>
 		<item>wandoujia</item>
 		<item>wangmiao</item>
+		<item>wangyidashen</item>
 		<item>wanmeixiaoyaun</item>
 		<item>weather</item>
 		<item>weatherzone</item>
@@ -870,6 +895,7 @@
 		<item>wifilocating</item>
 		<item>wikihow</item>
 		<item>wikipedia</item>
+		<item>windscribe</item>
 		<item>wisdom_tree</item>
 		<item>wolf_man</item>
 		<item>word</item>
@@ -924,6 +950,7 @@
 		<item>yyszs</item>
 		<item>zaker</item>
 		<item>zarchiver</item>
+		<item>zedge</item>
 		<item>zenge</item>
 		<item>zhihu</item>
 		<item>zhihu_daily</item>

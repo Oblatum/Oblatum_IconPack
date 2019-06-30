@@ -1532,6 +1532,47 @@
 		<item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}" drawable="wisdom_tree"/>
 		<item component="ComponentInfo{com.ruguoapp.jike/com.ruguoapp.jike.business.launch.ui.SplashActivity}" drawable="jike"/>
 		<item component="ComponentInfo{com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup}" drawable="souhu_video"/>
+		<item component="ComponentInfo{com.theotino.chinadaily/com.theotino.chinadaily.CdAt}" drawable="china_daily"/>
+		<item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
+		<item component="ComponentInfo{com.taobao.etao/com.taobao.sns.activity.LaunchActivity}" drawable="etao"/>
+		<item component="ComponentInfo{com.drcom.DuoDian/com.drpalm.duodianbase.Activity.Startup.StartupActivity}" drawable="drcom"/>
+		<item component="ComponentInfo{cn.ticktick.task/com.ticktick.task.activity.MeTaskActivity}" drawable="ticktick_task"/>
+		<item component="ComponentInfo{com.handsgo.jiakao.android/com.handsgo.jiakao.android.splash.Login}" drawable="jiakao_baodian"/>
+		<item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
+		<item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="line_lite" />
+		<item component="ComponentInfo{com.wxh.manhuaren/com.ilike.cartoon.activities.LogoActivity}" drawable="manhuaren" /> <!-- 国际版 -->
+		<item component="ComponentInfo{com.ilike.cartoon/com.ilike.cartoon.activities.LogoActivity}" drawable="manhuaren" />
+		<item component="ComponentInfo{com.nordvpn.android/com.nordvpn.android.MainActivity}" drawable="nord_vpn" />
+		<item component="ComponentInfo{com.coinsoft.android.orientcontrol/com.coinsoft.android.orientcontrol.Settings}" drawable="orientation_control" />
+		<item component="ComponentInfo{com.coinsoft.android.orientcontrol/com.coinsoft.android.orientcontrol.OrientationLock}" drawable="orientation_control" />
+		<item component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
+		<item component="ComponentInfo{org.ppsspp.ppsspp3kqq/org.ppsspp.ppsspp.PpssppActivity}" drawable="ppsspp" />
+		<item component="ComponentInfo{com.windscribe.vpn/com.windscribe.vpn.ui.activities.EntryPointActivity}" drawable="windscribe" />
+		<item component="ComponentInfo{com.hupu.shihuo/com.hupu.shihuo.view.WelcomeActivity}" drawable="hupu_shihuo" />
+		<item component="ComponentInfo{com.sankuai.movie/com.sankuai.movie.welcome.Welcome}" drawable="maoyan" />
+		<item component="ComponentInfo{com.nike.snkrs/com.nike.snkrs.feed.activities.TheWallActivity}" drawable="snkrs" />
+		<item component="ComponentInfo{com.sankuai.moviepro/com.sankuai.moviepro.mvp.views.welcome.WelcomeActivity}" drawable="maoyan_pro" />
+		<item component="ComponentInfo{bin.mt.plus/l.ۨۙ۫ۦ}" drawable="mtglq" />
+		<item component="ComponentInfo{com.rockstargames.gtasa/com.rockstargames.gtasa.GTASA}" drawable="gta_sa" />
+		<item component="ComponentInfo{com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity}" drawable="airbnb" />
+		<item component="ComponentInfo{com.rammigsoftware.bluecoins/com.rammigsoftware.bluecoins.ui.activities.main.MainActivity}" drawable="bluecoins" />
+		<item component="ComponentInfo{com.icbc.im/com.icbc.im.SplashActivity}" drawable="icbc_im" />
+		<item component="ComponentInfo{com.thetransitapp.droid/com.thetransitapp.droid.shared.activity.SplashActivity}" drawable="transit"/>
+		<item component="ComponentInfo{com.ubercab.eats/com.ubercab.eats.app.feature.launch.LauncherActivity}" drawable="uber_eats"/>
+		<item component="ComponentInfo{net.zedge.android/net.zedge.android.Main}" drawable="zedge"/>
+		<item component="ComponentInfo{web1n.stopapp/web1n.stopapp.activity.MainActivity}" drawable="blackhouse"/>
+		<item component="ComponentInfo{org.telegram.plus/org.telegram.ui.LaunchActivity}" drawable="plus"/>
+		<item component="ComponentInfo{balti.migrate/balti.migrate.MainActivity}" drawable="migrate"/>
+		<item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity}" drawable="kernel_adiutor"/>
+		<item component="ComponentInfo{com.ebay.gumtree.au/com.ebay.app.common.startup.SplashScreenActivity}" drawable="gumtree"/>
+		<item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity}" drawable="poweramp"/>
+		<item component="ComponentInfo{com.telstra.mobile.android.mytelstra/com.telstra.mobile.android.mytelstra.activities.SplashActivity}" drawable="telstra_247"/>
+		<item component="ComponentInfo{org.mokee.audiofx/org.mokee.audiofx.activity.ActivityMusic}" drawable="audiofx"/>
+		<item component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
+		<item component="ComponentInfo{bin.mt.plus/l.ۨۙ۫ۦ}" drawable="mtglq"/>
+		<item component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}" drawable="ding_talk"/>
+		<item component="ComponentInfo{com.netease.gl/com.netease.gl.ui.activity.WelcomeActivity}" drawable="wangyidashen"/>
+		<item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kfc"/>
 
 
 

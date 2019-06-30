@@ -15,9 +15,11 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.5.1" />
+    <version title="V2.6.0" />
     <item text="如果遇到遇到问题请加入qq群；" />
     <item text="通知：所有PY不支持游戏、偏人物或手绘类图标！" />
-    <item text="应援图标下次一定加，不咕咕了" />
+    <item text="添加对几何天气图标扩展支持（res：1.0）" />
+    <item text="修改界面小图标，采用糯米纸风格" />
+    <item text="重新开放壁纸功能，暂时作为PY活动，活动详见群内" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

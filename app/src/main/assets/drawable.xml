@@ -21,15 +21,33 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="bank_jiangsu" />
-		<item drawable="lastpass" />
-		<item drawable="live_cc" />
-		<item drawable="meetyou" />
-		<item drawable="music_tag" />
-		<item drawable="nga_git" />
-		<item drawable="oblatum_lgbtqiaplus" />
-		<item drawable="souhu_video" />
-		<item drawable="xiaohongshu" />
+		<item drawable="blackhouse" />
+		<item drawable="china_daily" />
+		<item drawable="china_daily_1" />
+		<item drawable="drcom" />
+		<item drawable="duolingo" />
+		<item drawable="etao" />
+		<item drawable="etao_1" />
+		<item drawable="gumtree" />
+		<item drawable="jiakao_baodian" />
+		<item drawable="kernel_adiutor" />
+		<item drawable="kfc" />
+		<item drawable="line" />
+		<item drawable="line_lite" />
+		<item drawable="manhuaren" />
+		<item drawable="migrate" />
+		<item drawable="nord_vpn" />
+		<item drawable="orientation_control" />
+		<item drawable="plus" />
+		<item drawable="poweramp" />
+		<item drawable="ppsspp" />
+		<item drawable="telstra247" />
+		<item drawable="ticktick_task" />
+		<item drawable="transit" />
+		<item drawable="uber_eats" />
+		<item drawable="wangyidashen" />
+		<item drawable="windscribe" />
+		<item drawable="zedge" />
 
 
 	<category title="Folders and Widgets" />
@@ -373,6 +391,7 @@
 		<item drawable="bilibili_cover3" />
 		<item drawable="bilibili_link" />
 		<item drawable="blackblub" />
+		<item drawable="blackhouse" />
 		<item drawable="blued" />
 		<item drawable="blued_1" />
 		<item drawable="blued_hook" />
@@ -407,6 +426,8 @@
 		<item drawable="changsha_metro" />
 		<item drawable="cheapflights" />
 		<item drawable="chelaile" />
+		<item drawable="china_daily" />
+		<item drawable="china_daily_1" />
 		<item drawable="chinamobile" />
 		<item drawable="chinatelecom" />
 		<item drawable="chinaunicom" />
@@ -466,9 +487,11 @@
 		<item drawable="dragalia_lost" />
 		<item drawable="drawer" />
 		<item drawable="drawer_1" />
+		<item drawable="drcom" />
 		<item drawable="drops" />
 		<item drawable="duia" />
 		<item drawable="duokan_reader" />
+		<item drawable="duolingo" />
 		<item drawable="duxiaoman" />
 		<item drawable="dxy" />
 		<item drawable="earth" />
@@ -505,6 +528,8 @@
 		<item drawable="erbing" />
 		<item drawable="erweima" />
 		<item drawable="eswenjian" />
+		<item drawable="etao" />
+		<item drawable="etao_1" />
 		<item drawable="eudic_dictionary" />
 		<item drawable="evernote" />
 		<item drawable="excel" />
@@ -589,6 +614,7 @@
 		<item drawable="gotokeep" />
 		<item drawable="greenify" />
 		<item drawable="guanzhi_meiriyiwen" />
+		<item drawable="gumtree" />
 		<item drawable="gxicon" />
 		<item drawable="h_viewer" />
 		<item drawable="hangouts" />
@@ -637,12 +663,15 @@
 		<item drawable="jd_1" />
 		<item drawable="jd_jinrong" />
 		<item drawable="jg12123" />
+		<item drawable="jiakao_baodian" />
 		<item drawable="jiaoyicat" />
 		<item drawable="jike" />
 		<item drawable="jisu_browser" />
 		<item drawable="jmail" />
 		<item drawable="kakaotalk" />
 		<item drawable="keep" />
+		<item drawable="kernel_adiutor" />
+		<item drawable="kfc" />
 		<item drawable="kihan" />
 		<item drawable="kindle" />
 		<item drawable="kitchen_stories" />
@@ -656,6 +685,8 @@
 		<item drawable="lbe_security" />
 		<item drawable="leafpic" />
 		<item drawable="lenovo_sync" />
+		<item drawable="line" />
+		<item drawable="line_lite" />
 		<item drawable="linewebtoon" />
 		<item drawable="linos_recorder" />
 		<item drawable="live_cc" />
@@ -684,6 +715,7 @@
 		<item drawable="mangotv"/>
 		<item drawable="mangotv_alt" />
 		<item drawable="mangotv_alt"/>
+		<item drawable="manhuaren" />
 		<item drawable="manyou" />
 		<item drawable="maomi_video" />
 		<item drawable="maoyan" />
@@ -703,6 +735,7 @@
 		<item drawable="microsoft_launcher" />
 		<item drawable="microsoft_todo" />
 		<item drawable="midea_ac" />
+		<item drawable="migrate" />
 		<item drawable="migu_video" />
 		<item drawable="minecraft" />
 		<item drawable="mini_metro" />
@@ -785,6 +818,7 @@
 		<item drawable="nintendo_switch_online" />
 		<item drawable="nokia_notes" />
 		<item drawable="nokia_smart_tuner" />
+		<item drawable="nord_vpn" />
 		<item drawable="novalauncher" />
 		<item drawable="novasetting" />
 		<item drawable="novelmanager" />
@@ -865,6 +899,7 @@
 		<item drawable="oppo_security" />
 		<item drawable="oppo_sound_recorder" />
 		<item drawable="oppo_tips" />
+		<item drawable="orientation_control" />
 		<item drawable="oringe_vr" />
 		<item drawable="osu" />
 		<item drawable="outlook" />
@@ -885,14 +920,17 @@
 		<item drawable="pixiv" />
 		<item drawable="pixles_iconpack" />
 		<item drawable="pixles_iconpack_1" />
+		<item drawable="plus" />
 		<item drawable="pocket_casts" />
 		<item drawable="pocket_casts_1" />
 		<item drawable="pornhub" />
 		<item drawable="power_clean" />
+		<item drawable="poweramp" />
 		<item drawable="powerpoint" />
 		<item drawable="powerpoint" />
 		<item drawable="powerpoint_1" />
 		<item drawable="ppiicc" />
+		<item drawable="ppsspp" />
 		<item drawable="psbc" />
 		<item drawable="pstouch" />
 		<item drawable="pub_gfx_tool_xda" />
@@ -1040,6 +1078,7 @@
 		<item drawable="ted" />
 		<item drawable="telegram" />
 		<item drawable="telegram_x" />
+		<item drawable="telstra247" />
 		<item drawable="tencent_filemanager" />
 		<item drawable="tencent_karaoke" />
 		<item drawable="tencent_maps" />
@@ -1052,6 +1091,7 @@
 		<item drawable="tgp" />
 		<item drawable="themes" />
 		<item drawable="thing" />
+		<item drawable="ticktick_task" />
 		<item drawable="tide" />
 		<item drawable="tieyou" />
 		<item drawable="tim" />
@@ -1063,6 +1103,7 @@
 		<item drawable="touchpal" />
 		<item drawable="tp_link" />
 		<item drawable="tpybx" />
+		<item drawable="transit" />
 		<item drawable="tray" />
 		<item drawable="tripview_lite" />
 		<item drawable="troye_sivan" />
@@ -1071,6 +1112,7 @@
 		<item drawable="twitch" />
 		<item drawable="twitter" />
 		<item drawable="twrp" />
+		<item drawable="uber_eats" />
 		<item drawable="uc_browser" />
 		<item drawable="uc_browser_1" />
 		<item drawable="uc_browser_2" />
@@ -1098,6 +1140,7 @@
 		<item drawable="wallet_baidu" />
 		<item drawable="wandoujia" />
 		<item drawable="wangmiao" />
+		<item drawable="wangyidashen" />
 		<item drawable="wanmeixiaoyaun" />
 		<item drawable="weather" />
 		<item drawable="weatherzone" />
@@ -1116,6 +1159,7 @@
 		<item drawable="wifilocating" />
 		<item drawable="wikihow" />
 		<item drawable="wikipedia" />
+		<item drawable="windscribe" />
 		<item drawable="wisdom_tree" />
 		<item drawable="wolf_man" />
 		<item drawable="word" />
@@ -1169,6 +1213,7 @@
 		<item drawable="yyszs" />
 		<item drawable="zaker" />
 		<item drawable="zarchiver" />
+		<item drawable="zedge" />
 		<item drawable="zenge" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
