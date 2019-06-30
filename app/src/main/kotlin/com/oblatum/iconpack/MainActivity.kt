@@ -66,6 +66,7 @@ class MainActivity : BottomNavigationBlueprintActivity() {
         return arrayOf(
             NavigationItem.HOME,
             NavigationItem.ICONS,
+            NavigationItem.WALLPAPERS,
             NavigationItem.APPLY,
             NavigationItem.REQUESTS)
     }

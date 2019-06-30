@@ -21,52 +21,15 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="amazon" />
-		<item drawable="amazon_1" />
-		<item drawable="aqjypt" />
-		<item drawable="cz_file_manager" />
-		<item drawable="cz_texteditor" />
-		<item drawable="delve" />
-		<item drawable="excel" />
-		<item drawable="excel_1" />
-		<item drawable="faxianjc" />
-		<item drawable="flipboard" />
-		<item drawable="game_sdorica" />
-		<item drawable="get" />
-		<item drawable="getAppfilter" />
-		<item drawable="guanzhi_meiriyiwen" />
-		<item drawable="idm_plus" />
-		<item drawable="lls" />
-		<item drawable="magnetic_king" />
-		<item drawable="modian" />
-		<item drawable="movie_radar" />
-		<item drawable="movie_radar_1" />
-		<item drawable="office_365_admin" />
-		<item drawable="office_lens" />
-		<item drawable="onenote" />
-		<item drawable="onenote_1" />
-		<item drawable="onething_minecloud" />
-		<item drawable="outlook" />
-		<item drawable="outlook_1" />
-		<item drawable="powerpoint" />
-		<item drawable="powerpoint_1" />
-		<item drawable="pubg_huazhi" />
-		<item drawable="pure_broswer" />
-		<item drawable="qinbaobao" />
-		<item drawable="qinxinsou" />
-		<item drawable="sharepoint" />
-		<item drawable="sleep" />
-		<item drawable="tpybx" />
-		<item drawable="v2ray_ng" />
-		<item drawable="voez" />
-		<item drawable="vue" />
-		<item drawable="wikihow" />
-		<item drawable="word" />
-		<item drawable="word_1" />
-		<item drawable="xianyou" />
-		<item drawable="zenge" />
-
-
+		<item drawable="bank_jiangsu" />
+		<item drawable="lastpass" />
+		<item drawable="live_cc" />
+		<item drawable="meetyou" />
+		<item drawable="music_tag" />
+		<item drawable="nga_git" />
+		<item drawable="oblatum_lgbtqiaplus" />
+		<item drawable="souhu_video" />
+		<item drawable="xiaohongshu" />
 
 
 	<category title="Folders and Widgets" />
@@ -280,6 +243,7 @@
 
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
+		<item drawable="souhu_video" />
 		<item drawable="benghuai2" />
 		<item drawable="benghuai3"/>
 		<item drawable="cjzc" />
@@ -389,6 +353,7 @@
 		<item drawable="baidu_translate" />
 		<item drawable="baidu_tuiguang" />
 		<item drawable="baimiao" />
+		<item drawable="bank_jiangsu" />
 		<item drawable="bank_pingan" />
 		<item drawable="bankcomm" />
 		<item drawable="bar" />
@@ -686,12 +651,14 @@
 		<item drawable="kugou_music" />
 		<item drawable="kuwo_music" />
 		<item drawable="lantern" />
+		<item drawable="lastpass" />
 		<item drawable="lawnchair" />
 		<item drawable="lbe_security" />
 		<item drawable="leafpic" />
 		<item drawable="lenovo_sync" />
 		<item drawable="linewebtoon" />
 		<item drawable="linos_recorder" />
+		<item drawable="live_cc" />
 		<item drawable="live_visualizer" />
 		<item drawable="lls" />
 		<item drawable="lofter" />
@@ -721,6 +688,7 @@
 		<item drawable="maomi_video" />
 		<item drawable="maoyan" />
 		<item drawable="mark_qrcode" />
+		<item drawable="meetyou" />
 		<item drawable="meeye" />
 		<item drawable="meitu" />
 		<item drawable="meituan" />
@@ -789,6 +757,7 @@
 		<item drawable="mtk_mode" />
 		<item drawable="mtwm" />
 		<item drawable="music" />
+		<item drawable="music_tag" />
 		<item drawable="musicfx" />
 		<item drawable="mx_player" />
 		<item drawable="myappscreenmask" />
@@ -810,6 +779,7 @@
 		<item drawable="new500" />
 		<item drawable="news_and_weather" />
 		<item drawable="nga" />
+		<item drawable="nga_git" />
 		<item drawable="nhbooks" />
 		<item drawable="nimingban" />
 		<item drawable="nintendo_switch_online" />
@@ -839,6 +809,7 @@
 		<item drawable="oblatum_61day" />
 		<item drawable="oblatum_aprilfool" />
 		<item drawable="oblatum_bak" />
+		<item drawable="oblatum_lgbtqiaplus" />
 		<item drawable="oblatum_lite" />
 		<item drawable="oblatum_lite_newyear" />
 		<item drawable="oblatum_mid_autumn_festival" />
@@ -1168,6 +1139,7 @@
 		<item drawable="xianyou" />
 		<item drawable="xiaoenai" />
 		<item drawable="xiaoheihe" />
+		<item drawable="xiaohongshu" />
 		<item drawable="xiaomi_shop" />
 		<item drawable="xiaomi_youpin" />
 		<item drawable="ximalayafm" />

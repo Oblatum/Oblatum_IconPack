@@ -79,6 +79,11 @@
                 <action android:name="org.zooper.zw.TEMPLATES"/>
             </intent-filter>
             -->
+            <!--几何天气-->
+            <intent-filter>
+                <action android:name="com.wangdaye.geometricweather.ICON_PROVIDER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
 
             <!-- TODO: Do NOT remove the intent-filter tags -->
             <intent-filter>
@@ -303,6 +308,11 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_providers" />
         </provider>
+
+        <!--几何天气-->
+        <meta-data
+            android:name="com.wangdaye.geometricweather.PROVIDER_CONFIG"
+            android:resource="@xml/icon_provider_config" />
 
     </application>
 

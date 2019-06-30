@@ -1523,6 +1523,17 @@
 		<item component="ComponentInfo{com.cpic.sxbxxe/com.primeton.emp.client.activity.WelcomeActivity}" drawable="tpybx"/>
 		<item component="ComponentInfo{com.dw.btime/com.dw.btime.Launcher}" drawable="qinbaobao"/>
 		<item component="ComponentInfo{com.dede.sonimei/com.dede.sonimei.module.home.MainActivity}" drawable="qinxinsou"/>
+		<item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="lastpass"/>
+		<item component="ComponentInfo{com.netease.cc/com.netease.cc.appstart.CCLauncher}" drawable="live_cc"/>
+		<item component="ComponentInfo{gov.anzong.androidnga/gov.anzong.androidnga.activity.MainActivity}" drawable="nga_git"/>
+		<item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}" drawable="xiaohongshu"/>
+		<item component="ComponentInfo{cn.jsb.china/com.yitong.mbank.app.android.activity.SplashActivity.view.SplashActivity}" drawable="bank_jiangsu"/>
+		<item component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.WelcomeActivity}" drawable="meiyou"/>
+		<item component="ComponentInfo{com.able.wisdomtree/com.able.wisdomtree.jpush.OutLineActivity}" drawable="wisdom_tree"/>
+		<item component="ComponentInfo{com.ruguoapp.jike/com.ruguoapp.jike.business.launch.ui.SplashActivity}" drawable="jike"/>
+		<item component="ComponentInfo{com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup}" drawable="souhu_video"/>
+
+
 
 
 

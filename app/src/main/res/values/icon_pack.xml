@@ -73,6 +73,7 @@
 		<item>baidu_translate</item>
 		<item>baidu_tuiguang</item>
 		<item>baimiao</item>
+		<item>bank_jiangsu</item>
 		<item>bankcomm</item>
 		<item>bar</item>
 		<item>battle_net_authenticator</item>
@@ -414,12 +415,14 @@
 		<item>kugou_music</item>
 		<item>kuwo_music</item>
 		<item>lantern</item>
+		<item>lastpass</item>
 		<item>lawnchair</item>
 		<item>lbe_security</item>
 		<item>leafpic</item>
 		<item>lenovo_sync</item>
 		<item>linewebtoon</item>
 		<item>linos_recorder</item>
+		<item>live_cc</item>
 		<item>live_visualizer</item>
 		<item>lls</item>
 		<item>lofter</item>
@@ -446,6 +449,7 @@
 		<item>maomi_video</item>
 		<item>maoyan</item>
 		<item>mark_qrcode</item>
+		<item>meetyou</item>
 		<item>meeye</item>
 		<item>meitu</item>
 		<item>meituan</item>
@@ -515,6 +519,7 @@
 		<item>mtk_mode</item>
 		<item>mtwm</item>
 		<item>music</item>
+		<item>music_tag</item>
 		<item>musicfx</item>
 		<item>mx_player</item>
 		<item>myappscreenmask</item>
@@ -537,6 +542,7 @@
 		<item>new500</item>
 		<item>news_and_weather</item>
 		<item>nga</item>
+		<item>nga_git</item>
 		<item>nimingban</item>
 		<item>nintendo_switch_online</item>
 		<item>nokia_notes</item>
@@ -565,6 +571,7 @@
 		<item>oblatum_61day</item>
 		<item>oblatum_aprilfool</item>
 		<item>oblatum_bak</item>
+		<item>oblatum_lgbtqiaplus</item>
 		<item>oblatum_lite</item>
 		<item>oblatum_lite_newyear</item>
 		<item>oblatum_mid_autumn_festival</item>
@@ -744,6 +751,7 @@
 		<item>sorcery</item>
 		<item>sougou_input</item>
 		<item>souhu_video</item>
+		<item>souhu_video</item>
 		<item>soul</item>
 		<item>soul_knight</item>
 		<item>sound_recorder</item>
@@ -885,6 +893,7 @@
 		<item>xianyou</item>
 		<item>xiaoenai</item>
 		<item>xiaoheihe</item>
+		<item>xiaohongshu</item>
 		<item>xiaomi_shop</item>
 		<item>xiaomi_youpin</item>
 		<item>ximalayafm</item>
