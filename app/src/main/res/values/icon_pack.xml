@@ -63,12 +63,14 @@
 		<item>b612</item>
 		<item>b612_jimeng</item>
 		<item>baicizhan</item>
+		<item>baidu</item>
 		<item>baidu_browser</item>
 		<item>baidu_homework</item>
 		<item>baidu_input</item>
 		<item>baidu_map</item>
 		<item>baidu_netdisk</item>
 		<item>baidu_nuomi</item>
+		<item>baidu_read</item>
 		<item>baidu_tieba</item>
 		<item>baidu_translate</item>
 		<item>baidu_tuiguang</item>
@@ -87,12 +89,15 @@
 		<item>bilibili</item>
 		<item>bilibili_1</item>
 		<item>bilibili_blue</item>
+		<item>bilibili_comic</item>
 		<item>bilibili_cover2</item>
 		<item>bilibili_cover3</item>
 		<item>bilibili_cover</item>
 		<item>bilibili_link</item>
+		<item>bing_dict</item>
 		<item>blackblub</item>
 		<item>blackhouse</item>
+		<item>bluecoins</item>
 		<item>blued</item>
 		<item>blued_1</item>
 		<item>blued_hook</item>
@@ -197,6 +202,7 @@
 		<item>dxy</item>
 		<item>earth</item>
 		<item>easy_share</item>
+		<item>edgelighting</item>
 		<item>eh_viewer</item>
 		<item>eleme</item>
 		<item>email</item>
@@ -345,6 +351,7 @@
 		<item>googleplay</item>
 		<item>gotokeep</item>
 		<item>greenify</item>
+		<item>gta_sa</item>
 		<item>guanzhi_meiriyiwen</item>
 		<item>gumtree</item>
 		<item>gxicon</item>
@@ -355,6 +362,7 @@
 		<item>happy_browser</item>
 		<item>happyelements</item>
 		<item>hdzuoye</item>
+		<item>hearthstone</item>
 		<item>heiyu</item>
 		<item>hellobike</item>
 		<item>hema</item>
@@ -368,6 +376,7 @@
 		<item>huawei_fans</item>
 		<item>huawei_smarthome</item>
 		<item>hupu</item>
+		<item>hupu_shihuo</item>
 		<item>huyazhibo</item>
 		<item>hyxd</item>
 		<item>i_reader</item>
@@ -390,6 +399,7 @@
 		<item>ic_dynamic_weather_typhoon</item>
 		<item>ic_dynamic_weather_unknown</item>
 		<item>icbc</item>
+		<item>icbc_im</item>
 		<item>ice_box</item>
 		<item>icmbc</item>
 		<item>idm_plus</item>
@@ -454,6 +464,7 @@
 		<item>mahua</item>
 		<item>maidanba</item>
 		<item>mail_master</item>
+		<item>maimai</item>
 		<item>maimemo</item>
 		<item>mancamera</item>
 		<item>mangotv</item>
@@ -462,6 +473,7 @@
 		<item>manyou</item>
 		<item>maomi_video</item>
 		<item>maoyan</item>
+		<item>maoyan_pro</item>
 		<item>mark_qrcode</item>
 		<item>meetyou</item>
 		<item>meeye</item>
@@ -761,7 +773,10 @@
 		<item>snapseed</item>
 		<item>snapseed_1</item>
 		<item>snapvpn</item>
+		<item>snkrs</item>
+		<item>snkrs_1</item>
 		<item>soap</item>
+		<item>soft_shouji</item>
 		<item>sony_ar_effect</item>
 		<item>sony_audio_recorder</item>
 		<item>sony_sketch</item>
@@ -929,6 +944,7 @@
 		<item>xodo_docs</item>
 		<item>xposed</item>
 		<item>xueqiu</item>
+		<item>xuexi_cn</item>
 		<item>xunfei_input</item>
 		<item>xunlei</item>
 		<item>xyst</item>

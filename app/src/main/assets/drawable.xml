@@ -21,33 +21,22 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="blackhouse" />
-		<item drawable="china_daily" />
-		<item drawable="china_daily_1" />
-		<item drawable="drcom" />
-		<item drawable="duolingo" />
-		<item drawable="etao" />
-		<item drawable="etao_1" />
-		<item drawable="gumtree" />
-		<item drawable="jiakao_baodian" />
-		<item drawable="kernel_adiutor" />
-		<item drawable="kfc" />
-		<item drawable="line" />
-		<item drawable="line_lite" />
-		<item drawable="manhuaren" />
-		<item drawable="migrate" />
-		<item drawable="nord_vpn" />
-		<item drawable="orientation_control" />
-		<item drawable="plus" />
-		<item drawable="poweramp" />
-		<item drawable="ppsspp" />
-		<item drawable="telstra247" />
-		<item drawable="ticktick_task" />
-		<item drawable="transit" />
-		<item drawable="uber_eats" />
-		<item drawable="wangyidashen" />
-		<item drawable="windscribe" />
-		<item drawable="zedge" />
+		<item drawable="baidu" />
+		<item drawable="baidu_read" />
+		<item drawable="bilibili_comic" />
+		<item drawable="bing_dict" />
+		<item drawable="bluecoins" />
+		<item drawable="edgelighting" />
+		<item drawable="gta_sa" />
+		<item drawable="hearthstone" />
+		<item drawable="hupu_shihuo" />
+		<item drawable="icbc_im" />
+		<item drawable="maimai" />
+		<item drawable="maoyan_pro" />
+		<item drawable="snkrs" />
+		<item drawable="snkrs_1" />
+		<item drawable="soft_shouji" />
+		<item drawable="xuexi_cn" />
 
 
 	<category title="Folders and Widgets" />
@@ -140,12 +129,14 @@
 		<item drawable="oneplus_switch" />
 
 	<category title="百度" />
+		<item drawable="baidu" />
 		<item drawable="baidu_browser" />
 		<item drawable="baidu_homework" />
 		<item drawable="baidu_input" />
 		<item drawable="baidu_map" />
 		<item drawable="baidu_netdisk" />
 		<item drawable="baidu_nuomi" />
+		<item drawable="baidu_read" />
 		<item drawable="baidu_tieba" />
 		<item drawable="eswenjian" />
 
@@ -261,7 +252,6 @@
 
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
-		<item drawable="souhu_video" />
 		<item drawable="benghuai2" />
 		<item drawable="benghuai3"/>
 		<item drawable="cjzc" />
@@ -271,6 +261,7 @@
 		<item drawable="cytus_ii" />
 		<item drawable="dancing_line" />
 		<item drawable="dragalia_lost" />
+		<item drawable="gta_sa" />
 		<item drawable="happyelements" />
 		<item drawable="hyxd"/>
 		<item drawable="implosion" />
@@ -361,12 +352,14 @@
 		<item drawable="b612" />
 		<item drawable="b612_jimeng" />
 		<item drawable="baicizhan" />
+		<item drawable="baidu" />
 		<item drawable="baidu_browser" />
 		<item drawable="baidu_homework" />
 		<item drawable="baidu_input" />
 		<item drawable="baidu_map" />
 		<item drawable="baidu_netdisk" />
 		<item drawable="baidu_nuomi" />
+		<item drawable="baidu_read" />
 		<item drawable="baidu_tieba" />
 		<item drawable="baidu_translate" />
 		<item drawable="baidu_tuiguang" />
@@ -386,12 +379,15 @@
 		<item drawable="bilibili" />
 		<item drawable="bilibili_1" />
 		<item drawable="bilibili_blue" />
+		<item drawable="bilibili_comic" />
 		<item drawable="bilibili_cover" />
 		<item drawable="bilibili_cover2" />
 		<item drawable="bilibili_cover3" />
 		<item drawable="bilibili_link" />
+		<item drawable="bing_dict" />
 		<item drawable="blackblub" />
 		<item drawable="blackhouse" />
+		<item drawable="bluecoins" />
 		<item drawable="blued" />
 		<item drawable="blued_1" />
 		<item drawable="blued_hook" />
@@ -496,6 +492,7 @@
 		<item drawable="dxy" />
 		<item drawable="earth" />
 		<item drawable="easy_share" />
+		<item drawable="edgelighting" />
 		<item drawable="eh_viewer" />
 		<item drawable="eleme" />
 		<item drawable="email" />
@@ -613,6 +610,7 @@
 		<item drawable="googleplay" />
 		<item drawable="gotokeep" />
 		<item drawable="greenify" />
+		<item drawable="gta_sa" />
 		<item drawable="guanzhi_meiriyiwen" />
 		<item drawable="gumtree" />
 		<item drawable="gxicon" />
@@ -624,6 +622,7 @@
 		<item drawable="happyelements" />
 		<item drawable="hdplive" />
 		<item drawable="hdzuoye" />
+		<item drawable="hearthstone" />
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
 		<item drawable="hema" />
@@ -637,10 +636,12 @@
 		<item drawable="huawei_fans" />
 		<item drawable="huawei_smarthome" />
 		<item drawable="hupu" />
+		<item drawable="hupu_shihuo" />
 		<item drawable="huyazhibo" />
 		<item drawable="hyxd" />
 		<item drawable="i_reader" />
 		<item drawable="icbc" />
+		<item drawable="icbc_im" />
 		<item drawable="ice_box" />
 		<item drawable="icmbc" />
 		<item drawable="idm_plus" />
@@ -709,6 +710,7 @@
 		<item drawable="mahua" />
 		<item drawable="maidanba" />
 		<item drawable="mail_master" />
+		<item drawable="maimai" />
 		<item drawable="maimemo" />
 		<item drawable="mancamera" />
 		<item drawable="mangotv" />
@@ -719,6 +721,7 @@
 		<item drawable="manyou" />
 		<item drawable="maomi_video" />
 		<item drawable="maoyan" />
+		<item drawable="maoyan_pro" />
 		<item drawable="mark_qrcode" />
 		<item drawable="meetyou" />
 		<item drawable="meeye" />
@@ -1023,7 +1026,10 @@
 		<item drawable="snapseed" />
 		<item drawable="snapseed_1" />
 		<item drawable="snapvpn" />
+		<item drawable="snkrs" />
+		<item drawable="snkrs_1" />
 		<item drawable="soap" />
+		<item drawable="soft_shouji" />
 		<item drawable="solid_explorer" />
 		<item drawable="sony_ar_effect" />
 		<item drawable="sony_audio_recorder" />
@@ -1193,6 +1199,7 @@
 		<item drawable="xodo_docs" />
 		<item drawable="xposed" />
 		<item drawable="xueqiu" />
+		<item drawable="xuexi_cn" />
 		<item drawable="xunfei_input" />
 		<item drawable="xunlei" />
 		<item drawable="xyst" />
