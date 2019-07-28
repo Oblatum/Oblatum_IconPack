@@ -1591,13 +1591,23 @@
 		<item component="ComponentInfo{bingdic.android.activity/bingdic.android.activity.SplashscreenActivity}" drawable="bing_dict" />
 		<item component="ComponentInfo{com.taou.maimai/com.taou.maimai.SplashActivity}" drawable="maimai" />
 		<item component="ComponentInfo{com.bilibili.comic/com.bilibili.comic.splash.view.activity.SplashActivity}" drawable="bilibili_comic" />
+		<item component="ComponentInfo{com.faloo.BookReader4Android/com.faloo.view.activity.SplashActivity}" drawable="faloo_bookreader"/>
+		<item component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}" drawable="acfun"/>
+		<item component="ComponentInfo{com.mokee.aegis/com.mokee.aegis.activity.MainActivity}" drawable="mokee_aegis"/>
+		<item component="ComponentInfo{com.youdao.translator/com.youdao.translator.activity.LaunchActivity}" drawable="dear_translate"/>
+		<item component="ComponentInfo{com.mosoink.teach/com.mosoink.teach.MainActivity}" drawable="mosoteach"/>
+		<item component="ComponentInfo{com.zzw.october/com.zzw.october.LaunchActivity}" drawable="zzw"/>
+		<item component="ComponentInfo{com.yyp.netdisksoso/com.yyp.netdisksoso.SplashActivity}" drawable="torrse"/>
+		<item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart"/>
 
 
 
 
 
 
-		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
+
+
+	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" xml="weather" />
 		<item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" xml="clock" />

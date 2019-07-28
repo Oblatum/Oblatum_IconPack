@@ -26,17 +26,27 @@
 		<item drawable="bilibili_comic" />
 		<item drawable="bing_dict" />
 		<item drawable="bluecoins" />
+		<item drawable="contacts" />
+		<item drawable="dear_translate" />
 		<item drawable="edgelighting" />
+		<item drawable="email" />
 		<item drawable="gta_sa" />
 		<item drawable="hearthstone" />
 		<item drawable="hupu_shihuo" />
 		<item drawable="icbc_im" />
 		<item drawable="maimai" />
 		<item drawable="maoyan_pro" />
+		<item drawable="message" />
+		<item drawable="mokee_aegis" />
+		<item drawable="phone" />
+		<item drawable="picsart" />
 		<item drawable="snkrs" />
 		<item drawable="snkrs_1" />
 		<item drawable="soft_shouji" />
+		<item drawable="torrse" />
 		<item drawable="xuexi_cn" />
+		<item drawable="zzw" />
+
 
 
 	<category title="Folders and Widgets" />

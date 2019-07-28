@@ -34,7 +34,7 @@
     <string-array name="home_list_descriptions">
         <item>灵感源于Nokia MeeGo Harmattan，弱化但保留了原有的质感</item>
         <item>去他的不规则，劳资就是要全圆！</item>
-        <item>第六期限量开启，新加文件夹图标</item>
+        <item>第六期已结束</item>
 		<item>手动检查更新以保持程序最新</item>
         <item>欢迎加入Oblatum图标应援团</item>
     </string-array>
@@ -48,7 +48,7 @@
     <string-array name="home_list_links">
         <item>market://details?id=com.yeyebbc.meeye.iconpack</item>
         <item>market://details?id=cc.cinyu.rricon</item>
-        <item>alipays://platformapi/startapp?saId=10000007&amp;clientVersion=3.7.0.0718&amp;qrcode=https://qr.alipay.com/00c06445cgqhoqhbs8joc0b?_s=web-other</item>
+        <item>alipays://platformapi/startapp?saId=10000007&amp;qrcode=https%3a%2f%2fqr.alipay.com%2f00c06445cgqhoqhbs8joc0b</item>
         <!--<item>https://img.vim-cn.com/10/9d20ea07cc8dbb98dfd98a3f4cfa3862e0cde1.png</item>-->
 		<item>market://details?id=com.oblatum.iconpack</item>
         <item>mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DSPmArtw7LPE5WFMXiv5HoEI45JcF98a-</item>

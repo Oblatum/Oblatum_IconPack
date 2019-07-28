@@ -73,12 +73,36 @@
         <activity
             android:name=".MainActivity"
             android:windowSoftInputMode="stateHidden|adjustResize|adjustPan">
-
             <!-- TODO: Remove comment marks to enable Zooper
             <intent-filter>
                 <action android:name="org.zooper.zw.TEMPLATES"/>
             </intent-filter>
             -->
+            <!-- Chronus 图标包 -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="com.dvtonder.chronus.ICON_PACK"/>
+            </intent-filter>
+            <!-- The recoloringMode meta data attribute controls whether the icon
+                 set can or should be recolored based on the font colors chosen by
+                 the user. Valid values include:
+                 always - Apply the user chosen color whenever the icon is shown.
+                 ifNeeded - Only apply the user chosen color if it is required. This
+                            mostly applies to the icon being shown in the weather extension.
+                 never - (default) Never apply any color masking to the icons. This will
+                         cause them to not be selectable as weather extension icon set.
+            -->
+            <meta-data
+                android:name="recoloringMode"
+                android:value="never" />
+
+            <!--几何天气-->
+            <meta-data
+                android:name="com.wangdaye.geometricweather.PROVIDER_CONFIG"
+                android:resource="@xml/oblatum_icon_provider_config" />
+            <meta-data
+                android:name="com.wangdaye.geometricweather.DRAWABLE_FILTER"
+                android:resource="@xml/oblatum_icon_provider_drawable_filter" />
             <!--几何天气-->
             <intent-filter>
                 <action android:name="com.wangdaye.geometricweather.ICON_PROVIDER" />
@@ -309,10 +333,6 @@
                 android:resource="@xml/file_providers" />
         </provider>
 
-        <!--几何天气-->
-        <meta-data
-            android:name="com.wangdaye.geometricweather.PROVIDER_CONFIG"
-            android:resource="@xml/icon_provider_config" />
 
     </application>
 

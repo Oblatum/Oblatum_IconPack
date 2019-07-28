@@ -158,6 +158,7 @@
 		<item>cn_gov_tax</item>
 		<item>commbank</item>
 		<item>contacts</item>
+		<item>contacts_old</item>
 		<item>coolapk</item>
 		<item>cortana</item>
 		<item>csdn</item>
@@ -172,6 +173,7 @@
 		<item>daodai</item>
 		<item>data_monitor</item>
 		<item>daydream</item>
+		<item>dear_translate</item>
 		<item>delve</item>
 		<item>delve</item>
 		<item>devcheck</item>
@@ -205,6 +207,7 @@
 		<item>edgelighting</item>
 		<item>eh_viewer</item>
 		<item>eleme</item>
+		<item>email</item>
 		<item>email</item>
 		<item>emore</item>
 		<item>emui_accountagent</item>
@@ -482,6 +485,7 @@
 		<item>memory_zone</item>
 		<item>message</item>
 		<item>message_1</item>
+		<item>message_old</item>
 		<item>messenger_lite</item>
 		<item>metro</item>
 		<item>mi_home</item>
@@ -526,6 +530,7 @@
 		<item>mobilism</item>
 		<item>mobvoi</item>
 		<item>modian</item>
+		<item>mokee_aegis</item>
 		<item>mokee_aegis</item>
 		<item>mokee_center</item>
 		<item>momo</item>
@@ -665,9 +670,11 @@
 		<item>phone</item>
 		<item>phone_1</item>
 		<item>phone_2</item>
+		<item>phone_old</item>
 		<item>phonograph</item>
 		<item>photoeditor</item>
 		<item>picacg</item>
+		<item>picsart</item>
 		<item>pingan_lifeinsurance</item>
 		<item>pinterest</item>
 		<item>pixiv</item>
@@ -849,6 +856,7 @@
 		<item>tmall</item>
 		<item>tmgp_cf</item>
 		<item>today_s_headline</item>
+		<item>torrse</item>
 		<item>total_launcher</item>
 		<item>touchpal</item>
 		<item>tp_link</item>
@@ -976,5 +984,6 @@
 		<item>zlive</item>
 		<item>zlive_1</item>
 		<item>zonghengxiaoshuo</item>
+		<item>zzw</item>
 	</string-array>
 </resources>
