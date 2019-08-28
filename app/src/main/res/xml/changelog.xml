@@ -15,11 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.7.0" />
+    <version title="V2.8.0" />
     <item text="如果遇到遇到问题请加入qq群；" />
     <item text="通知：所有PY不支持游戏、偏人物或手绘类图标！" />
-    <item text="添加对Chronus图标扩展支持（res：1.2）" />
-    <item text="加入新图标，重新设计部分系统图标" />
+    <item text="加入新图标" />
     <item text="更新日志详见群内" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

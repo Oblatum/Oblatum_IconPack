@@ -1599,6 +1599,17 @@
 		<item component="ComponentInfo{com.zzw.october/com.zzw.october.LaunchActivity}" drawable="zzw"/>
 		<item component="ComponentInfo{com.yyp.netdisksoso/com.yyp.netdisksoso.SplashActivity}" drawable="torrse"/>
 		<item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart"/>
+		<item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
+		<item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.SplashActivity}" drawable="adguard"/>
+		<item component="ComponentInfo{com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity}" drawable="hermit"/>
+		<item component="ComponentInfo{com.yr.mmpic/com.yr.mmpic.ui.activity.SplashActivity}" drawable="mm131"/>
+		<item component="ComponentInfo{com.pandecheng.mikutools/com.androlua.Welcome}" drawable="mikutools"/>
+		<item component="ComponentInfo{com.cn21.ecloud/com.cn21.ecloud.activity.login.StartActivity}" drawable="ecloud"/>
+		<item component="ComponentInfo{com.shanbay.listen/com.shanbay.listen.startup.SplashActivity}" drawable="shanbay_listen"/>
+		<item component="ComponentInfo{com.shanbay.news/com.shanbay.news.startup.SplashActivity}" drawable="shanbay_news"/>
+		<item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}" drawable="pdd"/>
+		<item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.LoadingActivity}" drawable="surf_vpn"/>
+		<item component="ComponentInfo{zmob.com.magnetman/zmob.com.magnetman.ui.main.MainActivity}" drawable="magnetman"/>
 
 
 

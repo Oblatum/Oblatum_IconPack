@@ -9,6 +9,7 @@
 		<item>actinium</item>
 		<item>action_launcher</item>
 		<item>actiondash</item>
+		<item>adguard</item>
 		<item>adm_pro</item>
 		<item>adobe_capture</item>
 		<item>adobe_draw</item>
@@ -45,6 +46,7 @@
 		<item>apkpure</item>
 		<item>aplayer</item>
 		<item>app_logo</item>
+		<item>appfilter</item>
 		<item>apple_music</item>
 		<item>appopsx</item>
 		<item>aqjypt</item>
@@ -204,6 +206,7 @@
 		<item>dxy</item>
 		<item>earth</item>
 		<item>easy_share</item>
+		<item>ecloud</item>
 		<item>edgelighting</item>
 		<item>eh_viewer</item>
 		<item>eleme</item>
@@ -369,6 +372,7 @@
 		<item>heiyu</item>
 		<item>hellobike</item>
 		<item>hema</item>
+		<item>hermit</item>
 		<item>hero_yqlfc</item>
 		<item>hexin</item>
 		<item>hiby_music</item>
@@ -461,6 +465,7 @@
 		<item>lucky_patch</item>
 		<item>lushi</item>
 		<item>lxqw</item>
+		<item>magenetman</item>
 		<item>magic_magnet</item>
 		<item>magisk_manager</item>
 		<item>magnetic_king</item>
@@ -496,6 +501,7 @@
 		<item>midea_ac</item>
 		<item>migrate</item>
 		<item>migu_video</item>
+		<item>mikutools</item>
 		<item>minecraft</item>
 		<item>mini_metro</item>
 		<item>mint_bookkeeping</item>
@@ -525,6 +531,7 @@
 		<item>mix_explorer</item>
 		<item>mjweather</item>
 		<item>mjweather_light</item>
+		<item>mm131</item>
 		<item>mobai</item>
 		<item>mobile_collaboration</item>
 		<item>mobilism</item>
@@ -665,6 +672,8 @@
 		<item>outlook_1</item>
 		<item>pandatv</item>
 		<item>paypal</item>
+		<item>pdd</item>
+		<item>pdd_1</item>
 		<item>peini</item>
 		<item>phicomm</item>
 		<item>phone</item>
@@ -755,6 +764,8 @@
 		<item>settings_2</item>
 		<item>sh_inputs</item>
 		<item>sh_inputs_1</item>
+		<item>shanbay_listen</item>
+		<item>shanbay_news</item>
 		<item>shanbay_speak</item>
 		<item>shanbei_words</item>
 		<item>share</item>
@@ -819,6 +830,7 @@
 		<item>super_pad</item>
 		<item>superstar</item>
 		<item>supersu</item>
+		<item>surf_vpn</item>
 		<item>svideo</item>
 		<item>swiftkey</item>
 		<item>sz_citizencard</item>

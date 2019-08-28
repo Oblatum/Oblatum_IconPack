@@ -21,32 +21,17 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="baidu" />
-		<item drawable="baidu_read" />
-		<item drawable="bilibili_comic" />
-		<item drawable="bing_dict" />
-		<item drawable="bluecoins" />
-		<item drawable="contacts" />
-		<item drawable="dear_translate" />
-		<item drawable="edgelighting" />
-		<item drawable="email" />
-		<item drawable="gta_sa" />
-		<item drawable="hearthstone" />
-		<item drawable="hupu_shihuo" />
-		<item drawable="icbc_im" />
-		<item drawable="maimai" />
-		<item drawable="maoyan_pro" />
-		<item drawable="message" />
-		<item drawable="mokee_aegis" />
-		<item drawable="phone" />
-		<item drawable="picsart" />
-		<item drawable="snkrs" />
-		<item drawable="snkrs_1" />
-		<item drawable="soft_shouji" />
-		<item drawable="torrse" />
-		<item drawable="xuexi_cn" />
-		<item drawable="zzw" />
-
+		<item drawable="adguard" />
+		<item drawable="ecloud" />
+		<item drawable="hermit" />
+		<item drawable="magenetman" />
+		<item drawable="mikutools" />
+		<item drawable="mm131" />
+		<item drawable="pdd" />
+		<item drawable="pdd_1" />
+		<item drawable="shanbay_listen" />
+		<item drawable="shanbay_news" />
+		<item drawable="surf_vpn" />
 
 
 	<category title="Folders and Widgets" />
@@ -308,6 +293,7 @@
 		<item drawable="acrobat" />
 		<item drawable="actinium" />
 		<item drawable="action_launcher" />
+		<item drawable="adguard" />
 		<item drawable="adm_pro" />
 		<item drawable="adobe_capture" />
 		<item drawable="adobe_draw" />
@@ -502,6 +488,7 @@
 		<item drawable="dxy" />
 		<item drawable="earth" />
 		<item drawable="easy_share" />
+		<item drawable="ecloud" />
 		<item drawable="edgelighting" />
 		<item drawable="eh_viewer" />
 		<item drawable="eleme" />
@@ -636,6 +623,7 @@
 		<item drawable="heiyu" />
 		<item drawable="hellobike" />
 		<item drawable="hema" />
+		<item drawable="hermit" />
 		<item drawable="hero_yqlfc" />
 		<item drawable="hexin" />
 		<item drawable="hiby_music" />
@@ -714,6 +702,7 @@
 		<item drawable="ludashi" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
+		<item drawable="magenetman" />
 		<item drawable="magic_magnet" />
 		<item drawable="magisk_manager" />
 		<item drawable="magnetic_king" />
@@ -750,6 +739,7 @@
 		<item drawable="midea_ac" />
 		<item drawable="migrate" />
 		<item drawable="migu_video" />
+		<item drawable="mikutools" />
 		<item drawable="minecraft" />
 		<item drawable="mini_metro" />
 		<item drawable="mint_bookkeeping" />
@@ -778,6 +768,7 @@
 		<item drawable="mix_explorer" />
 		<item drawable="mjweather" />
 		<item drawable="mjweather_light" />
+		<item drawable="mm131" />
 		<item drawable="mobai" />
 		<item drawable="mobile_collaboration" />
 		<item drawable="mobilism" />
@@ -920,6 +911,8 @@
 		<item drawable="outlook_1" />
 		<item drawable="pandatv" />
 		<item drawable="paypal" />
+		<item drawable="pdd" />
+		<item drawable="pdd_1" />
 		<item drawable="peini" />
 		<item drawable="phicomm" />
 		<item drawable="phone" />
@@ -1010,6 +1003,8 @@
 		<item drawable="settings_2" />
 		<item drawable="sh_inputs" />
 		<item drawable="sh_inputs_1" />
+		<item drawable="shanbay_listen" />
+		<item drawable="shanbay_news" />
 		<item drawable="shanbay_speak" />
 		<item drawable="shanbei_words" />
 		<item drawable="share" />
@@ -1076,6 +1071,7 @@
 		<item drawable="super_pad" />
 		<item drawable="superstar" />
 		<item drawable="supersu" />
+		<item drawable="surf_vpn" />
 		<item drawable="svideo" />
 		<item drawable="swiftkey" />
 		<item drawable="sz_citizencard" />
