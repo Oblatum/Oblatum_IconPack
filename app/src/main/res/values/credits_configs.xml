@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1064d015419d1d6cfd9182b8ff9014b543ccb5372564c155c2c80ce1cff629a
-size 2376
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018. Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <!--<item>#</item>-->
+        <item>https://img.vim-cn.com/83/c64aa72e10a8463078d4f9b62ca075ad049b0a.jpg</item>
+        <item>https://img.vim-cn.com/07/b3529b52f3de75312f8271465a0187874fff85.jpg</item>
+        <item>https://img.vim-cn.com/ac/a5d40c1acbb81803cd0877b8506f272d5655a0.jpg</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <!-- <item>请开发者们喝☕</item> -->
+        <item>PzHown</item>
+        <item>丁二 Butanediol</item>
+        <item>泽野键盘afglhg</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <!--  <item>让我们做得更好</item> -->
+        <item>性感糯米，直播打包</item>
+        <item>丁二Butanediol | 消歧义 | 丝瓜快乐丁</item>
+        <item>糯米纸主要贡献者之一</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <!--  <item>多渠道方式（鸡护鸨、威信、扣扣）</item> -->
+        <item>酷安主页|微博</item>
+        <item>酷安主页|Twitter</item>
+        <item>酷安主页</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <!-- <item>http://image.coolapk.com/apk_image/2018/0925/21/1537871160412-166044-o_1co8g0hbg1ul5djgmvkjtgjcpq-uid-1102491@1080x2160.png</item> -->
+        <item>https://www.coolapk.com/u/464418|https://weibo.com/2110133364</item>
+        <item>https://www.coolapk.com/u/724972|https://twitter.com/TucaoLiuOnline</item>
+        <item>http://www.coolapk.com/u/1347187</item>
+    </string-array>
+</resources>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Oblatum_Iconpack.iml" filepath="$PROJECT_DIR$/Oblatum_Iconpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oblatum_IconPack.iml" filepath="$PROJECT_DIR$/Oblatum_IconPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Oblatum_IconPack-app.iml" filepath="$PROJECT_DIR$/app/Oblatum_IconPack-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
