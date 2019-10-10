@@ -21,17 +21,11 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="adguard" />
-		<item drawable="ecloud" />
-		<item drawable="hermit" />
-		<item drawable="magenetman" />
-		<item drawable="mikutools" />
-		<item drawable="mm131" />
-		<item drawable="pdd" />
-		<item drawable="pdd_1" />
-		<item drawable="shanbay_listen" />
-		<item drawable="shanbay_news" />
-		<item drawable="surf_vpn" />
+		<item drawable="game_space" />
+		<item drawable="swift_backup" />
+		<item drawable="tencent_news" />
+		<item drawable="yiciyuan" />
+		<item drawable="zenly" />
 
 
 	<category title="Folders and Widgets" />
@@ -558,6 +552,7 @@
 		<item drawable="fusion_app" />
 		<item drawable="gallery" />
 		<item drawable="game_sdorica" />
+		<item drawable="game_space" />
 		<item drawable="gameguardian" />
 		<item drawable="gaode_maps" />
 		<item drawable="gboard" />
@@ -1073,6 +1068,7 @@
 		<item drawable="supersu" />
 		<item drawable="surf_vpn" />
 		<item drawable="svideo" />
+		<item drawable="swift_backup" />
 		<item drawable="swiftkey" />
 		<item drawable="sz_citizencard" />
 		<item drawable="sz_citizencard_1" />
@@ -1094,6 +1090,7 @@
 		<item drawable="tencent_filemanager" />
 		<item drawable="tencent_karaoke" />
 		<item drawable="tencent_maps" />
+		<item drawable="tencent_news" />
 		<item drawable="tencent_speedmobile" />
 		<item drawable="tencent_video" />
 		<item drawable="tencent_weread" />
@@ -1211,6 +1208,7 @@
 		<item drawable="xyst" />
 		<item drawable="yanxuan" />
 		<item drawable="ygmh" />
+		<item drawable="yiciyuan" />
 		<item drawable="yidianzixun" />
 		<item drawable="yizhifu" />
 		<item drawable="ykjl" />
@@ -1228,6 +1226,7 @@
 		<item drawable="zarchiver" />
 		<item drawable="zedge" />
 		<item drawable="zenge" />
+		<item drawable="zenly" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
 		<item drawable="zhilianzhaoping" />

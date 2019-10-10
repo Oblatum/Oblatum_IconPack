@@ -278,6 +278,7 @@
 		<item>fusion_app</item>
 		<item>gallery</item>
 		<item>game_sdorica</item>
+		<item>game_space</item>
 		<item>gameguardian</item>
 		<item>gaode_maps</item>
 		<item>gboard</item>
@@ -832,6 +833,7 @@
 		<item>supersu</item>
 		<item>surf_vpn</item>
 		<item>svideo</item>
+		<item>swift_backup</item>
 		<item>swiftkey</item>
 		<item>sz_citizencard</item>
 		<item>sz_citizencard_1</item>
@@ -851,6 +853,7 @@
 		<item>tencent_filemanager</item>
 		<item>tencent_karaoke</item>
 		<item>tencent_maps</item>
+		<item>tencent_news</item>
 		<item>tencent_speedmobile</item>
 		<item>tencent_video</item>
 		<item>tencent_weread</item>
@@ -971,6 +974,7 @@
 		<item>xyz_insurance</item>
 		<item>yanxuan</item>
 		<item>ygmh</item>
+		<item>yiciyuan</item>
 		<item>yidianzixun</item>
 		<item>yizhifu</item>
 		<item>ykjl</item>
@@ -988,6 +992,7 @@
 		<item>zarchiver</item>
 		<item>zedge</item>
 		<item>zenge</item>
+		<item>zenly</item>
 		<item>zhihu</item>
 		<item>zhihu_daily</item>
 		<item>zhilianzhaoping</item>

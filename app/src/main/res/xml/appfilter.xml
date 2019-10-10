@@ -1610,6 +1610,12 @@
 		<item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}" drawable="pdd"/>
 		<item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.LoadingActivity}" drawable="surf_vpn"/>
 		<item component="ComponentInfo{zmob.com.magnetman/zmob.com.magnetman.ui.main.MainActivity}" drawable="magnetman"/>
+		<item component="ComponentInfo{com.wsw.cospa/com.wsw.cospa.SplashActivity}" drawable="yiciyuan"/>
+		<item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_space"/>
+		<item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup"/>
+		<item component="ComponentInfo{app.zenly.locator/app.zenly.locator.MainActivity}" drawable="zenly"/>
+		<item component="ComponentInfo{com.tencent.news/com.tencent.news.activity.SplashActivity}" drawable="tencent_news"/>
+
 
 
 
