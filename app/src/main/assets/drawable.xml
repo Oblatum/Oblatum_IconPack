@@ -21,11 +21,17 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="game_space" />
-		<item drawable="swift_backup" />
-		<item drawable="tencent_news" />
-		<item drawable="yiciyuan" />
-		<item drawable="zenly" />
+		<item drawable="habits" />
+		<item drawable="hiker" />
+		<item drawable="magnet_torrent_player" />
+		<item drawable="miui_support" />
+		<item drawable="miui_xiao_ai" />
+		<item drawable="potato" />
+		<item drawable="smartisan_security" />
+		<item drawable="video_dabai" />
+		<item drawable="video_diandian" />
+		<item drawable="video_wanmei" />
+		<item drawable="wang_vpn" />
 
 
 	<category title="Folders and Widgets" />
@@ -607,6 +613,7 @@
 		<item drawable="gumtree" />
 		<item drawable="gxicon" />
 		<item drawable="h_viewer" />
+		<item drawable="habits" />
 		<item drawable="hangouts" />
 		<item drawable="hanju_tv" />
 		<item drawable="haoce" />
@@ -622,6 +629,7 @@
 		<item drawable="hero_yqlfc" />
 		<item drawable="hexin" />
 		<item drawable="hiby_music" />
+		<item drawable="hiker" />
 		<item drawable="hola" />
 		<item drawable="holi_weather" />
 		<item drawable="hook_model" />
@@ -700,6 +708,7 @@
 		<item drawable="magenetman" />
 		<item drawable="magic_magnet" />
 		<item drawable="magisk_manager" />
+		<item drawable="magnet_torrent_player" />
 		<item drawable="magnetic_king" />
 		<item drawable="mahua" />
 		<item drawable="maidanba" />
@@ -925,6 +934,7 @@
 		<item drawable="pocket_casts" />
 		<item drawable="pocket_casts_1" />
 		<item drawable="pornhub" />
+		<item drawable="potato" />
 		<item drawable="power_clean" />
 		<item drawable="poweramp" />
 		<item drawable="powerpoint" />
@@ -1017,6 +1027,7 @@
 		<item drawable="smartisan_idearpills" />
 		<item drawable="smartisan_notes" />
 		<item drawable="smartisan_onestep" />
+		<item drawable="smartisan_security" />
 		<item drawable="smartisanos_mover" />
 		<item drawable="smzdm" />
 		<item drawable="snailread" />
@@ -1135,7 +1146,10 @@
 		<item drawable="vertical_book" />
 		<item drawable="via" />
 		<item drawable="via_alt" />
+		<item drawable="video_dabai" />
+		<item drawable="video_diandian" />
 		<item drawable="video_rr" />
+		<item drawable="video_wanmei" />
 		<item drawable="village" />
 		<item drawable="viper4android" />
 		<item drawable="viperfx" />
@@ -1148,6 +1162,7 @@
 		<item drawable="wakeup" />
 		<item drawable="wallet_baidu" />
 		<item drawable="wandoujia" />
+		<item drawable="wang_vpn" />
 		<item drawable="wangmiao" />
 		<item drawable="wangyidashen" />
 		<item drawable="wanmeixiaoyaun" />

@@ -363,6 +363,7 @@
 		<item>gumtree</item>
 		<item>gxicon</item>
 		<item>h_viewer</item>
+		<item>habits</item>
 		<item>hangouts</item>
 		<item>hanju_tv</item>
 		<item>haoce</item>
@@ -377,6 +378,7 @@
 		<item>hero_yqlfc</item>
 		<item>hexin</item>
 		<item>hiby_music</item>
+		<item>hiker</item>
 		<item>hola</item>
 		<item>holi_weather</item>
 		<item>hook_model</item>
@@ -469,6 +471,7 @@
 		<item>magenetman</item>
 		<item>magic_magnet</item>
 		<item>magisk_manager</item>
+		<item>magnet_torrent_player</item>
 		<item>magnetic_king</item>
 		<item>mahua</item>
 		<item>maidanba</item>
@@ -694,6 +697,7 @@
 		<item>pocket_casts</item>
 		<item>pocket_casts_1</item>
 		<item>pornhub</item>
+		<item>potato</item>
 		<item>power_clean</item>
 		<item>poweramp</item>
 		<item>powerpoint</item>
@@ -784,6 +788,7 @@
 		<item>smartisan_idearpills</item>
 		<item>smartisan_notes</item>
 		<item>smartisan_onestep</item>
+		<item>smartisan_security</item>
 		<item>smartisanos_mover</item>
 		<item>smzdm</item>
 		<item>snailread</item>
@@ -900,7 +905,10 @@
 		<item>vertical_book</item>
 		<item>via</item>
 		<item>via_alt</item>
+		<item>video_dabai</item>
+		<item>video_diandian</item>
 		<item>video_rr</item>
+		<item>video_wanmei</item>
 		<item>village</item>
 		<item>viper4android</item>
 		<item>viperfx</item>
@@ -913,6 +921,7 @@
 		<item>wakeup</item>
 		<item>wallet_baidu</item>
 		<item>wandoujia</item>
+		<item>wang_vpn</item>
 		<item>wangmiao</item>
 		<item>wangyidashen</item>
 		<item>wanmeixiaoyaun</item>

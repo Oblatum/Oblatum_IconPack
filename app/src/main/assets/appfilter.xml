@@ -183,8 +183,8 @@
 		<item component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}" drawable="security" />
 		<item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="security" />
 		<item component="ComponentInfo{com.oneplus.security/com.oneplus.security.view.SecurityMainActivity}" drawable="security" />
-		<item component="ComponentInfo{com.smartisanos.security/com.smartisanos.securitycenter.MainActivity}" drawable="security" />
-		<item component="ComponentInfo{com.smartisanos.securitycenter/com.smartisanos.securitycenter.SecurityCenterActivity}" drawable="security" />
+		<item component="ComponentInfo{com.smartisanos.security/com.smartisanos.securitycenter.MainActivity}" drawable="smartisan_ecurity" />
+		<item component="ComponentInfo{com.smartisanos.securitycenter/com.smartisanos.securitycenter.SecurityCenterActivity}" drawable="smartisan_security" />
 		<item component="ComponentInfo{com.zui.safecenter/com.lenovo.safecenter.MainTab.LeSafeMainActivity}" drawable="security" />
 
 		<!-- 语音助手 / VoiceAssistant -->
@@ -1615,8 +1615,23 @@
 		<item component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}" drawable="swift_backup"/>
 		<item component="ComponentInfo{app.zenly.locator/app.zenly.locator.MainActivity}" drawable="zenly"/>
 		<item component="ComponentInfo{com.tencent.news/com.tencent.news.activity.SplashActivity}" drawable="tencent_news"/>
-
-
+		<item component="ComponentInfo{com.dyh.hiker/com.dyh.movienow.ui.home.SplashActivity}" drawable="hike"/>
+		<item component="ComponentInfo{com.kk.xx.newplayer/com.kk.xx.player.SplashActivity}" drawable="video_wanmei"/>
+		<item component="ComponentInfo{com.dabai.cili/com.e4a.runtime.android.StartActivity}" drawable="video_dabai"/>
+		<item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="wangvpn"/>
+		<item component="ComponentInfo{org.potato.messenger/org.potato.ui.LaunchActivity}" drawable="potato"/>
+		<item component="ComponentInfo{com.iiplayer.sunplayer/com.player.sunplayer.activity.MainActivity}" drawable="magnet_torrent_player"/>
+		<item component="ComponentInfo{com.gaokuaidian.cl/com.gaokuaidian.cl.ui.activity.SplashActivity}" drawable="video_diandian"/>
+		<item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="habits"/>
+		<item component="ComponentInfo{com.huya.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}" drawable="huyazhibo"/>
+		<item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}" drawable="tencent_video"/>
+		<item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.PBEntryActivity}" drawable="cmb"/>
+		<item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.welcome.WelComeActivity}" drawable="smzdm"/>
+		<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity}" drawable="jd_jirong"/>
+		<item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="ygmh"/>
+		<item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
+		<item component="ComponentInfo{com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity}" drawable="files"/>
+		<item component="ComponentInfo{com.huawei.fans/com.huawei.fans.SplashActivity}" drawable="huawei_fans"/>
 
 
 
