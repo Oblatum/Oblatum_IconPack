@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 	<string-array name="icons_preview">
+		<item>a_1password_compressed</item>
 		<item>a_island</item>
 		<item>abc</item>
 		<item>accubattery</item>
@@ -47,6 +48,7 @@
 		<item>aplayer</item>
 		<item>app_logo</item>
 		<item>appfilter</item>
+		<item>appfilter</item>
 		<item>apple_music</item>
 		<item>appopsx</item>
 		<item>aqjypt</item>
@@ -54,9 +56,11 @@
 		<item>aries_iconpack</item>
 		<item>aries_iconpack_lite</item>
 		<item>asphalt9</item>
+		<item>asus_router_compressed</item>
 		<item>audiofx</item>
 		<item>audiofx_1</item>
 		<item>authenticator</item>
+		<item>authy2_compressed</item>
 		<item>autohome</item>
 		<item>avgo</item>
 		<item>avmovie</item>
@@ -77,6 +81,7 @@
 		<item>baidu_translate</item>
 		<item>baidu_tuiguang</item>
 		<item>baimiao</item>
+		<item>banciyuan_compressed</item>
 		<item>bank_jiangsu</item>
 		<item>bankcomm</item>
 		<item>bar</item>
@@ -261,6 +266,7 @@
 		<item>firefox_focus</item>
 		<item>firefox_nightly</item>
 		<item>fit</item>
+		<item>fk_kernel_manager_compressed</item>
 		<item>flipboard</item>
 		<item>fluid_n_g</item>
 		<item>folder_google</item>
@@ -414,8 +420,10 @@
 		<item>icmbc</item>
 		<item>idm_plus</item>
 		<item>ifanr</item>
+		<item>ifind_compressed</item>
 		<item>iflat</item>
 		<item>ifttt</item>
+		<item>imgur_compressed</item>
 		<item>implosion</item>
 		<item>inbox</item>
 		<item>ingress</item>
@@ -478,6 +486,7 @@
 		<item>mail_master</item>
 		<item>maimai</item>
 		<item>maimemo</item>
+		<item>majsoul_compressed</item>
 		<item>mancamera</item>
 		<item>mangotv</item>
 		<item>mangotv_alt</item>
@@ -501,6 +510,7 @@
 		<item>mi_router</item>
 		<item>microsoft_edge</item>
 		<item>microsoft_launcher</item>
+		<item>microsoft_remote_desktop_compressed</item>
 		<item>microsoft_todo</item>
 		<item>midea_ac</item>
 		<item>migrate</item>
@@ -551,6 +561,7 @@
 		<item>moonreader</item>
 		<item>moshouzhushou</item>
 		<item>mosoteach</item>
+		<item>motionpro_compressed</item>
 		<item>move_to_miui</item>
 		<item>movie_fans</item>
 		<item>movie_radar</item>
@@ -564,6 +575,7 @@
 		<item>music</item>
 		<item>music_tag</item>
 		<item>musicfx</item>
+		<item>muzei_compressed</item>
 		<item>mx_player</item>
 		<item>myappscreenmask</item>
 		<item>mystops</item>
@@ -571,6 +583,7 @@
 		<item>nano</item>
 		<item>nekogram</item>
 		<item>neoreader</item>
+		<item>netease_buff_compressed</item>
 		<item>netease_cartoonreader</item>
 		<item>netease_cloudmusic</item>
 		<item>netease_cloudmusic_0</item>
@@ -581,6 +594,7 @@
 		<item>netease_news</item>
 		<item>netease_uu</item>
 		<item>neteasemusic_lyrics_helper</item>
+		<item>netflix_compressed</item>
 		<item>nevo</item>
 		<item>new500</item>
 		<item>news_and_weather</item>
@@ -693,9 +707,11 @@
 		<item>pixiv</item>
 		<item>pixles_iconpack</item>
 		<item>pixles_iconpack_1</item>
+		<item>playstation_compressed</item>
 		<item>plus</item>
 		<item>pocket_casts</item>
 		<item>pocket_casts_1</item>
+		<item>polarr_compressed</item>
 		<item>pornhub</item>
 		<item>potato</item>
 		<item>power_clean</item>
@@ -848,6 +864,7 @@
 		<item>taobao</item>
 		<item>taobao_islefish</item>
 		<item>taobao_movie</item>
+		<item>tap_and_go_compressed</item>
 		<item>tap_go</item>
 		<item>taptap</item>
 		<item>teamviewer</item>
@@ -912,6 +929,7 @@
 		<item>village</item>
 		<item>viper4android</item>
 		<item>viperfx</item>
+		<item>vk_compressed</item>
 		<item>vlc</item>
 		<item>vmall</item>
 		<item>voez</item>
@@ -937,6 +955,7 @@
 		<item>weixin_1</item>
 		<item>welike</item>
 		<item>wellbeing</item>
+		<item>wepop_compressed</item>
 		<item>whale_tv</item>
 		<item>whatsapp</item>
 		<item>wifilocating</item>
@@ -948,6 +967,7 @@
 		<item>word</item>
 		<item>word</item>
 		<item>word_1</item>
+		<item>wordpress_compressed</item>
 		<item>wps_office</item>
 		<item>wudaokou_hippo</item>
 		<item>wzry</item>

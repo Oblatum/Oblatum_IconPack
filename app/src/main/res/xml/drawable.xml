@@ -21,17 +21,25 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="habits" />
-		<item drawable="hiker" />
-		<item drawable="magnet_torrent_player" />
-		<item drawable="miui_support" />
-		<item drawable="miui_xiao_ai" />
-		<item drawable="potato" />
-		<item drawable="smartisan_security" />
-		<item drawable="video_dabai" />
-		<item drawable="video_diandian" />
-		<item drawable="video_wanmei" />
-		<item drawable="wang_vpn" />
+		<item drawable="a_1password_compressed" />
+		<item drawable="asus_router_compressed" />
+		<item drawable="authy2_compressed" />
+		<item drawable="banciyuan_compressed" />
+		<item drawable="fk_kernel_manager_compressed" />
+		<item drawable="ifind_compressed" />
+		<item drawable="imgur_compressed" />
+		<item drawable="majsoul_compressed" />
+		<item drawable="microsoft_remote_desktop_compressed" />
+		<item drawable="motionpro_compressed" />
+		<item drawable="muzei_compressed" />
+		<item drawable="netease_buff_compressed" />
+		<item drawable="netflix_compressed" />
+		<item drawable="playstation_compressed" />
+		<item drawable="polarr_compressed" />
+		<item drawable="tap_and_go_compressed" />
+		<item drawable="vk_compressed" />
+		<item drawable="wepop_compressed" />
+		<item drawable="wordpress_compressed" />
 
 
 	<category title="Folders and Widgets" />
@@ -286,6 +294,7 @@
 		<item drawable="yyszs" />
 
 	<category title="All" /><!-- All icons here -->
+		<item drawable="a_1password_compressed" />
 		<item drawable="a_island" />
 		<item drawable="abc" />
 		<item drawable="accubattery" />
@@ -337,9 +346,11 @@
 		<item drawable="aries_iconpack" />
 		<item drawable="aries_iconpack_lite" />
 		<item drawable="asphalt9" />
+		<item drawable="asus_router_compressed" />
 		<item drawable="audiofx" />
 		<item drawable="audiofx_1" />
 		<item drawable="authenticator" />
+		<item drawable="authy2_compressed" />
 		<item drawable="autohome" />
 		<item drawable="avgo" />
 		<item drawable="avmovie" />
@@ -360,6 +371,7 @@
 		<item drawable="baidu_translate" />
 		<item drawable="baidu_tuiguang" />
 		<item drawable="baimiao" />
+		<item drawable="banciyuan_compressed" />
 		<item drawable="bank_jiangsu" />
 		<item drawable="bank_pingan" />
 		<item drawable="bankcomm" />
@@ -541,6 +553,7 @@
 		<item drawable="firefox_focus" />
 		<item drawable="firefox_nightly" />
 		<item drawable="fit" />
+		<item drawable="fk_kernel_manager_compressed" />
 		<item drawable="flipboard" />
 		<item drawable="fluid_n_g" />
 		<item drawable="folder_google" />
@@ -647,8 +660,10 @@
 		<item drawable="icmbc" />
 		<item drawable="idm_plus" />
 		<item drawable="ifanr" />
+		<item drawable="ifind_compressed" />
 		<item drawable="iflat" />
 		<item drawable="ifttt" />
+		<item drawable="imgur_compressed" />
 		<item drawable="implosion" />
 		<item drawable="inbox" />
 		<item drawable="ingress" />
@@ -715,6 +730,7 @@
 		<item drawable="mail_master" />
 		<item drawable="maimai" />
 		<item drawable="maimemo" />
+		<item drawable="majsoul_compressed" />
 		<item drawable="mancamera" />
 		<item drawable="mangotv" />
 		<item drawable="mangotv"/>
@@ -739,6 +755,7 @@
 		<item drawable="mi_router" />
 		<item drawable="microsoft_edge" />
 		<item drawable="microsoft_launcher" />
+		<item drawable="microsoft_remote_desktop_compressed" />
 		<item drawable="microsoft_todo" />
 		<item drawable="midea_ac" />
 		<item drawable="migrate" />
@@ -787,6 +804,7 @@
 		<item drawable="moonreader" />
 		<item drawable="moshouzhushou" />
 		<item drawable="mosoteach" />
+		<item drawable="motionpro_compressed" />
 		<item drawable="move_to_miui" />
 		<item drawable="movie_fans" />
 		<item drawable="movie_radar" />
@@ -800,12 +818,14 @@
 		<item drawable="music" />
 		<item drawable="music_tag" />
 		<item drawable="musicfx" />
+		<item drawable="muzei_compressed" />
 		<item drawable="mx_player" />
 		<item drawable="myappscreenmask" />
 		<item drawable="mystops" />
 		<item drawable="nano" />
 		<item drawable="nekogram" />
 		<item drawable="neoreader" />
+		<item drawable="netease_buff_compressed" />
 		<item drawable="netease_cartoonreader" />
 		<item drawable="netease_cloudmusic" />
 		<item drawable="netease_cloudmusic_0" />
@@ -816,6 +836,7 @@
 		<item drawable="netease_news" />
 		<item drawable="netease_uu" />
 		<item drawable="neteasemusic_lyrics_helper" />
+		<item drawable="netflix_compressed" />
 		<item drawable="nevo" />
 		<item drawable="new500" />
 		<item drawable="news_and_weather" />
@@ -930,9 +951,11 @@
 		<item drawable="pixiv" />
 		<item drawable="pixles_iconpack" />
 		<item drawable="pixles_iconpack_1" />
+		<item drawable="playstation_compressed" />
 		<item drawable="plus" />
 		<item drawable="pocket_casts" />
 		<item drawable="pocket_casts_1" />
+		<item drawable="polarr_compressed" />
 		<item drawable="pornhub" />
 		<item drawable="potato" />
 		<item drawable="power_clean" />
@@ -1091,6 +1114,7 @@
 		<item drawable="taobao_1" />
 		<item drawable="taobao_islefish" />
 		<item drawable="taobao_movie" />
+		<item drawable="tap_and_go_compressed" />
 		<item drawable="tap_go" />
 		<item drawable="taptap" />
 		<item drawable="teamviewer" />
@@ -1153,6 +1177,7 @@
 		<item drawable="village" />
 		<item drawable="viper4android" />
 		<item drawable="viperfx" />
+		<item drawable="vk_compressed" />
 		<item drawable="vlc" />
 		<item drawable="vmall" />
 		<item drawable="voez" />
@@ -1178,6 +1203,7 @@
 		<item drawable="weixin_1" />
 		<item drawable="welike" />
 		<item drawable="wellbeing" />
+		<item drawable="wepop_compressed" />
 		<item drawable="whale_tv" />
 		<item drawable="whatsapp" />
 		<item drawable="wifilocating" />
@@ -1189,6 +1215,7 @@
 		<item drawable="word" />
 		<item drawable="word" />
 		<item drawable="word_1" />
+		<item drawable="wordpress_compressed" />
 		<item drawable="wps_office" />
 		<item drawable="wudaokou_hippo" />
 		<item drawable="wzry" />

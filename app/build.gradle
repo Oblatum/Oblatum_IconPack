@@ -55,9 +55,9 @@ android {
         applicationId "com.oblatum.iconpack"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 241
-        versionName "2.10"
-				//版本号更新 2019.11.09)
+        versionCode 242
+        versionName "2.11"
+				//版本号更新 2020.1.2)
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

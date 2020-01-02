@@ -1632,7 +1632,28 @@
 		<item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
 		<item component="ComponentInfo{com.alphainventor.filemanager/com.alphainventor.filemanager.activity.MainActivity}" drawable="files"/>
 		<item component="ComponentInfo{com.huawei.fans/com.huawei.fans.SplashActivity}" drawable="huawei_fans"/>
-
+		<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}" drawable="jd_jinrong" />
+		<item component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}" drawable="muzei" />
+		<item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy2" />
+		<item component="ComponentInfo{com.nianticproject.ingress/com.nianticproject.ingress.IngressActivity}" drawable="ingress" />
+		<item component="ComponentInfo{com.hktpayment.tapngo/com.pccwmobile.tapandgo.activity.startpage.StartPageActivity}" drawable="tap_and_go" />
+		<item component="ComponentInfo{com.franco.kernel/a.spl}" drawable="fk_kernel_manager" />
+		<item component="ComponentInfo{com.imgur.mobile/com.imgur.mobile.Launcher}" drawable="imgur" />
+		<item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
+		<item component="ComponentInfo{photo.editor.polarr/co.polarr.polarrphotoeditor.EditorActivity}" drawable="polarr" />
+		<item component="ComponentInfo{org.wordpress.android/org.wordpress.android.ui.WPLaunchActivity}" drawable="wordpress" />
+		<item component="ComponentInfo{com.catfoodstudio.majsoul/com.catfoodstudio.majsoul.MainActivity}" drawable="majsoul" />
+		<item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="a_1password"/>
+		<item component="ComponentInfo{com.asus.aihome/com.asus.aihome.MainActivity}" drawable="asus_router"/>
+		<item component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
+		<item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity}" drawable="microsoft_remote_desktop"/>
+		<item component="ComponentInfo{net.arraynetworks.mobilenow.browser/net.arraynetworks.mobilenow.portal.SplashActivity}" drawable="motionpro"/>
+		<item component="ComponentInfo{com.banciyuan.bcywebview/com.bcy.biz.stage.main.MainActivity}" drawable="banciyuan"/>
+		<item component="ComponentInfo{com.hexin.ifind.android/com.hexin.ifind.android.AndroidLogoActivity}" drawable="ifind"/>
+		<item component="ComponentInfo{com.netease.buff/com.netease.buff.entry.SplashActivity}" drawable="netease_buff"/>
+		<item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}" drawable="playstation"/>
+		<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity}" drawable="jd_jinrong"/>
+		<item component="ComponentInfo{com.tencent.tmgp.WePop/com.tencent.tmgp.WePop.WePopActivity}" drawable="wepop"/>
 
 
 
