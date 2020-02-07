@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 	<string-array name="icons_preview">
+		<item>a_1more_assistant</item>
 		<item>a_1password_compressed</item>
 		<item>a_island</item>
 		<item>abc</item>
@@ -10,6 +11,7 @@
 		<item>actinium</item>
 		<item>action_launcher</item>
 		<item>actiondash</item>
+		<item>ad_wars</item>
 		<item>adguard</item>
 		<item>adm_pro</item>
 		<item>adobe_capture</item>
@@ -27,6 +29,9 @@
 		<item>airdroid</item>
 		<item>airfrozen</item>
 		<item>ali_smartdail</item>
+		<item>alibaba</item>
+		<item>alibaba_1</item>
+		<item>alimail</item>
 		<item>alipay</item>
 		<item>alipay_alt2</item>
 		<item>alipay_alt</item>
@@ -39,6 +44,7 @@
 		<item>ampere</item>
 		<item>android_p_ify</item>
 		<item>android_pay</item>
+		<item>ankidroid</item>
 		<item>ansole</item>
 		<item>antutu</item>
 		<item>anyview</item>
@@ -47,6 +53,7 @@
 		<item>apkpure</item>
 		<item>aplayer</item>
 		<item>app_logo</item>
+		<item>app_qq</item>
 		<item>appfilter</item>
 		<item>appfilter</item>
 		<item>apple_music</item>
@@ -82,6 +89,7 @@
 		<item>baidu_tuiguang</item>
 		<item>baimiao</item>
 		<item>banciyuan_compressed</item>
+		<item>bangumi</item>
 		<item>bank_jiangsu</item>
 		<item>bankcomm</item>
 		<item>bar</item>
@@ -118,9 +126,12 @@
 		<item>book_douban</item>
 		<item>book_jj</item>
 		<item>bookshelf</item>
+		<item>bose_connect</item>
+		<item>bosszhipin</item>
 		<item>brainmusic</item>
 		<item>browser</item>
 		<item>bsz</item>
+		<item>btkanba_player</item>
 		<item>bullet_message</item>
 		<item>business_calendar</item>
 		<item>buyathome</item>
@@ -136,6 +147,7 @@
 		<item>cardboard</item>
 		<item>cardboard_camera</item>
 		<item>ccb</item>
+		<item>cebbank</item>
 		<item>changsha_metro</item>
 		<item>cheapflights</item>
 		<item>chelaile</item>
@@ -144,6 +156,7 @@
 		<item>chinamobile</item>
 		<item>chinatelecom</item>
 		<item>chinaunicom</item>
+		<item>chrissen_card</item>
 		<item>chrome</item>
 		<item>chrome_beta</item>
 		<item>chrome_canary</item>
@@ -295,6 +308,7 @@
 		<item>getAppfilter</item>
 		<item>gmail</item>
 		<item>gohosts</item>
+		<item>gome</item>
 		<item>goodseed</item>
 		<item>google</item>
 		<item>google_1</item>
@@ -366,6 +380,7 @@
 		<item>greenify</item>
 		<item>gta_sa</item>
 		<item>guanzhi_meiriyiwen</item>
+		<item>guizhou_sjcj</item>
 		<item>gumtree</item>
 		<item>gxicon</item>
 		<item>h_viewer</item>
@@ -425,6 +440,7 @@
 		<item>ifttt</item>
 		<item>imgur_compressed</item>
 		<item>implosion</item>
+		<item>imzhiqiang_time</item>
 		<item>inbox</item>
 		<item>ingress</item>
 		<item>ingress_prime</item>
@@ -462,6 +478,7 @@
 		<item>line</item>
 		<item>line_lite</item>
 		<item>linewebtoon</item>
+		<item>linksys</item>
 		<item>linos_recorder</item>
 		<item>live_cc</item>
 		<item>live_visualizer</item>
@@ -545,6 +562,7 @@
 		<item>mix_explorer</item>
 		<item>mjweather</item>
 		<item>mjweather_light</item>
+		<item>mjxq</item>
 		<item>mm131</item>
 		<item>mobai</item>
 		<item>mobile_collaboration</item>
@@ -582,6 +600,8 @@
 		<item>nanjing</item>
 		<item>nano</item>
 		<item>nekogram</item>
+		<item>nekogram</item>
+		<item>nekogram_1</item>
 		<item>neoreader</item>
 		<item>netease_buff_compressed</item>
 		<item>netease_cartoonreader</item>
@@ -690,6 +710,7 @@
 		<item>outlook_1</item>
 		<item>pandatv</item>
 		<item>paypal</item>
+		<item>pcauto</item>
 		<item>pdd</item>
 		<item>pdd_1</item>
 		<item>peini</item>
@@ -711,6 +732,7 @@
 		<item>plus</item>
 		<item>pocket_casts</item>
 		<item>pocket_casts_1</item>
+		<item>pokedex</item>
 		<item>polarr_compressed</item>
 		<item>pornhub</item>
 		<item>potato</item>
@@ -778,11 +800,13 @@
 		<item>search_lite</item>
 		<item>searchpicturetool</item>
 		<item>secretinput</item>
+		<item>secure_vpn</item>
 		<item>seekbooks</item>
 		<item>setting</item>
 		<item>settings</item>
 		<item>settings_1</item>
 		<item>settings_2</item>
+		<item>sgsol</item>
 		<item>sh_inputs</item>
 		<item>sh_inputs_1</item>
 		<item>shanbay_listen</item>
@@ -831,9 +855,11 @@
 		<item>soul_knight</item>
 		<item>sound_recorder</item>
 		<item>soundcloud</item>
+		<item>spdbccc</item>
 		<item>speedtest</item>
 		<item>spotify</item>
 		<item>ss</item>
+		<item>ss_auto_dcd</item>
 		<item>ssly</item>
 		<item>ssr</item>
 		<item>ssrr</item>
@@ -850,6 +876,7 @@
 		<item>sunlogin_remote_control</item>
 		<item>super_class_schedule</item>
 		<item>super_pad</item>
+		<item>super_vpn</item>
 		<item>superstar</item>
 		<item>supersu</item>
 		<item>surf_vpn</item>
@@ -963,6 +990,7 @@
 		<item>wikipedia</item>
 		<item>windscribe</item>
 		<item>wisdom_tree</item>
+		<item>woaika</item>
 		<item>wolf_man</item>
 		<item>word</item>
 		<item>word</item>
@@ -1022,6 +1050,7 @@
 		<item>zedge</item>
 		<item>zenge</item>
 		<item>zenly</item>
+		<item>zero_vpn</item>
 		<item>zhihu</item>
 		<item>zhihu_daily</item>
 		<item>zhilianzhaoping</item>

@@ -1655,6 +1655,45 @@
 		<item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity}" drawable="jd_jinrong"/>
 		<item component="ComponentInfo{com.tencent.tmgp.WePop/com.tencent.tmgp.WePop.WePopActivity}" drawable="wepop"/>
 
+		<item component="ComponentInfo{person.cjy.iconpack.mistiness/person.cjy.iconpack.mistiness.MainActivity}" drawable="mistiness"/>
+		<item component="ComponentInfo{com.pandavpnfree.androidproxy/com.pandavpn.androidproxy.ui.SplashActivity}" drawable="pandavpn"/>
+		<item component="ComponentInfo{zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView}" drawable="cc_call_blocker"/>
+		<item component="ComponentInfo{com.duapps.gif.emoji.gifmaker/com.duapps.gifmaker.ui.activity.SplashActivity}" drawable="du_gif_maker"/>
+		<item component="ComponentInfo{com.sgames.steppypants/com.yodo1.android.sdk.view.Yodo1PermissionActivity}" drawable="steppy_pants"/>
+		<item component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}" drawable="icbc"/>
+		<item component="ComponentInfo{com.lixiangdong.textscanner/com.baidu.ocr.demo.activity.SplashActivity}" drawable="scanner_app"/>
+		<item component="ComponentInfo{qyma.wifikey/com.lantern.launcher.ui.MainActivity}" drawable="wifi_master_key"/>
+		<item component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity}" drawable="tencent_gamehelper_wzyd"/>
+		<item component="ComponentInfo{com.zhihu.daily.android/com.zhihu.daily.android.epic.MainActivity}" drawable="zhihu_daily"/>
+		<item component="ComponentInfo{com.google.android.apps.paidtasks/com.google.android.apps.paidtasks.activity.LaunchActivity}" drawable="google_opinion_rewards"/>
+		<item component="ComponentInfo{com.qy.wifi/com.lantern.launcher.ui.MainActivity}" drawable="wifilocating"/>
+		<item component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}" drawable="alibaba"/>
+		<item component="ComponentInfo{com.chrissen.card/com.chrissen.module_card.module_card.functions.main.mvp.view.activity.MainActivity}" drawable="chrissen_card"/> 
+		<item component="ComponentInfo{com.mjxq.app/com.mjxq.app.MainActivity}" drawable="mjxq"/> 
+		<item component="ComponentInfo{com.imzhiqiang.time/com.imzhiqiang.time.guide.GuideActivity}" drawable="imzhiqiang_time"/> 
+		<item component="ComponentInfo{com.btkanba.player/com.btkanba.player.activity.UpdateDBActivity}" drawable="btkanba_player"/> 
+		<item component="ComponentInfo{com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide}" drawable="ad_wars"/> 
+		<item component="ComponentInfo{com.cebbank.mobile.cemb/com.cebbank.mobile.cemb.ui.activity.SplashActivity}" drawable="cebbank"/> 
+		<item component="ComponentInfo{net.tntapp.app.zerovpn/net.tntapp.app.vpn.MainActivity}" drawable="zero_vpn"/> 
+		<item component="ComponentInfo{com.jrzheng.supervpnfree/com.supersoft.supervpnfree.activity.MainActivity}" drawable="super_vpn"/> 
+		<item component="ComponentInfo{com.fast.free.unblock.secure.vpn/com.signallab.secure.activity.MainActivity}" drawable="secure_vpn"/> 
+		<item component="ComponentInfo{com.hpbr.bosszhipin/com.hpbr.bosszhipin.module.launcher.WelcomeActivity}" drawable="bosszhipin"/>
+		<item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
+		<item component="ComponentInfo{soko.ekibun.bangumi/soko.ekibun.bangumi.ui.splash.SplashActivity}" drawable="bangumi"/>
+		<item component="ComponentInfo{com.bose.monet/com.bose.monet.activity.discovery.SplashSearchingActivity}" drawable="bose_connect"/>
+		<item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="google_camera"/>
+		<item component="ComponentInfo{com.spdbccc.app/com.spdbccc.app.activity.SplashActivity}" drawable="spdbccc" />
+		<item component="ComponentInfo{com.cisco.connect.cloud/com.cisco.connect.cloud.MainActivity}" drawable="linksys" />
+		<item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" drawable="retro_music"/>
+		<item component="ComponentInfo{com.flijo_sftmi.itf.iconpack/jahirfiquitiva.apps.blueprint.demo.MainActivity}" drawable="interface_iconpack"/>
+		<item component="ComponentInfo{com.lycsky.laopo.iconpack/com.lycsky.laopo.iconpack.MainActivity}" drawable="lp_iconpack"/>
+		<item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player"/>
+		<item component="ComponentInfo{me.morirain.dev.iconpack.pure/me.morirain.dev.iconpack.pure.MainActivity}" drawable="pure_icon_pack"/>
+		<item component="ComponentInfo{com.qy.wifi/com.lantern.launcher.ui.MainActivity}" drawable="wifilocating"/>
+		<item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}" drawable="jg12123"/>
+		<item component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.main.activity.ConfigActivity}" drawable="bankcomm"/>
+		<item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="chinaunicom"/>
+		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magnetman"/>
 
 
 
