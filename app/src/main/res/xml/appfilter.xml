@@ -228,6 +228,7 @@
 		<item component="ComponentInfo{cn.nubia.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 
 		<item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="miui_browser" />
+		<item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="oneplus_browser"/>
 
 		<!-- 主题 / theme -->
 		<item component="ComponentInfo{cn.nubia.thememanager/cn.nubia.thememanager.ui.activity.MainActivity}" drawable="themes" />
@@ -366,7 +367,9 @@
 		<item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="message" />
 		<item component="ComponentInfo{com.zui.mms/com.fancymaker.mms.ui.XuiMmsMainActivity}" drawable="message" />
 		<item component="ComponentInfo{com.android.messaging/.ui.conversationlist.ConversationListActivity}" drawable="message" />
+		<item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="message"/>
 		<!-- 通讯录 / Contacts -->
+		<item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/>
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}" drawable="contacts" />
 		<item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="contacts" />
@@ -1694,6 +1697,8 @@
 		<item component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.main.activity.ConfigActivity}" drawable="bankcomm"/>
 		<item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="chinaunicom"/>
 		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magnetman"/>
+		<item component="ComponentInfo{com.netease.onmyoji.nearme.gamecenter/com.netease.onmyoji.Launcher}" drawable="yys"/>
+		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}" drawable="douyutv"/>
 
 
 
