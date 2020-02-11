@@ -25,32 +25,32 @@
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>Meeye 图标包</item>
-        <item>易屋铵 圆图标包</item>
+        <item>检查更新</item>
+        <item>上酷安评论</item>
         <item>糯米纸PY小店</item>
-		<item>检查更新</item>
         <item>加入QQ群</item>
+        <item>帮助文档</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>灵感源于Nokia MeeGo Harmattan，弱化但保留了原有的质感</item>
-        <item>去他的不规则，劳资就是要全圆！</item>
-        <item>全新糯米纸PY小店，即将上架</item>
-		<item>手动检查保持程序最新正式版</item>
+        <item>手动检查保持程序最新</item>
+        <item>参加讨论上酷安话题#Oblatum图标#</item>
+        <item>全新糯米纸PY小店现已上架</item>
         <item>欢迎加入Oblatum图标应援团</item>
+        <item>[萌新必备]糯米纸图标使用指南</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>meeye</item>
-        <item>rricon</item>
+        <item>oblatum_lgbtqiaplus</item>
+        <item>coolapk</item>
         <item>alipay</item>
-		<item>oblatum_nocode</item>
         <item>qq</item>
+        <item>cliff</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>market://details?id=com.yeyebbc.meeye.iconpack</item>
-        <item>market://details?id=cc.cinyu.rricon</item>
-        <item>https://qr.alipay.com/00c06445cgqhoqhbs8joc0b</item>
-        <!--<item>https://img.vim-cn.com/10/9d20ea07cc8dbb98dfd98a3f4cfa3862e0cde1.png</item>-->
-		<item>market://details?id=com.oblatum.iconpack</item>
+        <item>http://t.cn/A6hAvvWj</item>
+        <item>https://www.coolapk.com/t/Oblatum%E5%9B%BE%E6%A0%87?type=0</item>
+        <!--<item>https://qr.alipay.com/00c06445cgqhoqhbs8joc0b</item>-->
+        <item>https://img.vim-cn.com/10/9d20ea07cc8dbb98dfd98a3f4cfa3862e0cde1.png</item>
         <item>mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3DSPmArtw7LPE5WFMXiv5HoEI45JcF98a-</item>
+        <item>https://oblatum.xyz/help.html</item>
     </string-array>
 </resources>
