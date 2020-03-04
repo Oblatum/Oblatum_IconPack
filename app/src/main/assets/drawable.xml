@@ -1275,8 +1275,4 @@
 		<item drawable="zlive" />
 		<item drawable="zlive_1" />
 		<item drawable="zonghengxiaoshuo" />
-	<item dynamic_drawable="ic_calendar" component="com.oneplus.calendar/com.android.calendar.AllInOneActivity" xml="calendar" />
-	<item dynamic_drawable="ic_weather_default" component="net.oneplus.weather/net.oneplus.weather.app.MainActivity" xml="weather" />
-	<item dynamic_drawable="ic_clock" component="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" xml="clock" />
-	<item dynamic_drawable="ic_google_calendar" component="com.google.android.calendar/com.android.calendar.AllInOneActivity" xml="google_calendar" />
 </resources>
