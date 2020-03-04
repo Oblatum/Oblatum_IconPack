@@ -1699,6 +1699,10 @@
 		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magnetman"/>
 		<item component="ComponentInfo{com.netease.onmyoji.nearme.gamecenter/com.netease.onmyoji.Launcher}" drawable="yys"/>
 		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}" drawable="douyutv"/>
+		<item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="walli"/>
+		<item component="ComponentInfo{com.svautolife.desaysv/com.svautolife.desaysv.ui.splash.SplashActivity}" drawable="xiaoxizhixing"/>
+		<item component="ComponentInfo{dandelion.com.oray.dandelion/dandelion.com.oray.dandelion.ui.MainActivity}" drawable="dandelion"/>
+
 
 
 

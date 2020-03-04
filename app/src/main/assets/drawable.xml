@@ -21,34 +21,10 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="a_1more_assistant" />
-		<item drawable="ad_wars" />
-		<item drawable="alibaba" />
-		<item drawable="alibaba_1" />
-		<item drawable="alimail" />
-		<item drawable="ankidroid" />
-		<item drawable="bangumi" />
-		<item drawable="bose_connect" />
-		<item drawable="bosszhipin" />
-		<item drawable="btkanba_player" />
-		<item drawable="cebbank" />
-		<item drawable="chrissen_card" />
-		<item drawable="gome" />
-		<item drawable="guizhou_sjcj" />
-		<item drawable="imzhiqiang_time" />
-		<item drawable="linksys" />
-		<item drawable="mjxq" />
-		<item drawable="nekogram" />
-		<item drawable="nekogram_1" />
-		<item drawable="pcauto" />
-		<item drawable="pokedex" />
-		<item drawable="secure_vpn" />
-		<item drawable="sgsol" />
-		<item drawable="spdbccc" />
-		<item drawable="ss_auto_dcd" />
-		<item drawable="super_vpn" />
-		<item drawable="woaika" />
-		<item drawable="zero_vpn" />
+		<item drawable="dandelion" />
+		<item drawable="google_camera" />
+		<item drawable="walli" />
+		<item drawable="xiaoxizhixing" />
 
 
 	<category title="Folders and Widgets" />
@@ -262,8 +238,7 @@
 	<category title="BlackBerry" />
 		<item drawable="blackberry_launcher" />
 
-	<category title="Games" /><!-- Copy game icons here from All category -->
-
+	<category title="All" /><!-- Copy game icons here from All category -->
 		<item drawable="a_1more_assistant" />
 		<item drawable="a_1password_compressed" />
 		<item drawable="a_island" />
@@ -460,6 +435,7 @@
 		<item drawable="damon_ps2" />
 		<item drawable="dancing_line" />
 		<item drawable="dancing_line" />
+		<item drawable="dandelion" />
 		<item drawable="daodai" />
 		<item drawable="data_monitor" />
 		<item drawable="daydream" />
@@ -582,6 +558,7 @@
 		<item drawable="google_1" />
 		<item drawable="google_allo" />
 		<item drawable="google_assistant" />
+		<item drawable="google_camera" />
 		<item drawable="google_camera" />
 		<item drawable="google_docs" />
 		<item drawable="google_drive" />
@@ -1214,6 +1191,7 @@
 		<item drawable="w3cschool" />
 		<item drawable="wakeup" />
 		<item drawable="wallet_baidu" />
+		<item drawable="walli" />
 		<item drawable="wandoujia" />
 		<item drawable="wang_vpn" />
 		<item drawable="wangmiao" />
@@ -1270,6 +1248,7 @@
 		<item drawable="xiaohongshu" />
 		<item drawable="xiaomi_shop" />
 		<item drawable="xiaomi_youpin" />
+		<item drawable="xiaoxizhixing" />
 		<item drawable="ximalayafm" />
 		<item drawable="xk_wallpaper" />
 		<item drawable="xmhealth" />
@@ -1314,5 +1293,8 @@
 		<item drawable="zlive" />
 		<item drawable="zlive_1" />
 		<item drawable="zonghengxiaoshuo" />
-	<category title="All" /><!-- All icons here -->
+	<item dynamic_drawable="ic_calendar" component="com.oneplus.calendar/com.android.calendar.AllInOneActivity" xml="calendar" />
+	<item dynamic_drawable="ic_weather_default" component="net.oneplus.weather/net.oneplus.weather.app.MainActivity" xml="weather" />
+	<item dynamic_drawable="ic_clock" component="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" xml="clock" />
+	<item dynamic_drawable="ic_google_calendar" component="com.google.android.calendar/com.android.calendar.AllInOneActivity" xml="google_calendar" />
 </resources>

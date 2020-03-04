@@ -15,10 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.12.3" />
+    <version title="V2.13" />
     <item text="如果遇到遇到问题请加入qq群；" />
     <item text="所有PY不支持游戏、偏人物或手绘类图标！" />
-    <item text="加入新图标、修复一加系统图标适配" />
+    <item text="加入新图标" />
     <item text="优化软件内【检查更新】链接，现可以提示是否应该更新" />
     <item text="新增【帮助文档】链接" />
     <item text="删除【更多应用】等链接" />
