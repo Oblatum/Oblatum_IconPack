@@ -21,10 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="dandelion" />
-		<item drawable="google_camera" />
-		<item drawable="walli" />
-		<item drawable="xiaoxizhixing" />
+		<item drawable="abbey" />
+		<item drawable="pickaxechat" />
+		<item drawable="sony_headphones" />
+		<item drawable="tidal" />
+		<item drawable="yandex_disk" />
+		<item drawable="zhifou" />
 
 
 	<category title="Folders and Widgets" />
@@ -282,6 +284,7 @@
 		<item drawable="a_1more_assistant" />
 		<item drawable="a_1password_compressed" />
 		<item drawable="a_island" />
+		<item drawable="abbey" />
 		<item drawable="abc" />
 		<item drawable="accubattery" />
 		<item drawable="acfun" />
@@ -465,6 +468,7 @@
 		<item drawable="d115" />
 		<item drawable="damon_ps2" />
 		<item drawable="dancing_line" />
+		<item drawable="dandelion" />
 		<item drawable="daodai" />
 		<item drawable="data_monitor" />
 		<item drawable="daydream" />
@@ -583,6 +587,7 @@
 		<item drawable="google_1" />
 		<item drawable="google_allo" />
 		<item drawable="google_assistant" />
+		<item drawable="google_camera" />
 		<item drawable="google_camera" />
 		<item drawable="google_camera_alt" />
 		<item drawable="google_docs" />
@@ -941,6 +946,7 @@
 		<item drawable="phonograph" />
 		<item drawable="photoeditor" />
 		<item drawable="picacg" />
+		<item drawable="pickaxechat" />
 		<item drawable="pingan_lifeinsurance" />
 		<item drawable="pinterest" />
 		<item drawable="pixiv" />
@@ -1062,6 +1068,7 @@
 		<item drawable="solid_explorer" />
 		<item drawable="sony_ar_effect" />
 		<item drawable="sony_audio_recorder" />
+		<item drawable="sony_headphones" />
 		<item drawable="sony_sketch" />
 		<item drawable="sony_support" />
 		<item drawable="sony_threed_creator" />
@@ -1133,6 +1140,7 @@
 		<item drawable="themes" />
 		<item drawable="thing" />
 		<item drawable="ticktick_task" />
+		<item drawable="tidal" />
 		<item drawable="tide" />
 		<item drawable="tieyou" />
 		<item drawable="tim" />
@@ -1183,6 +1191,7 @@
 		<item drawable="w3cschool" />
 		<item drawable="wakeup" />
 		<item drawable="wallet_baidu" />
+		<item drawable="walli" />
 		<item drawable="wandoujia" />
 		<item drawable="wang_vpn" />
 		<item drawable="wangmiao" />
@@ -1234,6 +1243,7 @@
 		<item drawable="xiaohongshu" />
 		<item drawable="xiaomi_shop" />
 		<item drawable="xiaomi_youpin" />
+		<item drawable="xiaoxizhixing" />
 		<item drawable="ximalayafm" />
 		<item drawable="xk_wallpaper" />
 		<item drawable="xmhealth" />
@@ -1245,6 +1255,7 @@
 		<item drawable="xunfei_input" />
 		<item drawable="xunlei" />
 		<item drawable="xyst" />
+		<item drawable="yandex_disk" />
 		<item drawable="yanxuan" />
 		<item drawable="ygmh" />
 		<item drawable="yiciyuan" />
@@ -1267,6 +1278,7 @@
 		<item drawable="zenge" />
 		<item drawable="zenly" />
 		<item drawable="zero_vpn" />
+		<item drawable="zhifou" />
 		<item drawable="zhihu" />
 		<item drawable="zhihu_daily" />
 		<item drawable="zhilianzhaoping" />

@@ -1702,6 +1702,12 @@
 		<item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="walli"/>
 		<item component="ComponentInfo{com.svautolife.desaysv/com.svautolife.desaysv.ui.splash.SplashActivity}" drawable="xiaoxizhixing"/>
 		<item component="ComponentInfo{dandelion.com.oray.dandelion/dandelion.com.oray.dandelion.ui.MainActivity}" drawable="dandelion"/>
+		<item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal"/>
+		<item component="ComponentInfo{com.paolovalerdi.abbey/com.paolovalerdi.abbey.ui.activities.MainActivity}" drawable="abbey"/>
+ 		<item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="sony_headphones"/>
+		<item component="ComponentInfo{com.pickaxe.android/com.pickaxechat.android.activities.MainActivity}" drawable="pickaxechat"/>
+		<item component="ComponentInfo{ru.yandex.disk/ru.yandex.disk.MainActivity}" drawable="yandex_disk"/>
+		<item component="ComponentInfo{com.wl.zhihu.column.main/com.wl.zhihu.column.main.IndexActivity}" drawable="zhifou"/>
 
 
 
