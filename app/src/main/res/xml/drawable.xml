@@ -21,12 +21,26 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="abbey" />
-		<item drawable="pickaxechat" />
-		<item drawable="sony_headphones" />
-		<item drawable="tidal" />
-		<item drawable="yandex_disk" />
-		<item drawable="zhifou" />
+		<item drawable="allhistory" />
+		<item drawable="biubiu_jiasuqi" />
+		<item drawable="breeno_voice" />
+		<item drawable="colorcapture" />
+		<item drawable="daojucheng" />
+		<item drawable="dnf_zhushou" />
+		<item drawable="flash_download" />
+		<item drawable="laddervpn" />
+		<item drawable="light_start" />
+		<item drawable="magicalstory_cleaner" />
+		<item drawable="miaomiaozhe" />
+		<item drawable="nanning_guidaojiaotong" />
+		<item drawable="okpassword_days" />
+		<item drawable="q10000" />
+		<item drawable="storage_isolation" />
+		<item drawable="todolist" />
+		<item drawable="wechat_scanonescan" />
+		<item drawable="xinyue_vip" />
+		<item drawable="yangshipin" />
+
 
 
 	<category title="Folders and Widgets" />
@@ -318,6 +332,7 @@
 		<item drawable="aliqin" />
 		<item drawable="aliyun" />
 		<item drawable="aliyun_alink" />
+		<item drawable="allhistory" />
 		<item drawable="aloha" />
 		<item drawable="amazon" />
 		<item drawable="amazon_1" />
@@ -388,6 +403,7 @@
 		<item drawable="bilibili_cover3" />
 		<item drawable="bilibili_link" />
 		<item drawable="bing_dict" />
+		<item drawable="biubiu_jiasuqi" />
 		<item drawable="blackblub" />
 		<item drawable="blackhouse" />
 		<item drawable="bluecoins" />
@@ -407,6 +423,7 @@
 		<item drawable="bose_connect" />
 		<item drawable="bosszhipin" />
 		<item drawable="brainmusic" />
+		<item drawable="breeno_voice" />
 		<item drawable="browser" />
 		<item drawable="bsz" />
 		<item drawable="btkanba_player" />
@@ -454,6 +471,7 @@
 		<item drawable="cmbc" />
 		<item drawable="cn_500px" />
 		<item drawable="cn_gov_tax" />
+		<item drawable="colorcapture" />
 		<item drawable="commbank" />
 		<item drawable="contacts" />
 		<item drawable="coolapk" />
@@ -470,6 +488,7 @@
 		<item drawable="dancing_line" />
 		<item drawable="dandelion" />
 		<item drawable="daodai" />
+		<item drawable="daojucheng" />
 		<item drawable="data_monitor" />
 		<item drawable="daydream" />
 		<item drawable="delve" />
@@ -484,6 +503,7 @@
 		<item drawable="diyidan" />
 		<item drawable="dizzypassword" />
 		<item drawable="dmzj" />
+		<item drawable="dnf_zhushou" />
 		<item drawable="douban" />
 		<item drawable="douyin" />
 		<item drawable="douyutv" />
@@ -553,6 +573,7 @@
 		<item drawable="firefox_nightly" />
 		<item drawable="fit" />
 		<item drawable="fk_kernel_manager_compressed" />
+		<item drawable="flash_download" />
 		<item drawable="flipboard" />
 		<item drawable="fluid_n_g" />
 		<item drawable="folder_google" />
@@ -699,12 +720,14 @@
 		<item drawable="kuaishou" />
 		<item drawable="kugou_music" />
 		<item drawable="kuwo_music" />
+		<item drawable="laddervpn" />
 		<item drawable="lantern" />
 		<item drawable="lastpass" />
 		<item drawable="lawnchair" />
 		<item drawable="lbe_security" />
 		<item drawable="leafpic" />
 		<item drawable="lenovo_sync" />
+		<item drawable="light_start" />
 		<item drawable="line" />
 		<item drawable="line_lite" />
 		<item drawable="linewebtoon" />
@@ -726,6 +749,7 @@
 		<item drawable="lxqw" />
 		<item drawable="magenetman" />
 		<item drawable="magic_magnet" />
+		<item drawable="magicalstory_cleaner" />
 		<item drawable="magisk_manager" />
 		<item drawable="magnet_torrent_player" />
 		<item drawable="magnetic_king" />
@@ -755,6 +779,7 @@
 		<item drawable="metro" />
 		<item drawable="mi_home" />
 		<item drawable="mi_router" />
+		<item drawable="miaomiaozhe" />
 		<item drawable="microsoft_edge" />
 		<item drawable="microsoft_launcher" />
 		<item drawable="microsoft_remote_desktop_compressed" />
@@ -825,6 +850,7 @@
 		<item drawable="mx_player" />
 		<item drawable="myappscreenmask" />
 		<item drawable="mystops" />
+		<item drawable="nanning_guidaojiaotong" />
 		<item drawable="nano" />
 		<item drawable="nekogram" />
 		<item drawable="nekogram_1" />
@@ -887,6 +913,7 @@
 		<item drawable="office_365_admin" />
 		<item drawable="office_lens" />
 		<item drawable="ofo" />
+		<item drawable="okpassword_days" />
 		<item drawable="okta" />
 		<item drawable="omfg" />
 		<item drawable="onedrive" />
@@ -977,6 +1004,7 @@
 		<item drawable="pure_weather" />
 		<item drawable="puretie" />
 		<item drawable="pvz" />
+		<item drawable="q10000" />
 		<item drawable="qcloud" />
 		<item drawable="qdreader" />
 		<item drawable="qianji" />
@@ -1098,6 +1126,7 @@
 		<item drawable="stitch" />
 		<item drawable="sto" />
 		<item drawable="stocard" />
+		<item drawable="storage_isolation" />
 		<item drawable="substratum" />
 		<item drawable="sunlogin_remote_control" />
 		<item drawable="super_class_schedule" />
@@ -1148,6 +1177,7 @@
 		<item drawable="tmall" />
 		<item drawable="tmgp_cf" />
 		<item drawable="today_s_headline" />
+		<item drawable="todolist" />
 		<item drawable="total_launcher" />
 		<item drawable="touchpal" />
 		<item drawable="tp_link" />
@@ -1199,6 +1229,7 @@
 		<item drawable="wanmeixiaoyaun" />
 		<item drawable="weather" />
 		<item drawable="weatherzone" />
+		<item drawable="wechat_scanonescan" />
 		<item drawable="wei_account" />
 		<item drawable="weibo" />
 		<item drawable="weibo_int" />
@@ -1245,6 +1276,7 @@
 		<item drawable="xiaomi_youpin" />
 		<item drawable="xiaoxizhixing" />
 		<item drawable="ximalayafm" />
+		<item drawable="xinyue_vip" />
 		<item drawable="xk_wallpaper" />
 		<item drawable="xmhealth" />
 		<item drawable="xmqz" />
@@ -1256,6 +1288,7 @@
 		<item drawable="xunlei" />
 		<item drawable="xyst" />
 		<item drawable="yandex_disk" />
+		<item drawable="yangshipin" />
 		<item drawable="yanxuan" />
 		<item drawable="ygmh" />
 		<item drawable="yiciyuan" />
@@ -1287,4 +1320,5 @@
 		<item drawable="zlive" />
 		<item drawable="zlive_1" />
 		<item drawable="zonghengxiaoshuo" />
+		<item drawable="zzw" />
 </resources>

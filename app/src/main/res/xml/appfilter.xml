@@ -1708,6 +1708,26 @@
 		<item component="ComponentInfo{com.pickaxe.android/com.pickaxechat.android.activities.MainActivity}" drawable="pickaxechat"/>
 		<item component="ComponentInfo{ru.yandex.disk/ru.yandex.disk.MainActivity}" drawable="yandex_disk"/>
 		<item component="ComponentInfo{com.wl.zhihu.column.main/com.wl.zhihu.column.main.IndexActivity}" drawable="zhifou"/>
+		<item component="ComponentInfo{com.wpengapp.lightstart/com.wpengapp.support.activity.LauncherActivity}" drawable="light_start"/>
+		<item  component="ComponentInfo{com.allhistory.dls.marble/com.pwrd.dls.marble.other.activity.SplashActivity}" drawable="allhistory"/>
+		<item component="ComponentInfo{com.henzanapp.miaomiaozhe/com.henzanapp.miaomiaozhe.activity.MainWelcomeActivity}" drawable="miaomiaozhe"/>
+		<item component="ComponentInfo{com.cctv.yangshipin.app.androidp/com.tencent.videolite.android.ui.SplashActivity}" drawable="yangshipin"/>
+		<item component="ComponentInfo{com.magicalstory.cleaner/com.magicalstory.cleaner.UI.Splash.SplashActivity}" drawable="magicalstory_cleaner"/>
+		<item component="ComponentInfo{com.wizeyes.colorcapture/com.wizeyes.colorcapture.ui.page.splash.SplashActivity}" drawable="colorcapture"/>
+		<item component="ComponentInfo{cn.okpassword.days/cn.okpassword.days.activity.SplashActivity}" drawable="okpassword_days"/>
+		<item component="ComponentInfo{com.eve.todolist/com.eve.todolist.acty.SplashActivity}" drawable="todolist"/>
+		<item component="ComponentInfo{com.puzzing.laddervpn/com.puzzing.laddervpn.modules.start.activity.PZSplashActivity}" drawable="laddervpn"/>
+		<item component="ComponentInfo{com.tencent.gamehelper.dnf/com.tencent.gamehelper.ui.main.WelcomeActivity}" drawable="dnf_zhushou"/>
+		<item component="ComponentInfo{moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity}" drawable="storage_isolation"/>
+		<item component="ComponentInfo{com.njh.biubiu/com.njh.ping.launcher.LauncherActivity}" drawable="biubiu_jiasuqi"/>
+		<item component="ComponentInfo{com.nngdjt.app/com.nngdjt.app.m00_welcome.LaunchActivity}" drawable="nanning_guidaojiaotong"/>
+		<item component="ComponentInfo{com.dxys.onestep.weixins/com.dxys.onestep.weixins.MainActivity}" drawable="wechat_scanonescan"/>
+		<item component="ComponentInfo{com.tencent.tgclub/com.tencent.tgclub.business.appframe.WelcomeActivity}" drawable="xinyue_vip"/>
+		<item component="ComponentInfo{com.tencent.djcity/com.tencent.djcity.activities.homepage.PortalActivity}" drawable="daojucheng"/>
+		<item component="ComponentInfo{com.flash.download/com.example.dwd.myapplication.activity.SplashActivity}" drawable="flash_download"/>
+		<item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="oneplus_market"/>
+		<item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
 
 
 

@@ -39,6 +39,7 @@
 		<item>aliqin</item>
 		<item>aliyun</item>
 		<item>aliyun_alink</item>
+		<item>allhistory</item>
 		<item>aloha</item>
 		<item>amazon</item>
 		<item>amazon_1</item>
@@ -111,6 +112,7 @@
 		<item>bilibili_cover</item>
 		<item>bilibili_link</item>
 		<item>bing_dict</item>
+		<item>biubiu_jiasuqi</item>
 		<item>blackblub</item>
 		<item>blackhouse</item>
 		<item>bluecoins</item>
@@ -130,6 +132,7 @@
 		<item>bose_connect</item>
 		<item>bosszhipin</item>
 		<item>brainmusic</item>
+		<item>breeno_voice</item>
 		<item>browser</item>
 		<item>bsz</item>
 		<item>btkanba_player</item>
@@ -177,6 +180,7 @@
 		<item>cmbc</item>
 		<item>cn_500px</item>
 		<item>cn_gov_tax</item>
+		<item>colorcapture</item>
 		<item>commbank</item>
 		<item>contacts</item>
 		<item>contacts_old</item>
@@ -193,6 +197,7 @@
 		<item>dancing_line</item>
 		<item>dandelion</item>
 		<item>daodai</item>
+		<item>daojucheng</item>
 		<item>data_monitor</item>
 		<item>daydream</item>
 		<item>dear_translate</item>
@@ -209,6 +214,7 @@
 		<item>diyidan</item>
 		<item>dizzypassword</item>
 		<item>dmzj</item>
+		<item>dnf_zhushou</item>
 		<item>douban</item>
 		<item>douyin</item>
 		<item>douyutv</item>
@@ -282,6 +288,7 @@
 		<item>firefox_nightly</item>
 		<item>fit</item>
 		<item>fk_kernel_manager_compressed</item>
+		<item>flash_download</item>
 		<item>flipboard</item>
 		<item>fluid_n_g</item>
 		<item>folder_google</item>
@@ -472,12 +479,14 @@
 		<item>kuaishou</item>
 		<item>kugou_music</item>
 		<item>kuwo_music</item>
+		<item>laddervpn</item>
 		<item>lantern</item>
 		<item>lastpass</item>
 		<item>lawnchair</item>
 		<item>lbe_security</item>
 		<item>leafpic</item>
 		<item>lenovo_sync</item>
+		<item>light_start</item>
 		<item>line</item>
 		<item>line_lite</item>
 		<item>linewebtoon</item>
@@ -498,6 +507,7 @@
 		<item>lxqw</item>
 		<item>magenetman</item>
 		<item>magic_magnet</item>
+		<item>magicalstory_cleaner</item>
 		<item>magisk_manager</item>
 		<item>magnet_torrent_player</item>
 		<item>magnetic_king</item>
@@ -528,6 +538,7 @@
 		<item>metro</item>
 		<item>mi_home</item>
 		<item>mi_router</item>
+		<item>miaomiaozhe</item>
 		<item>microsoft_edge</item>
 		<item>microsoft_launcher</item>
 		<item>microsoft_remote_desktop_compressed</item>
@@ -601,6 +612,7 @@
 		<item>myappscreenmask</item>
 		<item>mystops</item>
 		<item>nanjing</item>
+		<item>nanning_guidaojiaotong</item>
 		<item>nano</item>
 		<item>nekogram</item>
 		<item>nekogram</item>
@@ -665,6 +677,7 @@
 		<item>office_lens</item>
 		<item>office_lens</item>
 		<item>ofo</item>
+		<item>okpassword_days</item>
 		<item>okta</item>
 		<item>omfg</item>
 		<item>onedrive</item>
@@ -758,6 +771,7 @@
 		<item>pure_weather</item>
 		<item>puretie</item>
 		<item>pvz</item>
+		<item>q10000</item>
 		<item>qcloud</item>
 		<item>qdreader</item>
 		<item>qianji</item>
@@ -877,6 +891,7 @@
 		<item>stellio</item>
 		<item>stitch</item>
 		<item>stocard</item>
+		<item>storage_isolation</item>
 		<item>substratum</item>
 		<item>sunlogin_remote_control</item>
 		<item>super_class_schedule</item>
@@ -926,6 +941,7 @@
 		<item>tmall</item>
 		<item>tmgp_cf</item>
 		<item>today_s_headline</item>
+		<item>todolist</item>
 		<item>torrse</item>
 		<item>total_launcher</item>
 		<item>touchpal</item>
@@ -979,6 +995,7 @@
 		<item>wanmeixiaoyaun</item>
 		<item>weather</item>
 		<item>weatherzone</item>
+		<item>wechat_scanonescan</item>
 		<item>wei_account</item>
 		<item>weibo</item>
 		<item>weibo_int</item>
@@ -1026,6 +1043,7 @@
 		<item>xiaomi_youpin</item>
 		<item>xiaoxizhixing</item>
 		<item>ximalayafm</item>
+		<item>xinyue_vip</item>
 		<item>xk_wallpaper</item>
 		<item>xmhealth</item>
 		<item>xmqz</item>
@@ -1038,6 +1056,7 @@
 		<item>xyst</item>
 		<item>xyz_insurance</item>
 		<item>yandex_disk</item>
+		<item>yangshipin</item>
 		<item>yanxuan</item>
 		<item>ygmh</item>
 		<item>yiciyuan</item>
