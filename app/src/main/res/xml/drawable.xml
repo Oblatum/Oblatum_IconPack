@@ -21,25 +21,16 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="allhistory" />
-		<item drawable="biubiu_jiasuqi" />
-		<item drawable="breeno_voice" />
-		<item drawable="colorcapture" />
-		<item drawable="daojucheng" />
-		<item drawable="dnf_zhushou" />
-		<item drawable="flash_download" />
-		<item drawable="laddervpn" />
-		<item drawable="light_start" />
-		<item drawable="magicalstory_cleaner" />
-		<item drawable="miaomiaozhe" />
-		<item drawable="nanning_guidaojiaotong" />
-		<item drawable="okpassword_days" />
-		<item drawable="q10000" />
-		<item drawable="storage_isolation" />
-		<item drawable="todolist" />
-		<item drawable="wechat_scanonescan" />
-		<item drawable="xinyue_vip" />
-		<item drawable="yangshipin" />
+		<item drawable="a_50yin" />
+		<item drawable="changzhou_subway" />
+		<item drawable="file_explorer" />
+		<item drawable="mobile_portal" />
+		<item drawable="niwodangnian" />
+		<item drawable="opera" />
+		<item drawable="skype_for_business" />
+		<item drawable="suning" />
+		<item drawable="torrse" />
+		<item drawable="weiyi" />
 
 
 
@@ -297,6 +288,7 @@
 	<category title="All" /><!-- All icons here -->
 		<item drawable="a_1more_assistant" />
 		<item drawable="a_1password_compressed" />
+		<item drawable="a_50yin" />
 		<item drawable="a_island" />
 		<item drawable="abbey" />
 		<item drawable="abc" />
@@ -444,6 +436,7 @@
 		<item drawable="ccb" />
 		<item drawable="cebbank" />
 		<item drawable="changsha_metro" />
+		<item drawable="changzhou_subway" />
 		<item drawable="cheapflights" />
 		<item drawable="chelaile" />
 		<item drawable="china_daily" />
@@ -566,6 +559,7 @@
 		<item drawable="faxianjc" />
 		<item drawable="feedly" />
 		<item drawable="feizhu" />
+		<item drawable="file_explorer" />
 		<item drawable="files" />
 		<item drawable="files_go" />
 		<item drawable="firefox" />
@@ -820,6 +814,7 @@
 		<item drawable="mm131" />
 		<item drawable="mobai" />
 		<item drawable="mobile_collaboration" />
+		<item drawable="mobile_portal" />
 		<item drawable="mobilism" />
 		<item drawable="mobvoi" />
 		<item drawable="modian" />
@@ -875,6 +870,7 @@
 		<item drawable="nhbooks" />
 		<item drawable="nimingban" />
 		<item drawable="nintendo_switch_online" />
+		<item drawable="niwodangnian" />
 		<item drawable="nokia_notes" />
 		<item drawable="nokia_smart_tuner" />
 		<item drawable="nord_vpn" />
@@ -938,6 +934,7 @@
 		<item drawable="oneplus_switch" />
 		<item drawable="onething_minecloud" />
 		<item drawable="openhub" />
+		<item drawable="opera" />
 		<item drawable="opgg" />
 		<item drawable="oppo_app_store" />
 		<item drawable="oppo_community" />
@@ -1074,6 +1071,7 @@
 		<item drawable="sim_toolkit" />
 		<item drawable="sketchbook" />
 		<item drawable="sky_compass" />
+		<item drawable="skype_for_business" />
 		<item drawable="sleep" />
 		<item drawable="smartisan_bbs" />
 		<item drawable="smartisan_drivingmode" />
@@ -1128,6 +1126,7 @@
 		<item drawable="stocard" />
 		<item drawable="storage_isolation" />
 		<item drawable="substratum" />
+		<item drawable="suning" />
 		<item drawable="sunlogin_remote_control" />
 		<item drawable="super_class_schedule" />
 		<item drawable="super_pad" />
@@ -1178,6 +1177,7 @@
 		<item drawable="tmgp_cf" />
 		<item drawable="today_s_headline" />
 		<item drawable="todolist" />
+		<item drawable="torrse" />
 		<item drawable="total_launcher" />
 		<item drawable="touchpal" />
 		<item drawable="tp_link" />
@@ -1238,6 +1238,7 @@
 		<item drawable="weico" />
 		<item drawable="weixin" />
 		<item drawable="weixin_1" />
+		<item drawable="weiyi" />
 		<item drawable="welike" />
 		<item drawable="wellbeing" />
 		<item drawable="wepop_compressed" />

@@ -3,6 +3,7 @@
 	<string-array name="icons_preview">
 		<item>a_1more_assistant</item>
 		<item>a_1password_compressed</item>
+		<item>a_50yin</item>
 		<item>a_island</item>
 		<item>abbey</item>
 		<item>abc</item>
@@ -153,6 +154,7 @@
 		<item>ccb</item>
 		<item>cebbank</item>
 		<item>changsha_metro</item>
+		<item>changzhou_subway</item>
 		<item>cheapflights</item>
 		<item>chelaile</item>
 		<item>china_daily</item>
@@ -281,6 +283,7 @@
 		<item>faxianjc</item>
 		<item>feedly</item>
 		<item>feizhu</item>
+		<item>file_explorer</item>
 		<item>files</item>
 		<item>files_go</item>
 		<item>firefox</item>
@@ -580,6 +583,7 @@
 		<item>mm131</item>
 		<item>mobai</item>
 		<item>mobile_collaboration</item>
+		<item>mobile_portal</item>
 		<item>mobilism</item>
 		<item>mobvoi</item>
 		<item>modian</item>
@@ -637,6 +641,7 @@
 		<item>nga_git</item>
 		<item>nimingban</item>
 		<item>nintendo_switch_online</item>
+		<item>niwodangnian</item>
 		<item>nokia_notes</item>
 		<item>nokia_smart_tuner</item>
 		<item>nord_vpn</item>
@@ -703,6 +708,7 @@
 		<item>oneplus_switch</item>
 		<item>onething_minecloud</item>
 		<item>openhub</item>
+		<item>opera</item>
 		<item>opgg</item>
 		<item>oppo_app_store</item>
 		<item>oppo_compass</item>
@@ -840,6 +846,7 @@
 		<item>sim_toolkit</item>
 		<item>sketchbook</item>
 		<item>sky_compass</item>
+		<item>skype_for_business</item>
 		<item>sleep</item>
 		<item>smartisan_bbs</item>
 		<item>smartisan_drivingmode</item>
@@ -893,6 +900,7 @@
 		<item>stocard</item>
 		<item>storage_isolation</item>
 		<item>substratum</item>
+		<item>suning</item>
 		<item>sunlogin_remote_control</item>
 		<item>super_class_schedule</item>
 		<item>super_pad</item>
@@ -942,6 +950,7 @@
 		<item>tmgp_cf</item>
 		<item>today_s_headline</item>
 		<item>todolist</item>
+		<item>torrse</item>
 		<item>torrse</item>
 		<item>total_launcher</item>
 		<item>touchpal</item>
@@ -1004,6 +1013,7 @@
 		<item>weico</item>
 		<item>weixin</item>
 		<item>weixin_1</item>
+		<item>weiyi</item>
 		<item>welike</item>
 		<item>wellbeing</item>
 		<item>wepop_compressed</item>

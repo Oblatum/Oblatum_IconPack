@@ -1727,6 +1727,23 @@
 		<item component="ComponentInfo{com.flash.download/com.example.dwd.myapplication.activity.SplashActivity}" drawable="flash_download"/>
 		<item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="oneplus_market"/>
 		<item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+		<item component="ComponentInfo{com.bwton.msx.czb/com.bwton.metro.lanuch.LanuchActivity}" drawable="changzhou_subway"/>
+		<item component="ComponentInfo{com.skyjos.apps.fileexplorerfree/com.skyjos.fileexplorer.ui.SplashActivity}" drawable="file_explorer"/>
+		<item component="ComponentInfo{com.liteon.mptest/md517c5a502f6709d4fbdcb5468a58c68c6.StartLoadingActivity}" drawable="mobile_portal"/>
+		<item component="ComponentInfo{com.opera.browser/com.opera.Opera}" drawable="opera"/>
+		<item component="ComponentInfo{com.greenline.guahao/com.greenline.guahao.home.WelcomeActivity}" drawable="weiyi"/>
+		<item component="ComponentInfo{com.kevinzhow.kanaoriginlite/com.kevinzhow.kanaoriginlite.HomeTab}" drawable="a_50yin"/>
+		<item component="ComponentInfo{com.bigwinepot.nwdn/com.bigwinepot.nwdn.MainActivity}" drawable="niwodangnian"/>
+		<item component="ComponentInfo{dxwt.questionnaire.ui/com.dxwt.community.activity.main.MainWeexActivity}" drawable="q10000"/>
+		<item component="ComponentInfo{com.wyd.hero.yqlfc.cb1.apk/com.unity.wydsdk.SplashActivity}" drawable="hero_yqlfc"/>
+		<item component="ComponentInfo{com.dabai.mag/com.e4a.runtime.android.StartActivity}" drawable="video_dabai"/>
+		<item component="ComponentInfo{com.example.administrator.searchpicturetool/com.example.administrator.searchpicturetool.launch.SplashEmptyActivity}" drawable="searchpicturetool"/>
+		<item component="ComponentInfo{com.diandianyingshi.app/com.diandianyingshi.app.ui.activity.SplashActivity}" drawable="video_diandian"/>
+		<item component="ComponentInfo{com.baidu.browser.apps/com.baidu.searchbox.SplashActivity}" drawable="baidu_browser"/>
+		<item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm_pro"/>
+		<item component="ComponentInfo{com.tencent.mtt.lt/com.tencent.mtt.SplashActivity}" drawable="qq_browser"/>
+		<item component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}" drawable="suning"/>
+
 
 
 
