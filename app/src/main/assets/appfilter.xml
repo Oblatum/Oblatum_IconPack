@@ -1743,6 +1743,8 @@
 		<item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm_pro"/>
 		<item component="ComponentInfo{com.tencent.mtt.lt/com.tencent.mtt.SplashActivity}" drawable="qq_browser"/>
 		<item component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}" drawable="suning"/>
+		<item component="ComponentInfo{com.dyh.hiker/com.dyh.movienow.ui.home.SplashActivity}" drawable="hiker"/>
+		<item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="wang_vpn"/>
 
 
 
