@@ -15,8 +15,9 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools"
-          package="com.oblatum.iconpack">
+
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.oblatum.iconpack">
 
     <!-- Permission required for donations -->
     <uses-permission android:name="com.android.vending.BILLING" />
@@ -29,8 +30,12 @@
         android:icon="@mipmap/ic_launcher"
 		android:roundIcon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:manageSpaceActivity="jahirfiquitiva.libs.blueprint.ui.activities.SettingsActivity"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
         android:supportsRtl="true"
-        android:theme="@style/MySplashScreen">
+        android:theme="@style/MySplashScreen"
+        tools:ignore="UnusedAttribute">
 
         <!-- TODO: Remove comment marks to enable Zooper
         <provider
@@ -304,14 +309,17 @@
         </activity>
 
         <!-- Muzei Service -->
-        <service
+        <provider
             android:name=".MuzeiService"
-            android:label="@string/app_name"
+            android:authorities="${applicationId}.muzei"
             android:description="@string/app_description"
+            android:exported="true"
             android:icon="@drawable/ic_muzei_icon"
+            android:label="@string/app_name"
+            android:permission="com.google.android.apps.muzei.api.ACCESS_PROVIDER"
             tools:ignore="ExportedService">
             <intent-filter>
-                <action android:name="com.google.android.apps.muzei.api.MuzeiArtSource" />
+                <action android:name="com.google.android.apps.muzei.api.MuzeiArtProvider" />
             </intent-filter>
 
             <meta-data
@@ -320,11 +328,11 @@
             <meta-data
                 android:name="settingsActivity"
                 android:value="jahirfiquitiva.libs.frames.ui.activities.MuzeiSettingsActivity" />
-        </service>
+        </provider>
 
         <!-- Required for files access !!! DO NOT REMOVE !!! -->
         <provider
-            android:name="android.support.v4.content.FileProvider"
+            android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true">

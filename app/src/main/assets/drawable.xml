@@ -21,16 +21,13 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="a_50yin" />
-		<item drawable="changzhou_subway" />
-		<item drawable="file_explorer" />
-		<item drawable="mobile_portal" />
-		<item drawable="niwodangnian" />
-		<item drawable="opera" />
-		<item drawable="skype_for_business" />
-		<item drawable="suning" />
-		<item drawable="torrse" />
-		<item drawable="weiyi" />
+		<item drawable="aurora_store" />
+		<item drawable="clash_for_android" />
+		<item drawable="classroom" />
+		<item drawable="du" />
+		<item drawable="edxposed_manager" />
+		<item drawable="feishu" />
+		<item drawable="ifont" />
 
 
 
@@ -350,6 +347,7 @@
 		<item drawable="asus_router_compressed" />
 		<item drawable="audiofx" />
 		<item drawable="audiofx_1" />
+		<item drawable="aurora_store" />
 		<item drawable="authenticator" />
 		<item drawable="authy2_compressed" />
 		<item drawable="autohome" />
@@ -454,9 +452,11 @@
 		<item drawable="ciyuanjn" />
 		<item drawable="cjzc" />
 		<item drawable="cjzc_1" />
+		<item drawable="clash_for_android" />
 		<item drawable="clash_of_clans" />
 		<item drawable="clash_royale" />
 		<item drawable="class_163" />
+		<item drawable="classroom" />
 		<item drawable="cliff" />
 		<item drawable="clock" />
 		<item drawable="clock_1" />
@@ -506,6 +506,7 @@
 		<item drawable="drawer_1" />
 		<item drawable="drcom" />
 		<item drawable="drops" />
+		<item drawable="du" />
 		<item drawable="duia" />
 		<item drawable="duokan_reader" />
 		<item drawable="duolingo" />
@@ -515,6 +516,7 @@
 		<item drawable="easy_share" />
 		<item drawable="ecloud" />
 		<item drawable="edgelighting" />
+		<item drawable="edxposed_manager" />
 		<item drawable="eh_viewer" />
 		<item drawable="eleme" />
 		<item drawable="email" />
@@ -558,6 +560,7 @@
 		<item drawable="fasthub" />
 		<item drawable="faxianjc" />
 		<item drawable="feedly" />
+		<item drawable="feishu" />
 		<item drawable="feizhu" />
 		<item drawable="file_explorer" />
 		<item drawable="files" />
@@ -679,6 +682,7 @@
 		<item drawable="ifanr" />
 		<item drawable="ifind_compressed" />
 		<item drawable="iflat" />
+		<item drawable="ifont" />
 		<item drawable="ifttt" />
 		<item drawable="imgur_compressed" />
 		<item drawable="implosion" />

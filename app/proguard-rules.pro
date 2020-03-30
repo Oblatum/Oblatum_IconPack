@@ -37,6 +37,9 @@
   **[] $VALUES;
   public *;
 }
+-keep public class com.bumptech.glide.integration.webp.WebpImage { *; }
+-keep public class com.bumptech.glide.integration.webp.WebpFrame { *; }
+-keep public class com.bumptech.glide.integration.webp.WebpBitmapFactory { *; }
 
 -keep class android.support.design.widget.NavigationView { *; }
 
@@ -62,6 +65,7 @@
 
 # Retain generic type information for use by reflection by converters and adapters.
 -keepattributes Signature
+-keepattributes InnerClasses
 # Retain service method parameters.
 -keepclassmembernames,allowobfuscation interface * {
     @retrofit2.http.* <methods>;

@@ -1745,6 +1745,22 @@
 		<item component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}" drawable="suning"/>
 		<item component="ComponentInfo{com.dyh.hiker/com.dyh.movienow.ui.home.SplashActivity}" drawable="hiker"/>
 		<item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="wang_vpn"/>
+		<item component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}" drawable="aurora_store"/>
+		<item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="clash_for_android"/>
+		<item component="ComponentInfo{org.meowcat.edxposed.manager/org.meowcat.edxposed.manager.WelcomeActivityMlgmXyysd}" drawable="edxposed_manager"/>
+		<item component="ComponentInfo{com.ss.android.lark/com.ss.android.lark.main.app.MainActivity}" drawable="feishu"/>
+		<item component="ComponentInfo{com.kapp.ifont/com.kapp.ifont.ui.SplashScreenActivity}" drawable="ifont"/>
+		<item component="ComponentInfo{com.shizhuang.duapp/com.shizhuang.duapp.modules.home.ui.SplashActivity}" drawable="du"/>
+		<item
+		component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}"
+		drawable="classroom"/>
+		<item
+		component="ComponentInfo{com.dv.adm/com.dv.get.Main}"
+		drawable="adm"/>
+		<item
+		component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
+		drawable="douyutv"/>
+
 
 
 

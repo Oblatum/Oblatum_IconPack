@@ -15,14 +15,12 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="V2.14.2" />
+    <version title="V2.15" />
     <item text="如果遇到遇到问题请加入qq群；" />
     <item text="所有PY不支持游戏、偏人物或手绘类图标！" />
-    <item text="共15项图标改动 + 2项图标改动" />
     <item text="加入新图标" />
-    <item text="优化软件内【检查更新】链接，现可以提示是否应该更新" />
-    <item text="新增【帮助文档】链接" />
-    <item text="删除【更多应用】等链接" />
+    <item text="新增适配Android 11" />
+    <item text="Blueprint Dashboard 升级至最新" />
     <item text="更新日志详见群内" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
