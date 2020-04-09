@@ -226,6 +226,7 @@
 		<item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
 		<item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" />
 		<item component="ComponentInfo{cn.nubia.browser/com.android.browser.BrowserLauncher}" drawable="browser" />
+		<item component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main2}" drawable="browser"/>
 
 		<item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="miui_browser" />
 		<item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="oneplus_browser"/>
@@ -1472,7 +1473,7 @@
 		<item component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}" drawable="qianji"/>
 		<item component="ComponentInfo{com.unnoo.quan/com.unnoo.quan.activities.StartActivity}" drawable="knowspace"/>
 		<item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice"/>
-		<item component="ComponentInfo{com.shanbay.speak/com.shanbay.speak.startup.activity.SplashActivity}" drawable="shanbei_words"/>
+		<item component="ComponentInfo{com.shanbay.speak/com.shanbay.speak.startup.activity.SplashActivity}" drawable="shanbei_speak"/>
 		<item component="ComponentInfo{cn.ikicker.moviefans/cn.ikicker.moviefans.ui.activity.SplashActivity}" drawable="movie_fans"/>
 		<item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="termux"/>
 		<item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
@@ -1760,7 +1761,72 @@
 		<item
 		component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
 		drawable="douyutv"/>
-
+		<item
+		component="ComponentInfo{com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup}"
+		drawable="perfect_viewer"/>
+		<item
+		component="ComponentInfo{me.drakeet.puremosaic/me.drakeet.puremosaic.MainActivity}"
+		drawable="pure_mosaic"/>
+		<item
+		component="ComponentInfo{rikka.searchbyimage/rikka.searchbyimage.ui.MainActivity}"
+		drawable="search_by_image"/>
+		<item
+		component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}"
+		drawable="mcdonalds"/>
+		<item
+		component="ComponentInfo{com.datong.dict/com.datong.dict.module.home.HomeActivity}"
+		drawable="datong_dict"/>
+		<item
+		component="ComponentInfo{com.torrentsearch.magnetsearch/com.torrse.torrentsearch.SplashActivity}"
+		drawable="torrse"/>
+		<item
+		component="ComponentInfo{com.modetime.yogurt/com.modetime.yogurt.activities.SplashActivity}"
+		drawable="yogurt_iconpack"/>
+		<item
+		component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}"
+		drawable="magenetman"/>
+		<item
+		component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity}"
+		drawable="meeye"/>
+		<item
+		component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}"
+		drawable="lawnchair"/>
+		<item
+		component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}"
+		drawable="miui_feedback"/>
+		<item
+		component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}"
+		drawable="kuaishou"/>
+		<item
+		component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.frame.PBEntryActivity}"
+		drawable="cmb"/>
+		<item
+		component="ComponentInfo{com.netease.vopen/com.netease.vopen.feature.welcome.WelcomeActivity}"
+		drawable="class_163"/>
+		<item
+		component="ComponentInfo{io.binstream.github.demo/com.jyzx8.fireplayer.SplashActivity}"
+		drawable="fireplayer"/>
+		<item
+		component="ComponentInfo{com.ht.video.ui/com.ht.video.ui.MainActivity}"
+		drawable="ht_video"/>
+		<item
+		component="ComponentInfo{dev.zx.com.supermovie/dev.zx.com.supermovie.PreActivity}"
+		drawable="jiguang_yingyuan"/>
+		<item
+		component="ComponentInfo{com.xuanke.kaochong/com.xuanke.kaochong.splash.SplashActivity}"
+		drawable="kaochong"/>
+		<item
+		component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}"
+		drawable="light_beauty"/>
+		<item
+		component="ComponentInfo{com.szzc.ucar.pilot/com.szzc.splash.SplashActivity}"
+		drawable="szzc"/>
+		<item
+		component="ComponentInfo{com.wei.account/com.wei.account.activity.PasswordVerifyActivity}"
+		drawable="wei_account"/>
+		<item
+		component="ComponentInfo{com.netease.mc.nearme.gamecenter/com.mojang.minecraftpe.MainActivity}"
+		drawable="minecraft"/>
 
 
 

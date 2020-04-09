@@ -36,6 +36,7 @@
 		<item>alimail</item>
 		<item>alipay</item>
 		<item>alipay_alt2</item>
+		<item>alipay_alt3</item>
 		<item>alipay_alt</item>
 		<item>aliqin</item>
 		<item>aliyun</item>
@@ -165,6 +166,7 @@
 		<item>chinaunicom</item>
 		<item>chrissen_card</item>
 		<item>chrome</item>
+		<item>chrome_alt1</item>
 		<item>chrome_beta</item>
 		<item>chrome_canary</item>
 		<item>chrome_dev</item>
@@ -204,6 +206,7 @@
 		<item>daodai</item>
 		<item>daojucheng</item>
 		<item>data_monitor</item>
+		<item>datong_dict</item>
 		<item>daydream</item>
 		<item>dear_translate</item>
 		<item>delve</item>
@@ -295,6 +298,7 @@
 		<item>firefox</item>
 		<item>firefox_focus</item>
 		<item>firefox_nightly</item>
+		<item>fireplayer</item>
 		<item>fit</item>
 		<item>fk_kernel_manager_compressed</item>
 		<item>flash_download</item>
@@ -423,6 +427,7 @@
 		<item>holi_weather</item>
 		<item>hook_model</item>
 		<item>hsbb</item>
+		<item>ht_video</item>
 		<item>huawei_fans</item>
 		<item>huawei_smarthome</item>
 		<item>hupu</item>
@@ -475,10 +480,12 @@
 		<item>jd_jinrong</item>
 		<item>jg12123</item>
 		<item>jiakao_baodian</item>
+		<item>jiguang_yingyuan</item>
 		<item>jike</item>
 		<item>jisu_browser</item>
 		<item>jmail</item>
 		<item>kakaotalk</item>
+		<item>kaochong</item>
 		<item>keep</item>
 		<item>kernel_adiutor</item>
 		<item>kfc</item>
@@ -496,6 +503,7 @@
 		<item>lbe_security</item>
 		<item>leafpic</item>
 		<item>lenovo_sync</item>
+		<item>light_beauty</item>
 		<item>light_start</item>
 		<item>line</item>
 		<item>line_lite</item>
@@ -536,6 +544,7 @@
 		<item>maoyan</item>
 		<item>maoyan_pro</item>
 		<item>mark_qrcode</item>
+		<item>mcdonalds</item>
 		<item>meetyou</item>
 		<item>meeye</item>
 		<item>meitu</item>
@@ -743,6 +752,7 @@
 		<item>pdd</item>
 		<item>pdd_1</item>
 		<item>peini</item>
+		<item>perfect_viewer</item>
 		<item>phicomm</item>
 		<item>phone</item>
 		<item>phone_1</item>
@@ -781,6 +791,7 @@
 		<item>pure_broswer</item>
 		<item>pure_icon_pack</item>
 		<item>pure_icon_pack_lite</item>
+		<item>pure_mosaic</item>
 		<item>pure_weather</item>
 		<item>puretie</item>
 		<item>pvz</item>
@@ -828,6 +839,7 @@
 		<item>samsung_smart_manager</item>
 		<item>sdcleaner</item>
 		<item>sdmaid</item>
+		<item>search_by_image</item>
 		<item>search_lite</item>
 		<item>searchpicturetool</item>
 		<item>secretinput</item>
@@ -921,6 +933,7 @@
 		<item>sz_citizencard</item>
 		<item>sz_citizencard_1</item>
 		<item>szfreego</item>
+		<item>szzc</item>
 		<item>t_12306</item>
 		<item>taichi</item>
 		<item>taobao</item>
