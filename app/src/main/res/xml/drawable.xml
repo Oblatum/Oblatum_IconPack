@@ -21,12 +21,28 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="fireplayer" />
-		<item drawable="ht_video" />
-		<item drawable="jiguang_yingyuan" />
-		<item drawable="kaochong" />
-		<item drawable="light_beauty" />
-		<item drawable="szzc" />
+		<item drawable="a_95fen" />
+		<item drawable="apkmirror" />
+		<item drawable="baiguoyuan" />
+		<item drawable="bubeidanci" />
+		<item drawable="dji_mimo" />
+		<item drawable="donghuabizhi" />
+		<item drawable="elexusclub" />
+		<item drawable="hanks_notes" />
+		<item drawable="huihuaweijian" />
+		<item drawable="lexus_mirror" />
+		<item drawable="luckin_coffee" />
+		<item drawable="mylexusdvrii" />
+		<item drawable="nearme_game_center" />
+		<item drawable="nice" />
+		<item drawable="oneplus_wallet" />
+		<item drawable="reburn" />
+		<item drawable="sound" />
+		<item drawable="taobao_live" />
+		<item drawable="wechat_work" />
+		<item drawable="wey" />
+		<item drawable="xiaoniu_diandong" />
+		<item drawable="xiaorichang" />
 
 
 
@@ -285,6 +301,7 @@
 		<item drawable="a_1more_assistant" />
 		<item drawable="a_1password_compressed" />
 		<item drawable="a_50yin" />
+		<item drawable="a_95fen" />
 		<item drawable="a_island" />
 		<item drawable="abbey" />
 		<item drawable="abc" />
@@ -334,6 +351,7 @@
 		<item drawable="anyview" />
 		<item drawable="apex" />
 		<item drawable="apk_store" />
+		<item drawable="apkmirror" />
 		<item drawable="apkpure" />
 		<item drawable="aplayer" />
 		<item drawable="app_logo" />
@@ -369,6 +387,8 @@
 		<item drawable="baidu_tieba" />
 		<item drawable="baidu_translate" />
 		<item drawable="baidu_tuiguang" />
+		<item drawable="baiguoyuan" />
+		<item drawable="baiguoyuan" />
 		<item drawable="baimiao" />
 		<item drawable="banciyuan_compressed" />
 		<item drawable="bangumi" />
@@ -417,6 +437,7 @@
 		<item drawable="browser" />
 		<item drawable="bsz" />
 		<item drawable="btkanba_player" />
+		<item drawable="bubeidanci" />
 		<item drawable="bullet_message" />
 		<item drawable="business_calendar" />
 		<item drawable="buyathome" />
@@ -497,8 +518,10 @@
 		<item drawable="discord" />
 		<item drawable="diyidan" />
 		<item drawable="dizzypassword" />
+		<item drawable="dji_mimo" />
 		<item drawable="dmzj" />
 		<item drawable="dnf_zhushou" />
+		<item drawable="donghuabizhi" />
 		<item drawable="douban" />
 		<item drawable="douyin" />
 		<item drawable="douyutv" />
@@ -521,6 +544,7 @@
 		<item drawable="edxposed_manager" />
 		<item drawable="eh_viewer" />
 		<item drawable="eleme" />
+		<item drawable="elexusclub" />
 		<item drawable="email" />
 		<item drawable="emore" />
 		<item drawable="emui_accountagent" />
@@ -652,6 +676,7 @@
 		<item drawable="habits" />
 		<item drawable="hangouts" />
 		<item drawable="hanju_tv" />
+		<item drawable="hanks_notes" />
 		<item drawable="haoce" />
 		<item drawable="happy_browser" />
 		<item drawable="happyelements" />
@@ -673,6 +698,7 @@
 		<item drawable="ht_video" />
 		<item drawable="huawei_fans" />
 		<item drawable="huawei_smarthome" />
+		<item drawable="huihuaweijian" />
 		<item drawable="hupu" />
 		<item drawable="hupu_shihuo" />
 		<item drawable="huyazhibo" />
@@ -731,6 +757,7 @@
 		<item drawable="lbe_security" />
 		<item drawable="leafpic" />
 		<item drawable="lenovo_sync" />
+		<item drawable="lexus_mirror" />
 		<item drawable="light_beauty" />
 		<item drawable="light_start" />
 		<item drawable="line" />
@@ -748,6 +775,7 @@
 		<item drawable="lovely_cat_crack" />
 		<item drawable="lovelycat" />
 		<item drawable="lp_iconpack" />
+		<item drawable="luckin_coffee" />
 		<item drawable="lucky_patch" />
 		<item drawable="ludashi" />
 		<item drawable="lushi" />
@@ -856,9 +884,11 @@
 		<item drawable="muzei_compressed" />
 		<item drawable="mx_player" />
 		<item drawable="myappscreenmask" />
+		<item drawable="mylexusdvrii" />
 		<item drawable="mystops" />
 		<item drawable="nanning_guidaojiaotong" />
 		<item drawable="nano" />
+		<item drawable="nearme_game_center" />
 		<item drawable="nekogram" />
 		<item drawable="nekogram_1" />
 		<item drawable="neoreader" />
@@ -880,6 +910,7 @@
 		<item drawable="nga" />
 		<item drawable="nga_git" />
 		<item drawable="nhbooks" />
+		<item drawable="nice" />
 		<item drawable="nimingban" />
 		<item drawable="nintendo_switch_online" />
 		<item drawable="niwodangnian" />
@@ -944,6 +975,7 @@
 		<item drawable="oneplus_setting" />
 		<item drawable="oneplus_soundrecorder" />
 		<item drawable="oneplus_switch" />
+		<item drawable="oneplus_wallet" />
 		<item drawable="onething_minecloud" />
 		<item drawable="openhub" />
 		<item drawable="opera" />
@@ -1044,6 +1076,7 @@
 		<item drawable="qunar" />
 		<item drawable="qzone" />
 		<item drawable="radio" />
+		<item drawable="reburn" />
 		<item drawable="register" />
 		<item drawable="retro_music" />
 		<item drawable="root_explorer" />
@@ -1118,6 +1151,7 @@
 		<item drawable="sougou_input" />
 		<item drawable="soul" />
 		<item drawable="soul_knight" />
+		<item drawable="sound" />
 		<item drawable="sound_recorder" />
 		<item drawable="soundcloud" />
 		<item drawable="spdbccc" />
@@ -1161,6 +1195,7 @@
 		<item drawable="taobao" />
 		<item drawable="taobao_1" />
 		<item drawable="taobao_islefish" />
+		<item drawable="taobao_live" />
 		<item drawable="taobao_movie" />
 		<item drawable="tap_and_go_compressed" />
 		<item drawable="tap_go" />
@@ -1246,6 +1281,7 @@
 		<item drawable="weather" />
 		<item drawable="weatherzone" />
 		<item drawable="wechat_scanonescan" />
+		<item drawable="wechat_work" />
 		<item drawable="wei_account" />
 		<item drawable="weibo" />
 		<item drawable="weibo_int" />
@@ -1258,6 +1294,8 @@
 		<item drawable="welike" />
 		<item drawable="wellbeing" />
 		<item drawable="wepop_compressed" />
+		<item drawable="wey" />
+		<item drawable="wey" />
 		<item drawable="whale_tv" />
 		<item drawable="whatsapp" />
 		<item drawable="wifilocating" />
@@ -1291,6 +1329,9 @@
 		<item drawable="xiaohongshu" />
 		<item drawable="xiaomi_shop" />
 		<item drawable="xiaomi_youpin" />
+		<item drawable="xiaoniu_diandong" />
+		<item drawable="xiaoniu_diandong" />
+		<item drawable="xiaorichang" />
 		<item drawable="xiaoxizhixing" />
 		<item drawable="ximalayafm" />
 		<item drawable="xinyue_vip" />
@@ -1338,4 +1379,10 @@
 		<item drawable="zlive_1" />
 		<item drawable="zonghengxiaoshuo" />
 		<item drawable="zzw" />
+		<item dynamic-drawable="clock" component="com.android.deskclock/com.android.deskclock.DeskClock" xml="clock" />
+		<item dynamic-drawable="clock" component="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" xml="clock" />
+		<item dynamic-drawable="google_calendar" component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity" xml="google_calendar" />
+		<item dynamic-drawable="ic_dynamic_weather_unknown" component="net.oneplus.weather/net.oneplus.weather.app.MainActivity" xml="weather" />
+		<item dynamic-drawable="oneplus_calendar" component="com.android.calendar/com.android.calendar.AllInOneActivity" xml="calendar" />
+		<item dynamic-drawable="oneplus_calendar" component="com.oneplus.calendar/com.android.calendar.AllInOneActivity" xml="calendar" />
 </resources>

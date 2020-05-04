@@ -4,6 +4,7 @@
 		<item>a_1more_assistant</item>
 		<item>a_1password_compressed</item>
 		<item>a_50yin</item>
+		<item>a_95fen</item>
 		<item>a_island</item>
 		<item>abbey</item>
 		<item>abc</item>
@@ -54,6 +55,7 @@
 		<item>anyview</item>
 		<item>apex</item>
 		<item>apk_store</item>
+		<item>apkmirror</item>
 		<item>apkpure</item>
 		<item>aplayer</item>
 		<item>app_logo</item>
@@ -92,6 +94,8 @@
 		<item>baidu_tieba</item>
 		<item>baidu_translate</item>
 		<item>baidu_tuiguang</item>
+		<item>baiguoyuan</item>
+		<item>baiguoyuan</item>
 		<item>baimiao</item>
 		<item>banciyuan_compressed</item>
 		<item>bangumi</item>
@@ -139,6 +143,7 @@
 		<item>browser</item>
 		<item>bsz</item>
 		<item>btkanba_player</item>
+		<item>bubeidanci</item>
 		<item>bullet_message</item>
 		<item>business_calendar</item>
 		<item>buyathome</item>
@@ -221,8 +226,10 @@
 		<item>discord</item>
 		<item>diyidan</item>
 		<item>dizzypassword</item>
+		<item>dji_mimo</item>
 		<item>dmzj</item>
 		<item>dnf_zhushou</item>
+		<item>donghuabizhi</item>
 		<item>douban</item>
 		<item>douyin</item>
 		<item>douyutv</item>
@@ -246,6 +253,7 @@
 		<item>edxposed_manager</item>
 		<item>eh_viewer</item>
 		<item>eleme</item>
+		<item>elexusclub</item>
 		<item>email</item>
 		<item>email</item>
 		<item>emore</item>
@@ -410,6 +418,7 @@
 		<item>habits</item>
 		<item>hangouts</item>
 		<item>hanju_tv</item>
+		<item>hanks_notes</item>
 		<item>haoce</item>
 		<item>happy_browser</item>
 		<item>happyelements</item>
@@ -430,6 +439,7 @@
 		<item>ht_video</item>
 		<item>huawei_fans</item>
 		<item>huawei_smarthome</item>
+		<item>huihuaweijian</item>
 		<item>hupu</item>
 		<item>hupu_shihuo</item>
 		<item>huyazhibo</item>
@@ -503,6 +513,7 @@
 		<item>lbe_security</item>
 		<item>leafpic</item>
 		<item>lenovo_sync</item>
+		<item>lexus_mirror</item>
 		<item>light_beauty</item>
 		<item>light_start</item>
 		<item>line</item>
@@ -520,6 +531,7 @@
 		<item>lovely_cat_crack</item>
 		<item>lovelycat</item>
 		<item>lp_iconpack</item>
+		<item>luckin_coffee</item>
 		<item>lucky_patch</item>
 		<item>lushi</item>
 		<item>lxqw</item>
@@ -630,10 +642,12 @@
 		<item>muzei_compressed</item>
 		<item>mx_player</item>
 		<item>myappscreenmask</item>
+		<item>mylexusdvrii</item>
 		<item>mystops</item>
 		<item>nanjing</item>
 		<item>nanning_guidaojiaotong</item>
 		<item>nano</item>
+		<item>nearme_game_center</item>
 		<item>nekogram</item>
 		<item>nekogram</item>
 		<item>nekogram_1</item>
@@ -655,6 +669,7 @@
 		<item>news_and_weather</item>
 		<item>nga</item>
 		<item>nga_git</item>
+		<item>nice</item>
 		<item>nimingban</item>
 		<item>nintendo_switch_online</item>
 		<item>niwodangnian</item>
@@ -722,6 +737,7 @@
 		<item>oneplus_setting</item>
 		<item>oneplus_soundrecorder</item>
 		<item>oneplus_switch</item>
+		<item>oneplus_wallet</item>
 		<item>onething_minecloud</item>
 		<item>openhub</item>
 		<item>opera</item>
@@ -823,6 +839,7 @@
 		<item>quickedit</item>
 		<item>qzone</item>
 		<item>radio</item>
+		<item>reburn</item>
 		<item>register</item>
 		<item>retro_music</item>
 		<item>root_explorer</item>
@@ -898,6 +915,7 @@
 		<item>souhu_video</item>
 		<item>soul</item>
 		<item>soul_knight</item>
+		<item>sound</item>
 		<item>sound_recorder</item>
 		<item>soundcloud</item>
 		<item>spdbccc</item>
@@ -938,6 +956,7 @@
 		<item>taichi</item>
 		<item>taobao</item>
 		<item>taobao_islefish</item>
+		<item>taobao_live</item>
 		<item>taobao_movie</item>
 		<item>tap_and_go_compressed</item>
 		<item>tap_go</item>
@@ -1025,6 +1044,7 @@
 		<item>weather</item>
 		<item>weatherzone</item>
 		<item>wechat_scanonescan</item>
+		<item>wechat_work</item>
 		<item>wei_account</item>
 		<item>weibo</item>
 		<item>weibo_int</item>
@@ -1037,6 +1057,8 @@
 		<item>welike</item>
 		<item>wellbeing</item>
 		<item>wepop_compressed</item>
+		<item>wey</item>
+		<item>wey</item>
 		<item>whale_tv</item>
 		<item>whatsapp</item>
 		<item>wifilocating</item>
@@ -1071,6 +1093,9 @@
 		<item>xiaohongshu</item>
 		<item>xiaomi_shop</item>
 		<item>xiaomi_youpin</item>
+		<item>xiaoniu_diandong</item>
+		<item>xiaoniu_diandong</item>
+		<item>xiaorichang</item>
 		<item>xiaoxizhixing</item>
 		<item>ximalayafm</item>
 		<item>xinyue_vip</item>
