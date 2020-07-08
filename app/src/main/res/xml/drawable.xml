@@ -1379,6 +1379,8 @@
 		<item drawable="zlive_1" />
 		<item drawable="zonghengxiaoshuo" />
 		<item drawable="zzw" />
+
+	<category title="Dynamic icon" />
 		<item dynamic-drawable="clock" component="com.android.deskclock/com.android.deskclock.DeskClock" xml="clock" />
 		<item dynamic-drawable="clock" component="com.oneplus.deskclock/com.oneplus.deskclock.DeskClock" xml="clock" />
 		<item dynamic-drawable="google_calendar" component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity" xml="google_calendar" />

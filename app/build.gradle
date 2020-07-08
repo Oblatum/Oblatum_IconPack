@@ -56,7 +56,7 @@ android {
         applicationId "com.oblatum.iconpack"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 258
+        versionCode 259
         versionName "2.15.4"
 				//版本号更新 2020.5.4)
         vectorDrawables.useSupportLibrary = true
