@@ -28,6 +28,7 @@
 		<item>advblock</item>
 		<item>aide</item>
 		<item>aikan_reader</item>
+		<item>ainanning</item>
 		<item>airbattery</item>
 		<item>airdroid</item>
 		<item>airfrozen</item>
@@ -410,6 +411,7 @@
 		<item>gotokeep</item>
 		<item>greenify</item>
 		<item>gta_sa</item>
+		<item>guangxinongxin</item>
 		<item>guanzhi_meiriyiwen</item>
 		<item>guizhou_sjcj</item>
 		<item>gumtree</item>
@@ -425,6 +427,7 @@
 		<item>hdzuoye</item>
 		<item>hearthstone</item>
 		<item>heiyu</item>
+		<item>hello_voice</item>
 		<item>hellobike</item>
 		<item>hema</item>
 		<item>hermit</item>
@@ -473,6 +476,7 @@
 		<item>iflat</item>
 		<item>ifont</item>
 		<item>ifttt</item>
+		<item>iherb</item>
 		<item>imgur_compressed</item>
 		<item>implosion</item>
 		<item>imzhiqiang_time</item>
@@ -579,6 +583,7 @@
 		<item>migu_video</item>
 		<item>mikutools</item>
 		<item>minecraft</item>
+		<item>mingrifangzhou</item>
 		<item>mini_metro</item>
 		<item>mint_bookkeeping</item>
 		<item>mipush</item>
@@ -644,6 +649,7 @@
 		<item>myappscreenmask</item>
 		<item>mylexusdvrii</item>
 		<item>mystops</item>
+		<item>nanguayingshi</item>
 		<item>nanjing</item>
 		<item>nanning_guidaojiaotong</item>
 		<item>nano</item>
@@ -1093,6 +1099,7 @@
 		<item>xiaohongshu</item>
 		<item>xiaomi_shop</item>
 		<item>xiaomi_youpin</item>
+		<item>xiaomiyidong</item>
 		<item>xiaoniu_diandong</item>
 		<item>xiaoniu_diandong</item>
 		<item>xiaorichang</item>
@@ -1143,6 +1150,7 @@
 		<item>zlive</item>
 		<item>zlive_1</item>
 		<item>zonghengxiaoshuo</item>
+		<item>zuiyou</item>
 		<item>zzw</item>
 	</string-array>
 </resources>

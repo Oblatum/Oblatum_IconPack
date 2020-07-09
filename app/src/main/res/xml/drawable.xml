@@ -21,30 +21,14 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="a_95fen" />
-		<item drawable="apkmirror" />
-		<item drawable="baiguoyuan" />
-		<item drawable="bubeidanci" />
-		<item drawable="dji_mimo" />
-		<item drawable="donghuabizhi" />
-		<item drawable="elexusclub" />
-		<item drawable="hanks_notes" />
-		<item drawable="huihuaweijian" />
-		<item drawable="lexus_mirror" />
-		<item drawable="luckin_coffee" />
-		<item drawable="mylexusdvrii" />
-		<item drawable="nearme_game_center" />
-		<item drawable="nice" />
-		<item drawable="oneplus_wallet" />
-		<item drawable="reburn" />
-		<item drawable="sound" />
-		<item drawable="taobao_live" />
-		<item drawable="wechat_work" />
-		<item drawable="wey" />
-		<item drawable="xiaoniu_diandong" />
-		<item drawable="xiaorichang" />
-
-
+		<item drawable="ainanning" />
+		<item drawable="guangxinongxin" />
+		<item drawable="hello_voice" />
+		<item drawable="iherb" />
+		<item drawable="mingrifangzhou" />
+		<item drawable="nanguayingshi" />
+		<item drawable="xiaomiyidong" />
+		<item drawable="zuiyou" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -74,7 +58,7 @@
 		<item drawable="sim_toolkit" />
 		<item drawable="weather" />
 
-	<category title="Google"/>
+	<category title="Google" />
 		<item drawable="cardboard_camera" />
 		<item drawable="cardboard" />
 		<item drawable="chrome_beta" />
@@ -186,6 +170,7 @@
 		<item drawable="miui_wallet" />
 		<item drawable="miui_xiao_ai" />
 		<item drawable="xiaomi_youpin" />
+		<item drawable="xiaomiyidong" />
 		<item drawable="xmhealth" />
 
 	<category title="EMUI" />
@@ -246,7 +231,7 @@
 		<item drawable="oppo_compass" />
 		<item drawable="oppo_data_supermarket" />
 		<item drawable="oppo_files" />
-		<item drawable="oppo_menber" />
+		<item drawable="oppo_member" />
 		<item drawable="oppo_music" />
 		<item drawable="oppo_notes" />
 		<item drawable="oppo_oroaming" />
@@ -260,7 +245,7 @@
 	<category title="Games" /><!-- Copy game icons here from All category -->
 		<item drawable="arcaea" />
 		<item drawable="benghuai2" />
-		<item drawable="benghuai3"/>
+		<item drawable="benghuai3" />
 		<item drawable="cjzc" />
 		<item drawable="cjzc_1" />
 		<item drawable="clash_of_clans" />
@@ -270,30 +255,31 @@
 		<item drawable="dragalia_lost" />
 		<item drawable="gta_sa" />
 		<item drawable="happyelements" />
-		<item drawable="hyxd"/>
+		<item drawable="hyxd" />
 		<item drawable="implosion" />
 		<item drawable="ingress" />
 		<item drawable="ingress_prime" />
 		<item drawable="kihan" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
-		<item drawable="minecraft"/>
+		<item drawable="minecraft" />
+		<item drawable="mingrifangzhou" />
 		<item drawable="mini_metro" />
 		<item drawable="monument2" />
 		<item drawable="mtgp_lol" />
 		<item drawable="netease_moba" />
-		<item drawable="netease_moba_bili"/>
+		<item drawable="netease_moba_bili" />
 		<item drawable="osu" />
 		<item drawable="pubgm" />
 		<item drawable="pvz" />
 		<item drawable="soul_knight" />
-		<item drawable="tencent_speedmobile"/>
+		<item drawable="tencent_speedmobile" />
 		<item drawable="vainglory" />
 		<item drawable="wzry" />
 		<item drawable="wzry_beta" />
 		<item drawable="wzry_helper" />
 		<item drawable="xbox" />
-		<item drawable="xmqz"/>
+		<item drawable="xmqz" />
 		<item drawable="yys" />
 		<item drawable="yyszs" />
 
@@ -623,7 +609,6 @@
 		<item drawable="gemini" />
 		<item drawable="geometric_weather" />
 		<item drawable="get" />
-		<item drawable="getAppfilter" />
 		<item drawable="gmail" />
 		<item drawable="gohosts" />
 		<item drawable="gome" />
@@ -659,7 +644,7 @@
 		<item drawable="google_slides" />
 		<item drawable="google_space" />
 		<item drawable="google_translate" />
-		<item drawable="google_vioce" />
+		<item drawable="google_voice" />
 		<item drawable="google_voice_search" />
 		<item drawable="google_wallpaper" />
 		<item drawable="google_wear" />
@@ -727,7 +712,6 @@
 		<item drawable="it_home" />
 		<item drawable="iwordnet" />
 		<item drawable="javiewer" />
-		<item drawable="jd" />
 		<item drawable="jd" />
 		<item drawable="jd_1" />
 		<item drawable="jd_jinrong" />
@@ -1155,7 +1139,6 @@
 		<item drawable="sound_recorder" />
 		<item drawable="soundcloud" />
 		<item drawable="spdbccc" />
-		<item drawable="speadtest" />
 		<item drawable="speedtest" />
 		<item drawable="spotify" />
 		<item drawable="ss" />

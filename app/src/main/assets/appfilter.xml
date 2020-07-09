@@ -1752,162 +1752,65 @@
 		<item component="ComponentInfo{com.ss.android.lark/com.ss.android.lark.main.app.MainActivity}" drawable="feishu"/>
 		<item component="ComponentInfo{com.kapp.ifont/com.kapp.ifont.ui.SplashScreenActivity}" drawable="ifont"/>
 		<item component="ComponentInfo{com.shizhuang.duapp/com.shizhuang.duapp.modules.home.ui.SplashActivity}" drawable="du"/>
-		<item
-		component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}"
-		drawable="classroom"/>
-		<item
-		component="ComponentInfo{com.dv.adm/com.dv.get.Main}"
-		drawable="adm"/>
-		<item
-		component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
-		drawable="douyutv"/>
-		<item
-		component="ComponentInfo{com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup}"
-		drawable="perfect_viewer"/>
-		<item
-		component="ComponentInfo{me.drakeet.puremosaic/me.drakeet.puremosaic.MainActivity}"
-		drawable="pure_mosaic"/>
-		<item
-		component="ComponentInfo{rikka.searchbyimage/rikka.searchbyimage.ui.MainActivity}"
-		drawable="search_by_image"/>
-		<item
-		component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}"
-		drawable="mcdonalds"/>
-		<item
-		component="ComponentInfo{com.datong.dict/com.datong.dict.module.home.HomeActivity}"
-		drawable="datong_dict"/>
-		<item
-		component="ComponentInfo{com.torrentsearch.magnetsearch/com.torrse.torrentsearch.SplashActivity}"
-		drawable="torrse"/>
-		<item
-		component="ComponentInfo{com.modetime.yogurt/com.modetime.yogurt.activities.SplashActivity}"
-		drawable="yogurt_iconpack"/>
-		<item
-		component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}"
-		drawable="magenetman"/>
-		<item
-		component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity}"
-		drawable="meeye"/>
-		<item
-		component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}"
-		drawable="lawnchair"/>
-		<item
-		component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}"
-		drawable="miui_feedback"/>
-		<item
-		component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}"
-		drawable="kuaishou"/>
-		<item
-		component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.frame.PBEntryActivity}"
-		drawable="cmb"/>
-		<item
-		component="ComponentInfo{com.netease.vopen/com.netease.vopen.feature.welcome.WelcomeActivity}"
-		drawable="class_163"/>
-		<item
-		component="ComponentInfo{io.binstream.github.demo/com.jyzx8.fireplayer.SplashActivity}"
-		drawable="fireplayer"/>
-		<item
-		component="ComponentInfo{com.ht.video.ui/com.ht.video.ui.MainActivity}"
-		drawable="ht_video"/>
-		<item
-		component="ComponentInfo{dev.zx.com.supermovie/dev.zx.com.supermovie.PreActivity}"
-		drawable="jiguang_yingyuan"/>
-		<item
-		component="ComponentInfo{com.xuanke.kaochong/com.xuanke.kaochong.splash.SplashActivity}"
-		drawable="kaochong"/>
-		<item
-		component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}"
-		drawable="light_beauty"/>
-		<item
-		component="ComponentInfo{com.szzc.ucar.pilot/com.szzc.splash.SplashActivity}"
-		drawable="szzc"/>
-		<item
-		component="ComponentInfo{com.wei.account/com.wei.account.activity.PasswordVerifyActivity}"
-		drawable="wei_account"/>
-		<item
-		component="ComponentInfo{com.netease.mc.nearme.gamecenter/com.mojang.minecraftpe.MainActivity}"
-		drawable="minecraft"/>
-		<item
-		component="ComponentInfo{com.niu.cloud/com.niu.cloud.launch.WelcomeActivity}"
-		drawable="xiaoniu_diandong"/>
-		<item
-		component="ComponentInfo{com.navinfo.gwead/com.navinfo.gwead.business.main.view.HomeActivity}"
-		drawable="wey"/>
-		<item
-		component="ComponentInfo{com.pagoda.buy/com.pagoda.buy.icon_default}"
-		drawable="baiguoyuan"/>
-		<item
-		component="ComponentInfo{com.taobao.live/com.taobao.live.SplashActivity}"
-		drawable="taobao_live"/>
-		<item
-		component="ComponentInfo{com.android.yzd.habit/com.android.yzd.habit.ui.activity.SplashActivity}"
-		drawable="xiaorichang"/>
-		<item
-		component="ComponentInfo{com.jiuwu/com.jiuwu.view.welcome.WelcomeActivity}"
-		drawable="a_95fen"/>
-		<item
-		component="ComponentInfo{cf.vojtechh.apkmirror/cf.vojtechh.apkmirror.activities.MainActivity}"
-		drawable="apkmirror"/>
-		<item
-		component="ComponentInfo{dji.mimo/dji.mimo.main.DJISplashActivity}"
-		drawable="dji_mimo"/>
-		<item
-		component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}"
-		drawable="nearme_game_center"/>
-		<item
-		component="ComponentInfo{com.wificam.i9211tmci/com.goodview.i9211tmci.StartActivity}"
-		drawable="lexus_mirror"/>\
-		<item
-		component="ComponentInfo{com.ultronix.mylexusdvrii/com.amba.app.SplashActivity}"
-		drawable="mylexusdvrii"/>
-		<item
-		component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}"
-		drawable="wechat_work"/>
-		<item
-		component="ComponentInfo{cn.co.toyota_ms.smartGLINK/cn.co.toyota_ms.smartGLINK.activity.LoginSplashActivity}"
-		drawable="elexusclub"/>
-		<item
-		component="ComponentInfo{com.srm.blurscalewallpaper/com.srm.blurscalewallpaper.ui.MainActivity}"
-		drawable="donghuabizhi"/>
-		<item
-		component="ComponentInfo{com.example.raccoon.dialogwidget/com.example.raccoon.dialogwidget.app.activity.main.MainActivity}"
-		drawable="huihuaweijian"/>
-		<item
-		component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}"
-		drawable="bubeidanci"/>
-		<item
-		component="ComponentInfo{com.nice.main/com.nice.main.activities.MainActivity_}"
-		drawable="nice"/>
-		<item
-		component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}"
-		drawable="luckin_coffee"/>
-		<item
-		component="ComponentInfo{com.finshell.wallet/com.nearme.wallet.SplashActivity}"
-		drawable="oneplus_wallet"/>
-		<item
-		component="ComponentInfo{com.jabra.moments/com.jabra.moments.ui.splash.SplashActivity}"
-		drawable="sound"/>
-		<item
-		component="ComponentInfo{com.yagyuushino.reburn/com.yagyuushino.reburn.activity.MainActivity}"
-		drawable="reburn"/>
-		<item
-		component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}"
-		drawable="hanks_notes"/>
-		<item
-		component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}"
-		drawable="superstar"/>
-		<item
-		component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}"
-		drawable="ucmooc"/>
-		<item
-		component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}"
-		drawable="lawnchair"/>
-
-
-
-
-
-
+		<item component="ComponentInfo{com.oppo.usercenter/com.oppo.usercenter.vip.UCVIPMainActivity}" drawable="oppo_member" />
+		<item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}" drawable="classroom"/>
+		<item component="ComponentInfo{com.dv.adm/com.dv.get.Main}" drawable="adm"/>
+		<item component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}" drawable="douyutv"/>
+		<item component="ComponentInfo{com.rookiestudio.perfectviewer/com.rookiestudio.perfectviewer.TStartup}" drawable="perfect_viewer"/>
+		<item component="ComponentInfo{me.drakeet.puremosaic/me.drakeet.puremosaic.MainActivity}" drawable="pure_mosaic"/>
+		<item component="ComponentInfo{rikka.searchbyimage/rikka.searchbyimage.ui.MainActivity}" drawable="search_by_image"/>
+		<item component="ComponentInfo{com.mcdonalds.gma.cn/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mcdonalds"/>
+		<item component="ComponentInfo{com.datong.dict/com.datong.dict.module.home.HomeActivity}" drawable="datong_dict"/>
+		<item component="ComponentInfo{com.torrentsearch.magnetsearch/com.torrse.torrentsearch.SplashActivity}" drawable="torrse"/>
+		<item component="ComponentInfo{com.modetime.yogurt/com.modetime.yogurt.activities.SplashActivity}" drawable="yogurt_iconpack"/>
+		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magenetman"/>
+		<item component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity}" drawable="meeye"/>
+		<item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.LawnchairLauncher}" drawable="lawnchair"/>
+		<item component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}" drawable="miui_feedback"/>
+		<item component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}" drawable="kuaishou"/>
+		<item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.frame.PBEntryActivity}" drawable="cmb"/>
+		<item component="ComponentInfo{com.netease.vopen/com.netease.vopen.feature.welcome.WelcomeActivity}" drawable="class_163"/>
+		<item component="ComponentInfo{io.binstream.github.demo/com.jyzx8.fireplayer.SplashActivity}" drawable="fireplayer"/>
+		<item component="ComponentInfo{com.ht.video.ui/com.ht.video.ui.MainActivity}" drawable="ht_video"/>
+		<item component="ComponentInfo{dev.zx.com.supermovie/dev.zx.com.supermovie.PreActivity}" drawable="jiguang_yingyuan"/>
+		<item component="ComponentInfo{com.xuanke.kaochong/com.xuanke.kaochong.splash.SplashActivity}" drawable="kaochong"/>
+		<item component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}" drawable="light_beauty"/>
+		<item component="ComponentInfo{com.szzc.ucar.pilot/com.szzc.splash.SplashActivity}" drawable="szzc"/>
+		<item component="ComponentInfo{com.wei.account/com.wei.account.activity.PasswordVerifyActivity}" drawable="wei_account"/>
+		<item component="ComponentInfo{com.netease.mc.nearme.gamecenter/com.mojang.minecraftpe.MainActivity}" drawable="minecraft"/>
+		<item component="ComponentInfo{com.niu.cloud/com.niu.cloud.launch.WelcomeActivity}" drawable="xiaoniu_diandong"/>
+		<item component="ComponentInfo{com.navinfo.gwead/com.navinfo.gwead.business.main.view.HomeActivity}" drawable="wey"/>
+		<item component="ComponentInfo{com.pagoda.buy/com.pagoda.buy.icon_default}" drawable="baiguoyuan"/>
+		<item component="ComponentInfo{com.taobao.live/com.taobao.live.SplashActivity}" drawable="taobao_live"/>
+		<item component="ComponentInfo{com.android.yzd.habit/com.android.yzd.habit.ui.activity.SplashActivity}" drawable="xiaorichang"/>
+		<item component="ComponentInfo{com.jiuwu/com.jiuwu.view.welcome.WelcomeActivity}" drawable="a_95fen"/>
+		<item component="ComponentInfo{cf.vojtechh.apkmirror/cf.vojtechh.apkmirror.activities.MainActivity}" drawable="apkmirror"/>
+		<item component="ComponentInfo{dji.mimo/dji.mimo.main.DJISplashActivity}" drawable="dji_mimo"/>
+		<item component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}" drawable="nearme_game_center"/>
+		<item component="ComponentInfo{com.wificam.i9211tmci/com.goodview.i9211tmci.StartActivity}" drawable="lexus_mirror"/>\
+		<item component="ComponentInfo{com.ultronix.mylexusdvrii/com.amba.app.SplashActivity}" drawable="mylexusdvrii"/>
+		<item component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}" drawable="wechat_work"/>
+		<item component="ComponentInfo{cn.co.toyota_ms.smartGLINK/cn.co.toyota_ms.smartGLINK.activity.LoginSplashActivity}" drawable="elexusclub"/>
+		<item component="ComponentInfo{com.srm.blurscalewallpaper/com.srm.blurscalewallpaper.ui.MainActivity}" drawable="donghuabizhi"/>
+		<item component="ComponentInfo{com.example.raccoon.dialogwidget/com.example.raccoon.dialogwidget.app.activity.main.MainActivity}" drawable="huihuaweijian"/>
+		<item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="bubeidanci"/>
+		<item component="ComponentInfo{com.nice.main/com.nice.main.activities.MainActivity_}" drawable="nice"/>
+		<item component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}" drawable="luckin_coffee"/>
+		<item component="ComponentInfo{com.finshell.wallet/com.nearme.wallet.SplashActivity}" drawable="oneplus_wallet"/>
+		<item component="ComponentInfo{com.jabra.moments/com.jabra.moments.ui.splash.SplashActivity}" drawable="sound"/>
+		<item component="ComponentInfo{com.yagyuushino.reburn/com.yagyuushino.reburn.activity.MainActivity}" drawable="reburn"/>
+		<item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="hanks_notes"/>
+		<item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="superstar"/>
+		<item component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}" drawable="ucmooc"/>
+		<item component="ComponentInfo{ch.deletescape.lawnchair.plah/ch.deletescape.lawnchair.settings.ui.SettingsLauncherActivity}" drawable="lawnchair"/>
+		<item component="ComponentInfo{com.cloudbae.lovenanning/com.cloudbae.lovenanning.login.view.WelComeActivity}" drawable="ainanning"/> 
+		<item component="ComponentInfo{com.pumpkinteam.pumpkinplayer/com.video.test.module.homepage.HomepageActivity}" drawable="nanguayingshi"/> 
+		<item component="ComponentInfo{com.nxy.mobilebank.gx/com.nxy.mobilebank.activity.SplashActivity}" drawable="guangxinongxin"/> 
+		<item component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}" drawable="zuiyou"/> 
+		<item component="ComponentInfo{com.xiaomi.mimobile/com.xiaomi.mimobile.activity.StartActivity}" drawable="xiaomiyidong"/> 
+		<item component="ComponentInfo{com.yy.huanju/com.yy.huanju.startup.SplashActivity}" drawable="hello_voice"/> 
+		<item component="ComponentInfo{com.hypergryph.arknights/com.u8.sdk.U8UnityContext}" drawable="mingrifangzhou"/> 
+		<item component="ComponentInfo{com.iherb.cn/com.iherb.other.BeforeSplashActivity}" drawable="iherb"/>
 
 	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
