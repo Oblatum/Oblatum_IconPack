@@ -21,14 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="ainanning" />
-		<item drawable="guangxinongxin" />
-		<item drawable="hello_voice" />
-		<item drawable="iherb" />
-		<item drawable="mingrifangzhou" />
-		<item drawable="nanguayingshi" />
-		<item drawable="xiaomiyidong" />
-		<item drawable="zuiyou" />
+		<item drawable="emoticoncreater" />
+		<item drawable="gjzs" />
+		<item drawable="hsrj" />
+		<item drawable="reflower" />
+		<item drawable="shansong" />
+		<item drawable="sporteditor" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -533,6 +531,7 @@
 		<item drawable="elexusclub" />
 		<item drawable="email" />
 		<item drawable="emore" />
+		<item drawable="emoticoncreater" />
 		<item drawable="emui_accountagent" />
 		<item drawable="emui_bone" />
 		<item drawable="emui_calculator" />
@@ -609,6 +608,7 @@
 		<item drawable="gemini" />
 		<item drawable="geometric_weather" />
 		<item drawable="get" />
+		<item drawable="gjzs" />
 		<item drawable="gmail" />
 		<item drawable="gohosts" />
 		<item drawable="gome" />
@@ -680,6 +680,7 @@
 		<item drawable="holi_weather" />
 		<item drawable="hook_model" />
 		<item drawable="hsbb" />
+		<item drawable="hsrj" />
 		<item drawable="ht_video" />
 		<item drawable="huawei_fans" />
 		<item drawable="huawei_smarthome" />
@@ -1061,6 +1062,7 @@
 		<item drawable="qzone" />
 		<item drawable="radio" />
 		<item drawable="reburn" />
+		<item drawable="reflower" />
 		<item drawable="register" />
 		<item drawable="retro_music" />
 		<item drawable="root_explorer" />
@@ -1095,6 +1097,7 @@
 		<item drawable="shanbay_news" />
 		<item drawable="shanbay_speak" />
 		<item drawable="shanbei_words" />
+		<item drawable="shansong" />
 		<item drawable="share" />
 		<item drawable="sharepoint" />
 		<item drawable="shazam" />
@@ -1140,6 +1143,7 @@
 		<item drawable="soundcloud" />
 		<item drawable="spdbccc" />
 		<item drawable="speedtest" />
+		<item drawable="sporteditor" />
 		<item drawable="spotify" />
 		<item drawable="ss" />
 		<item drawable="ss_auto_dcd" />

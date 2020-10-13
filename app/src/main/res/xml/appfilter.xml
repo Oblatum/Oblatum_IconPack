@@ -1811,6 +1811,12 @@
 		<item component="ComponentInfo{com.yy.huanju/com.yy.huanju.startup.SplashActivity}" drawable="hello_voice"/> 
 		<item component="ComponentInfo{com.hypergryph.arknights/com.u8.sdk.U8UnityContext}" drawable="mingrifangzhou"/> 
 		<item component="ComponentInfo{com.iherb.cn/com.iherb.other.BeforeSplashActivity}" drawable="iherb"/>
+		<item component="ComponentInfo{com.android.emoticoncreater/com.android.emoticoncreater.ui.activity.MainActivity}" drawable="emoticoncreater"/>
+		<item component="ComponentInfo{Han.GJZS/com.projectkr.shell.SplashActivity}" drawable="gjzs"/>
+		<item component="ComponentInfo{com.reflower.flower/com.reflower.flower.ui.activity.SplashActivity}" drawable="reflower"/>
+		<item component="ComponentInfo{com.jf.lkrj/com.jf.lkrj.SplashActivity}" drawable="hsrj"/>
+		<item component="ComponentInfo{cn.ishansong/cn.ishansong.activity.SplashActivity}" drawable="shansong"/>
+		<item component="ComponentInfo{name.caiyao.sporteditor/name.caiyao.sporteditor.MainActivityAlias}" drawable="sporteditor"/>
 
 	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
