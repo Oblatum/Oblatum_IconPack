@@ -1817,7 +1817,16 @@
 		<item component="ComponentInfo{com.jf.lkrj/com.jf.lkrj.SplashActivity}" drawable="hsrj"/>
 		<item component="ComponentInfo{cn.ishansong/cn.ishansong.activity.SplashActivity}" drawable="shansong"/>
 		<item component="ComponentInfo{name.caiyao.sporteditor/name.caiyao.sporteditor.MainActivityAlias}" drawable="sporteditor"/>
-	
+		<item component="ComponentInfo{au.com.buyathome.android/au.com.buyathome.android.SplishActivity}" drawable="buy_home"/>
+		<item component="ComponentInfo{com.easi.customer/com.easi.customer.SplashActivityV2}" drawable="easi"/>
+		<item component="ComponentInfo{com.google.android.apps.subscriptions.red/com.google.android.apps.subscriptions.red.LauncherActivity}" drawable="google_one"/>
+		<item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts"/>
+		<item component="ComponentInfo{com.xh.kancn/com.xh.kancn.page.splashactivity.SplashActivity}" drawable="kancn"/>
+		<item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="meituan"/>
+		<item component="ComponentInfo{com.vmos.app/com.vmos.app.NewSurActivity}" drawable="vmos"/>
+
+
+
 	<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" xml="weather" />

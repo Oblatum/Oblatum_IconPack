@@ -21,12 +21,30 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="emoticoncreater" />
-		<item drawable="gjzs" />
-		<item drawable="hsrj" />
-		<item drawable="reflower" />
-		<item drawable="shansong" />
-		<item drawable="sporteditor" />
+		<item drawable="alook" />
+		<item drawable="brawl_stars" />
+		<item drawable="buy_home" />
+		<item drawable="ccplay_cc" />
+		<item drawable="duo_mobile" />
+		<item drawable="easi" />
+		<item drawable="fenqile" />
+		<item drawable="focusnote" />
+		<item drawable="google_one" />
+		<item drawable="google_podcasts" />
+		<item drawable="guazi" />
+		<item drawable="honeybee" />
+		<item drawable="jianying" />
+		<item drawable="kancn" />
+		<item drawable="lyft" />
+		<item drawable="meituan" />
+		<item drawable="mix" />
+		<item drawable="moon_fm" />
+		<item drawable="pcr" />
+		<item drawable="tencent_edu" />
+		<item drawable="timo" />
+		<item drawable="turing_wallpaper" />
+		<item drawable="vmos" />
+
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
@@ -324,6 +342,7 @@
 		<item drawable="aliyun_alink" />
 		<item drawable="allhistory" />
 		<item drawable="aloha" />
+		<item drawable="alook" />
 		<item drawable="amazon" />
 		<item drawable="amazon_1" />
 		<item drawable="ampere" />
@@ -417,6 +436,7 @@
 		<item drawable="bose_connect" />
 		<item drawable="bosszhipin" />
 		<item drawable="brainmusic" />
+		<item drawable="brawl_stars" />
 		<item drawable="breeno_voice" />
 		<item drawable="browser" />
 		<item drawable="bsz" />
@@ -424,6 +444,7 @@
 		<item drawable="bubeidanci" />
 		<item drawable="bullet_message" />
 		<item drawable="business_calendar" />
+		<item drawable="buy_home" />
 		<item drawable="buyathome" />
 		<item drawable="caihong_world" />
 		<item drawable="cainiao" />
@@ -437,6 +458,7 @@
 		<item drawable="cardboard" />
 		<item drawable="cardboard_camera" />
 		<item drawable="ccb" />
+		<item drawable="ccplay_cc" />
 		<item drawable="cebbank" />
 		<item drawable="changsha_metro" />
 		<item drawable="changzhou_subway" />
@@ -517,11 +539,13 @@
 		<item drawable="drops" />
 		<item drawable="du" />
 		<item drawable="duia" />
+		<item drawable="duo_mobile" />
 		<item drawable="duokan_reader" />
 		<item drawable="duolingo" />
 		<item drawable="duxiaoman" />
 		<item drawable="dxy" />
 		<item drawable="earth" />
+		<item drawable="easi" />
 		<item drawable="easy_share" />
 		<item drawable="ecloud" />
 		<item drawable="edgelighting" />
@@ -573,6 +597,7 @@
 		<item drawable="feedly" />
 		<item drawable="feishu" />
 		<item drawable="feizhu" />
+		<item drawable="fenqile" />
 		<item drawable="file_explorer" />
 		<item drawable="files" />
 		<item drawable="files_go" />
@@ -585,6 +610,7 @@
 		<item drawable="flash_download" />
 		<item drawable="flipboard" />
 		<item drawable="fluid_n_g" />
+		<item drawable="focusnote" />
 		<item drawable="folder_google" />
 		<item drawable="folder_iconpack" />
 		<item drawable="folder_masturbation" />
@@ -628,6 +654,7 @@
 		<item drawable="google_maps" />
 		<item drawable="google_message" />
 		<item drawable="google_now_launcher" />
+		<item drawable="google_one" />
 		<item drawable="google_opinion_rewards" />
 		<item drawable="google_pay" />
 		<item drawable="google_phone" />
@@ -641,6 +668,7 @@
 		<item drawable="google_play_music" />
 		<item drawable="google_play_newsstand" />
 		<item drawable="google_plus" />
+		<item drawable="google_podcasts" />
 		<item drawable="google_slides" />
 		<item drawable="google_space" />
 		<item drawable="google_translate" />
@@ -654,6 +682,7 @@
 		<item drawable="greenify" />
 		<item drawable="gta_sa" />
 		<item drawable="guanzhi_meiriyiwen" />
+		<item drawable="guazi" />
 		<item drawable="guizhou_sjcj" />
 		<item drawable="gumtree" />
 		<item drawable="gxicon" />
@@ -678,6 +707,7 @@
 		<item drawable="hiker" />
 		<item drawable="hola" />
 		<item drawable="holi_weather" />
+		<item drawable="honeybee" />
 		<item drawable="hook_model" />
 		<item drawable="hsbb" />
 		<item drawable="hsrj" />
@@ -718,12 +748,14 @@
 		<item drawable="jd_jinrong" />
 		<item drawable="jg12123" />
 		<item drawable="jiakao_baodian" />
+		<item drawable="jianying" />
 		<item drawable="jiaoyicat" />
 		<item drawable="jiguang_yingyuan" />
 		<item drawable="jike" />
 		<item drawable="jisu_browser" />
 		<item drawable="jmail" />
 		<item drawable="kakaotalk" />
+		<item drawable="kancn" />
 		<item drawable="kaochong" />
 		<item drawable="keep" />
 		<item drawable="kernel_adiutor" />
@@ -765,6 +797,7 @@
 		<item drawable="ludashi" />
 		<item drawable="lushi" />
 		<item drawable="lxqw" />
+		<item drawable="lyft" />
 		<item drawable="magenetman" />
 		<item drawable="magic_magnet" />
 		<item drawable="magicalstory_cleaner" />
@@ -832,6 +865,7 @@
 		<item drawable="miui_wallet" />
 		<item drawable="miui_xiao_ai" />
 		<item drawable="miuihd" />
+		<item drawable="mix" />
 		<item drawable="mix_explorer" />
 		<item drawable="mjweather" />
 		<item drawable="mjweather_light" />
@@ -849,6 +883,7 @@
 		<item drawable="monkeybook" />
 		<item drawable="monument" />
 		<item drawable="monument2" />
+		<item drawable="moon_fm" />
 		<item drawable="moonreader" />
 		<item drawable="moshouzhushou" />
 		<item drawable="mosoteach" />
@@ -989,6 +1024,7 @@
 		<item drawable="pandatv" />
 		<item drawable="paypal" />
 		<item drawable="pcauto" />
+		<item drawable="pcr" />
 		<item drawable="pdd" />
 		<item drawable="pdd_1" />
 		<item drawable="peini" />
@@ -1192,6 +1228,7 @@
 		<item drawable="telegram" />
 		<item drawable="telegram_x" />
 		<item drawable="telstra247" />
+		<item drawable="tencent_edu" />
 		<item drawable="tencent_filemanager" />
 		<item drawable="tencent_karaoke" />
 		<item drawable="tencent_maps" />
@@ -1210,6 +1247,7 @@
 		<item drawable="tide" />
 		<item drawable="tieyou" />
 		<item drawable="tim" />
+		<item drawable="timo" />
 		<item drawable="titaniumbackup" />
 		<item drawable="tmall" />
 		<item drawable="tmgp_cf" />
@@ -1226,6 +1264,7 @@
 		<item drawable="troye_sivan" />
 		<item drawable="tuchong" />
 		<item drawable="tumblr" />
+		<item drawable="turing_wallpaper" />
 		<item drawable="twitch" />
 		<item drawable="twitter" />
 		<item drawable="twrp" />
@@ -1253,6 +1292,7 @@
 		<item drawable="vk_compressed" />
 		<item drawable="vlc" />
 		<item drawable="vmall" />
+		<item drawable="vmos" />
 		<item drawable="voez" />
 		<item drawable="voice_tmall" />
 		<item drawable="vue" />

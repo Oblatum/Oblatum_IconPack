@@ -45,6 +45,7 @@
 		<item>aliyun_alink</item>
 		<item>allhistory</item>
 		<item>aloha</item>
+		<item>alook</item>
 		<item>amazon</item>
 		<item>amazon_1</item>
 		<item>ampere</item>
@@ -140,6 +141,7 @@
 		<item>bose_connect</item>
 		<item>bosszhipin</item>
 		<item>brainmusic</item>
+		<item>brawl_stars</item>
 		<item>breeno_voice</item>
 		<item>browser</item>
 		<item>bsz</item>
@@ -147,6 +149,7 @@
 		<item>bubeidanci</item>
 		<item>bullet_message</item>
 		<item>business_calendar</item>
+		<item>buy_home</item>
 		<item>buyathome</item>
 		<item>caihong_world</item>
 		<item>cainiao</item>
@@ -160,6 +163,7 @@
 		<item>cardboard</item>
 		<item>cardboard_camera</item>
 		<item>ccb</item>
+		<item>ccplay_cc</item>
 		<item>cebbank</item>
 		<item>changsha_metro</item>
 		<item>changzhou_subway</item>
@@ -243,11 +247,13 @@
 		<item>du</item>
 		<item>duia</item>
 		<item>duitang</item>
+		<item>duo_mobile</item>
 		<item>duokan_reader</item>
 		<item>duolingo</item>
 		<item>duxiaoman</item>
 		<item>dxy</item>
 		<item>earth</item>
+		<item>easi</item>
 		<item>easy_share</item>
 		<item>ecloud</item>
 		<item>edgelighting</item>
@@ -303,6 +309,7 @@
 		<item>feedly</item>
 		<item>feishu</item>
 		<item>feizhu</item>
+		<item>fenqile</item>
 		<item>file_explorer</item>
 		<item>files</item>
 		<item>files_go</item>
@@ -315,6 +322,7 @@
 		<item>flash_download</item>
 		<item>flipboard</item>
 		<item>fluid_n_g</item>
+		<item>focusnote</item>
 		<item>folder_google</item>
 		<item>folder_iconpack</item>
 		<item>folder_masturbation</item>
@@ -359,6 +367,7 @@
 		<item>google_maps</item>
 		<item>google_message</item>
 		<item>google_now_launcher</item>
+		<item>google_one</item>
 		<item>google_opinion_rewards</item>
 		<item>google_pay</item>
 		<item>google_phone</item>
@@ -372,6 +381,7 @@
 		<item>google_play_music</item>
 		<item>google_play_newsstand</item>
 		<item>google_plus</item>
+		<item>google_podcasts</item>
 		<item>google_slides</item>
 		<item>google_space</item>
 		<item>google_translate</item>
@@ -417,6 +427,7 @@
 		<item>gta_sa</item>
 		<item>guangxinongxin</item>
 		<item>guanzhi_meiriyiwen</item>
+		<item>guazi</item>
 		<item>guizhou_sjcj</item>
 		<item>gumtree</item>
 		<item>gxicon</item>
@@ -441,6 +452,7 @@
 		<item>hiker</item>
 		<item>hola</item>
 		<item>holi_weather</item>
+		<item>honeybee</item>
 		<item>hook_model</item>
 		<item>hsbb</item>
 		<item>hsrj</item>
@@ -500,11 +512,13 @@
 		<item>jd_jinrong</item>
 		<item>jg12123</item>
 		<item>jiakao_baodian</item>
+		<item>jianying</item>
 		<item>jiguang_yingyuan</item>
 		<item>jike</item>
 		<item>jisu_browser</item>
 		<item>jmail</item>
 		<item>kakaotalk</item>
+		<item>kancn</item>
 		<item>kaochong</item>
 		<item>keep</item>
 		<item>kernel_adiutor</item>
@@ -545,6 +559,7 @@
 		<item>lucky_patch</item>
 		<item>lushi</item>
 		<item>lxqw</item>
+		<item>lyft</item>
 		<item>magenetman</item>
 		<item>magic_magnet</item>
 		<item>magicalstory_cleaner</item>
@@ -615,6 +630,7 @@
 		<item>miui_wallet</item>
 		<item>miui_xiao_ai</item>
 		<item>miuihd</item>
+		<item>mix</item>
 		<item>mix_explorer</item>
 		<item>mjweather</item>
 		<item>mjweather_light</item>
@@ -633,6 +649,7 @@
 		<item>monkeybook</item>
 		<item>monument2</item>
 		<item>monument</item>
+		<item>moon_fm</item>
 		<item>moonreader</item>
 		<item>moshouzhushou</item>
 		<item>mosoteach</item>
@@ -777,6 +794,7 @@
 		<item>pandatv</item>
 		<item>paypal</item>
 		<item>pcauto</item>
+		<item>pcr</item>
 		<item>pdd</item>
 		<item>pdd_1</item>
 		<item>peini</item>
@@ -984,6 +1002,7 @@
 		<item>telegram</item>
 		<item>telegram_x</item>
 		<item>telstra247</item>
+		<item>tencent_edu</item>
 		<item>tencent_filemanager</item>
 		<item>tencent_karaoke</item>
 		<item>tencent_maps</item>
@@ -1002,6 +1021,7 @@
 		<item>tide</item>
 		<item>tieyou</item>
 		<item>tim</item>
+		<item>timo</item>
 		<item>titaniumbackup</item>
 		<item>tmall</item>
 		<item>tmgp_cf</item>
@@ -1020,6 +1040,7 @@
 		<item>troye_sivan</item>
 		<item>tuchong</item>
 		<item>tumblr</item>
+		<item>turing_wallpaper</item>
 		<item>twitch</item>
 		<item>twitter</item>
 		<item>twrp</item>
@@ -1047,6 +1068,7 @@
 		<item>vk_compressed</item>
 		<item>vlc</item>
 		<item>vmall</item>
+		<item>vmos</item>
 		<item>voez</item>
 		<item>voice_tmall</item>
 		<item>vue</item>
