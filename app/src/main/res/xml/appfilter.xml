@@ -1548,7 +1548,6 @@
 		<item component="ComponentInfo{com.ustwo.monumentvalleyzz360/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
 		<item component="ComponentInfo{com.ustwo.monumentvalleyzz360/com.qiqiersan.sdk.QqesShellActivity}" drawable="monument" />
 		<item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" drawable="baimiao" />
-		<item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" drawable="baimiao" />
 		<item component="ComponentInfo{com.v.study/com.v.zy.mobile.activity.VZyJumpActivity}" drawable="hdzuoye"/>
 		<item component="ComponentInfo{com.v2ray.actinium/com.v2ray.actinium.ui.MainActivity}" drawable="actinium" />
 		<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2ray_ng" />
@@ -1827,9 +1826,12 @@
 		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magenetman"/>
 		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magnetman"/>
 		<item component="ComponentInfo{zmob.com.magnetman/zmob.com.magnetman.ui.main.MainActivity}" drawable="magnetman"/>
-	    <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
+		<item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
  		<item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="sony_headphones"/>
 
+ 		<item component="ComponentInfo{com.tencent.edu/com.tencent.edu.module.SplashActivity}" drawable="tencent_edu" />
+		<item component="ComponentInfo{com.fenqile.fenqile/com.fenqile.ui.home.HomeActivity}" drawable="fenqile" />
+		<item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="turing_wallpaper" />
 
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
