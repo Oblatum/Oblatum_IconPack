@@ -146,8 +146,10 @@
 		<item>browser</item>
 		<item>bsz</item>
 		<item>btkanba_player</item>
+		<item>bubblegum</item>
 		<item>bubeidanci</item>
 		<item>bullet_message</item>
+		<item>burn</item>
 		<item>business_calendar</item>
 		<item>buy_home</item>
 		<item>buyathome</item>
@@ -304,6 +306,7 @@
 		<item>explorer_Ssolid</item>
 		<item>facebook</item>
 		<item>faloo_bookreader</item>
+		<item>famijia</item>
 		<item>fasthub</item>
 		<item>faxianjc</item>
 		<item>feedly</item>
@@ -423,6 +426,7 @@
 		<item>googlecalendar_d9</item>
 		<item>googleplay</item>
 		<item>gotokeep</item>
+		<item>gravitybox_q</item>
 		<item>greenify</item>
 		<item>gta_sa</item>
 		<item>guangxinongxin</item>
@@ -459,6 +463,7 @@
 		<item>hsrj</item>
 		<item>ht_video</item>
 		<item>huawei_fans</item>
+		<item>huawei_hilink</item>
 		<item>huawei_smarthome</item>
 		<item>huihuaweijian</item>
 		<item>hupu</item>
@@ -592,6 +597,7 @@
 		<item>message_old</item>
 		<item>messenger_lite</item>
 		<item>metro</item>
+		<item>mi_control_center</item>
 		<item>mi_home</item>
 		<item>mi_router</item>
 		<item>miaomiaozhe</item>

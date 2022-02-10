@@ -21,30 +21,12 @@
 	<version>1</version>
 
 	<category title="New and Update" />
-		<item drawable="alook" />
-		<item drawable="brawl_stars" />
-		<item drawable="buy_home" />
-		<item drawable="ccplay_cc" />
-		<item drawable="duo_mobile" />
-		<item drawable="easi" />
-		<item drawable="fenqile" />
-		<item drawable="focusnote" />
-		<item drawable="google_one" />
-		<item drawable="google_podcasts" />
-		<item drawable="guazi" />
-		<item drawable="honeybee" />
-		<item drawable="jianying" />
-		<item drawable="kancn" />
-		<item drawable="lyft" />
-		<item drawable="meituan" />
-		<item drawable="mix" />
-		<item drawable="moon_fm" />
-		<item drawable="pcr" />
-		<item drawable="tencent_edu" />
-		<item drawable="timo" />
-		<item drawable="turing_wallpaper" />
-		<item drawable="vmos" />
-
+		<item drawable="bubblegum" />
+		<item drawable="burn" />
+		<item drawable="famijia" />
+		<item drawable="gravitybox_q" />
+		<item drawable="huawei_hilink" />
+		<item drawable="mi_control_center" />
 
 	<category title="Folders and Widgets" />
 		<item drawable="folder_masturbation" />
