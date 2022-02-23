@@ -32,7 +32,9 @@ with open(drawable_path, 'r') as f:
             groupNum = groupNum + 1
             array.append(item_template.format(icon_name=match.group(groupNum)))
 
+    array = list(dict.fromkeys(array))
     array.sort()
+
     file_content = file_template.format(array_item=str.join("", array)).strip()
 
 with open(iconpack_path, "w") as f:
