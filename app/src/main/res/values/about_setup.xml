@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <!--<item>#</item>-->
+        <item>https://img.vim-cn.com/83/c64aa72e10a8463078d4f9b62ca075ad049b0a.jpg</item>
+        <item>https://img.vim-cn.com/07/b3529b52f3de75312f8271465a0187874fff85.jpg</item>
+        <item>https://img.vim-cn.com/ac/a5d40c1acbb81803cd0877b8506f272d5655a0.jpg</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <!-- <item>请开发者们喝☕</item> -->
+        <item>PzHown</item>
+        <item>丁二 Butanediol</item>
+        <item>泽野键盘afglhg</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <!--  <item>让我们做得更好</item> -->
+        <item>这个人太懒，什么都没写</item>
+        <item>Electron 警察</item>
+        <item>糯米纸主要贡献者之一</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <!--  <item>多渠道方式（鸡护鸨、威信、扣扣）</item> -->
+        <item>酷安主页|微博</item>
+        <item>酷安主页|Twitter</item>
+        <item>酷安主页</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahir.dev/|https://twitter.com/jahirfiquitiva</item>
+        <!-- <item>http://image.coolapk.com/apk_image/2018/0925/21/1537871160412-166044-o_1co8g0hbg1ul5djgmvkjtgjcpq-uid-1102491@1080x2160.png</item> -->
+        <item>https://www.coolapk.com/u/464418|https://weibo.com/2110133364</item>
+        <item>https://www.coolapk.com/u/724972|https://twitter.com/TucaoLiuOnline</item>
+        <item>http://www.coolapk.com/u/1347187</item>
     </string-array>
 </resources>
