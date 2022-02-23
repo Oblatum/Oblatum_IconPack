@@ -1,30 +1,182 @@
-# Oblatum图标包
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
 
-[![](https://img.shields.io/badge/download-coolapk-brightgreen.svg)](https://www.coolapk.com/apk/com.oblatum.iconpack)
-![](https://img.shields.io/github/license/Oblatum/Oblatum_IconPack.svg)
-![](https://img.shields.io/badge/api-16+-green.svg)
-![](https://img.shields.io/badge/release-2.6.0-green.svg)
-![](https://img.shields.io/badge/icons-1082-orange.svg)
-[![Donate](https://img.shields.io/badge/donate-Alipay|WeChat|TenPay-blue.svg)](http://pay.hotapp.cn/25674636)
+Blueprint
+======
 
-> 这是一个基于[Blueprint](https://github.com/jahirfiquitiva/Blueprint)的图标包，现已在[酷安](https://www.coolapk.com/apk/com.oblatum.iconpack)、[应用宝](http://app.qq.com/#id=detail&appid=1106745030)、[PP助手](http://m.pp.cn/detail.html?appid=7872544&ch_src=pp_dev&ch=default)上架。
+![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
+[![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Blueprint?label=Blueprint&sort=semver)](https://github.com/jahirfiquitiva/Blueprint/releases/latest)
+[![Build Status](https://github.com/jahirfiquitiva/Blueprint/actions/workflows/build.yml/badge.svg?branch=sample)](https://github.com/jahirfiquitiva/Blueprint/actions/workflows/build.yml)
+[![Crowdin](https://badges.crowdin.net/blueprint/localized.svg)](https://crowdin.com/project/blueprint/invite)
+
+Free, feature-rich, easily customizable Android dashboard for icon packs
+
+<a target="_blank" href="http://bit.ly/DLBlueprintAPK">
+<img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
+</a>
+
+<a target="_blank" href="https://jahir.dev/donate/">
+<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
+</a>
+
+
+## Show some  :blue_heart:
+[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Blueprint.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Blueprint)
+[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Blueprint.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Blueprint/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Blueprint.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Blueprint)
+
+[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
 
 ---
-本仓库的内容主要是Oblatum图标包内的图标，并不是图标包程序本身，因此代码库主体采用CC BY4.0国际协议开源，/app/src/main/res/xml/drawable.xml中列出的所有图标文件采用CC BY-NC-ND 4.0国际协议开源。
 
+# Previews
 
-如果您有使用这些图标的需求，请与我们取得联系。
+### Home / Icons / Apply / Requests
+<p align="center">
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/1.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/2.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/4.png?maxAge=0" height="350"/>
+</p>
 
-MIUI主题授权：@麻豆时光
+### Wallpapers support (Based on [Frames](https://github.com/jahirfiquitiva/Frames)) / Templates support (Based on [Kuper](https://github.com/Kuper))
+<p align="center">
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/3.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/4.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Kuper/raw/master/art/5.png" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/6.png?maxAge=0" height="350"/>
+</p>
 
-![](https://img.shields.io/badge/chat-QQ-green.svg?longCache=true&style=social)
-![](https://img.shields.io/github/watchers/Oblatum/Oblatum_Iconpack.svg?style=social&label=Watch)
+### Help / Credits / Settings / Navigation Drawer
+<p align="center">
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/7.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/8.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/9.png?maxAge=0" height="350"/>
+<img src="https://github.com/jahirfiquitiva/Blueprint/raw/master/art/10.png?maxAge=0" height="350"/>
+</p>
 
-![1263097055@qq.com](https://img.shields.io/badge/Mail-PzHown-green.svg?longCache=true&style=social)
-![n872485238@gmail.com](https://img.shields.io/badge/Mail-直男不懂哲学-green.svg?longCache=true&style=social)
+---
 
+# Features:
+- Material Design dashboard.
+- License Checker.
+- Donations.
+- OneSignal notifications ready.
+- Support for adaptive icon packs (Additional improvements coming soon!)
+- In-app icon request tool
+- Premium Icon Requests (Coming soon!)
+- Support for [Arctic Manager](https://arcticmanager.com/)
+- Apply section with 20 supported launchers. (Other launchers might not support direct apply)
+- Help section, to answer the questions your users have.
+- Support for Zooper templates, Kustom Wallpapers, Widgets, Lockscreens and Komponents.
+- Cloud based (only) wallpapers.
+- App can work offline.
+- Wallpapers can be applied and downloaded.
+- Wallpapers include a full-screen viewer with zooming capabilities and detailed info viewer.
+- Credits section.
+- Settings section with these options:
+	- Option to change app theme (Light, Dark, System, AMOLED).
+	- Option to color navigation bar (Lollipop+).
+	- Option to clear app cache.
+- Tablet layouts.
+- Lots of customizations.
+- Works with Android 5.0 and newer.
 
-## LICENSE
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品主体采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
-</br>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品部分采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
+## Help translating
+:page_facing_up: Help making Blueprint available in more languages. [Click here to go to the translation site](https://crowdin.com/project/Blueprint/invite)
+
+## Changelog
+:radio_button: You can find it in the [Releases page](https://github.com/jahirfiquitiva/Blueprint/releases)
+
+---
+
+# Including in your project
+Blueprint is available via Maven, so getting it as simple as adding it as a dependency, like this:
+
+1. Add `MavenCentral` and `Jitpack` to your root `build.gradle` file
+```gradle
+allprojects {
+    repositories {
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+2. Add the dependency in your project `build.gradle` file
+```gradle
+dependencies {
+    implementation('dev.jahir:Blueprint:{latest version}@aar') {
+        transitive = true
+    }
+}
+```
+where `{latest version}` corresponds to published version in   [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Blueprint?label=Blueprint&sort=semver)](https://github.com/jahirfiquitiva/Blueprint/releases/latest)
+
+## How to implement
+:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Blueprint/wiki/)**
+
+## Still need help :question:
+Just join our Discord Server and make a post. We'll help you as soon as possible. [![Join chat on Discord](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/78h7xgj)
+
+### Check out [some cool apps](https://jahir.dev/blog/post-of-fame) built using this dashboard
+
+---
+
+# Developed by
+
+### [Jahir Fiquitiva](https://jahir.dev/)
+
+[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
+
+If you found this app/library helpful and want to thank me, you can:
+
+<a target="_blank" href="https://jahir.dev/donate/">
+<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
+</a>
+
+**Thanks in advance!** :pray:
+
+## Special thanks 🙌
+
+- [Eduardo Pratti](https://pratti.design/) 🎨
+- [Sherry Sabatine](http://www.ssabatinephotography.com/) 💵
+- [Allan Wang](https://www.allanwang.ca/) 💻
+- [James Fenn](https://theandroidmaster.github.io/) 🔌
+- [Maximilian Keppeler](https://twitter.com/maxKeppeler) 🔌
+- [Sasi Kanth](https://twitter.com/its_sasikanth) 🔌
+- [Alexandre Piveteau](https://github.com/alexandrepiveteau) 💻
+- [Lukas Koller](https://github.com/kollerlukas) 🔌
+- [Patryk Goworowski](https://twitter.com/pgoworowski) 🎨
+- [Lumiq Creative](https://lumiqcreative.com/) 🎨
+- [Jackson Hayes](https://jacksonhayes.xyz/) 📖
+- [Kevin Aguilar](https://twitter.com/kevttob) 🎨
+- [Anthony Nguyen](https://twitter.com/link6155) 🎨
+
+---
+
+# License
+
+This app is shared under the CreativeCommons Attribution-ShareAlike license.
+
+	Copyright © 2020 Jahir Fiquitiva
+
+	Licensed under the CreativeCommons Attribution-ShareAlike 
+	4.0 International License. You may not use this file except in compliance 
+	with the License. You may obtain a copy of the License at
+
+	   http://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+	Unless required by applicable law or agreed to in writing, software
+	distributed under the License is distributed on an "AS IS" BASIS,
+	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+	See the License for the specific language governing permissions and
+	limitations under the License.
+
+## Library source
+
+As you may know, the [library source](https://github.com/jahirfiquitiva/Blueprint/tree/master) is open-source. This means that you can fork it and do your own modifications, but it has some conditions:
+
+When using the [library source](https://github.com/jahirfiquitiva/Blueprint/tree/master), anything from it: errors, crashes, issues, etc. including successful builds, must be done completely by yourself and under your own risk and responsibility. I **will not** provide any help/support when using the [library source](https://github.com/jahirfiquitiva/Blueprint/tree/master).
+
+Finally, be sure your projects comply with the [license previously mentioned](https://github.com/jahirfiquitiva/Blueprint#license). Otherwise I will be taking the required legal actions. I hope you understand.
