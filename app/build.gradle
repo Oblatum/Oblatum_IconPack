@@ -31,7 +31,6 @@ apply plugin: 'kotlin-kapt'
 
 android {
     compileSdkVersion versions.targetSdk
-    buildToolsVersion versions.buildTools
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
