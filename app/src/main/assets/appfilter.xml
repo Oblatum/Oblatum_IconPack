@@ -1548,7 +1548,6 @@
 		<item component="ComponentInfo{com.ustwo.monumentvalleyzz360/com.idsky.android.impl.ui.IdskySplashActivity}" drawable="monument" />
 		<item component="ComponentInfo{com.ustwo.monumentvalleyzz360/com.qiqiersan.sdk.QqesShellActivity}" drawable="monument" />
 		<item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" drawable="baimiao" />
-		<item component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}" drawable="baimiao" />
 		<item component="ComponentInfo{com.v.study/com.v.zy.mobile.activity.VZyJumpActivity}" drawable="hdzuoye"/>
 		<item component="ComponentInfo{com.v2ray.actinium/com.v2ray.actinium.ui.MainActivity}" drawable="actinium" />
 		<item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2ray_ng" />
@@ -1827,10 +1826,19 @@
 		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magenetman"/>
 		<item component="ComponentInfo{zmob.cn.magnetman/zmob.cn.magnetman.ui.slash.SlashActivity}" drawable="magnetman"/>
 		<item component="ComponentInfo{zmob.com.magnetman/zmob.com.magnetman.ui.main.MainActivity}" drawable="magnetman"/>
-	    <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
+		<item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="class_163"/>
  		<item component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}" drawable="sony_headphones"/>
 
+ 		<item component="ComponentInfo{com.tencent.edu/com.tencent.edu.module.SplashActivity}" drawable="tencent_edu" />
+		<item component="ComponentInfo{com.fenqile.fenqile/com.fenqile.ui.home.HomeActivity}" drawable="fenqile" />
+		<item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="turing_wallpaper" />
 
+		<item component="ComponentInfo{com.dreamon.bubblegum/com.dreamon.bubblegum.activities.SplashActivity}" drawable="bubblegum" />
+		<item component="ComponentInfo{com.qjhcqaq.icons/cn.ommiao.iconpacktemplate.MainActivity}" drawable="burn" />
+		<item component="ComponentInfo{com.ceco.q.gravitybox/com.ceco.q.gravitybox.GravityBoxSettingsAlias}" drawable="gravitybox_q" />
+		<item component="ComponentInfo{com.huawei.mw/com.huawei.mw.plugin.guide.activity.IntroduceActivity}" drawable="huawei_hilink" />
+		<item component="ComponentInfo{com.treydev.micontrolcenter/com.treydev.shades.activities.SplashActivity}" drawable="mi_control_center" />
+		<item component="ComponentInfo{com.x2era.xcloud.app/com.x2era.xcloud.app.ui.home.welcome.WelcomeActivity}" drawable="famijia" />
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />

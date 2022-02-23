@@ -300,6 +300,8 @@
 		<item drawable="yyszs" />
 
 	<category title="All" /><!-- All icons here -->
+
+		
 		<item drawable="a_1more_assistant" />
 		<item drawable="a_1password_compressed" />
 		<item drawable="a_50yin" />
@@ -441,8 +443,10 @@
 		<item drawable="browser" />
 		<item drawable="bsz" />
 		<item drawable="btkanba_player" />
+		<item drawable="bubblegum" />
 		<item drawable="bubeidanci" />
 		<item drawable="bullet_message" />
+		<item drawable="burn" />
 		<item drawable="business_calendar" />
 		<item drawable="buy_home" />
 		<item drawable="buyathome" />
@@ -592,6 +596,7 @@
 		<item drawable="excel_1" />
 		<item drawable="facebook" />
 		<item drawable="faloo_bookreader" />
+		<item drawable="famijia" />
 		<item drawable="fasthub" />
 		<item drawable="faxianjc" />
 		<item drawable="feedly" />
@@ -679,6 +684,7 @@
 		<item drawable="googlecalendar" />
 		<item drawable="googleplay" />
 		<item drawable="gotokeep" />
+		<item drawable="gravitybox_q" />
 		<item drawable="greenify" />
 		<item drawable="gta_sa" />
 		<item drawable="guanzhi_meiriyiwen" />
@@ -713,6 +719,7 @@
 		<item drawable="hsrj" />
 		<item drawable="ht_video" />
 		<item drawable="huawei_fans" />
+		<item drawable="huawei_hilink" />
 		<item drawable="huawei_smarthome" />
 		<item drawable="huihuaweijian" />
 		<item drawable="hupu" />
@@ -829,6 +836,7 @@
 		<item drawable="message_1" />
 		<item drawable="messenger_lite" />
 		<item drawable="metro" />
+		<item drawable="mi_control_center" />
 		<item drawable="mi_home" />
 		<item drawable="mi_router" />
 		<item drawable="miaomiaozhe" />

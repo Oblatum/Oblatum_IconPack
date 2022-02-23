@@ -1833,6 +1833,12 @@
 		<item component="ComponentInfo{com.fenqile.fenqile/com.fenqile.ui.home.HomeActivity}" drawable="fenqile" />
 		<item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="turing_wallpaper" />
 
+		<item component="ComponentInfo{com.dreamon.bubblegum/com.dreamon.bubblegum.activities.SplashActivity}" drawable="bubblegum" />
+		<item component="ComponentInfo{com.qjhcqaq.icons/cn.ommiao.iconpacktemplate.MainActivity}" drawable="burn" />
+		<item component="ComponentInfo{com.ceco.q.gravitybox/com.ceco.q.gravitybox.GravityBoxSettingsAlias}" drawable="gravitybox_q" />
+		<item component="ComponentInfo{com.huawei.mw/com.huawei.mw.plugin.guide.activity.IntroduceActivity}" drawable="huawei_hilink" />
+		<item component="ComponentInfo{com.treydev.micontrolcenter/com.treydev.shades.activities.SplashActivity}" drawable="mi_control_center" />
+		<item component="ComponentInfo{com.x2era.xcloud.app/com.x2era.xcloud.app.ui.home.welcome.WelcomeActivity}" drawable="famijia" />
 
 		<item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
 		<item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" xml="calendar" />
