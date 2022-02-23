@@ -35,7 +35,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
+        return null
+        // return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
     }
 
     override fun defaultTheme(): Int = R.style.MyApp_Default
